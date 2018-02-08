@@ -1,0 +1,44 @@
+{
+  "name": "vi-data",
+  "version": "0.1.0",
+  "description": "api for ncaa basketball players, teams, and stats",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run lib-build && npm run",
+    "clean": "rimraf dist lib",
+    "lib-build": "babel src --out-dir lib",
+    "prebuild": "npm run clean",
+    "prestart": "rm -Rf node_modules && yarn install",
+    "start": "npm run build && node lib/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpfled/vi-data.git"
+  },
+  "keywords": [
+    "data",
+    "illini"
+  ],
+  "author": "Zach Pflederer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zpfled/vi-data/issues"
+  },
+  "homepage": "https://github.com/zpfled/vi-data#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-require-ignore": "^0.1.1",
+    "babel-plugin-transform-strict-mode": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "dotenv": "^4.0.0",
+    "lodash": "^4.17.4",
+    "rimraf": "^2.6.2",
+    "twit": "^2.2.9"
+  }
+}
