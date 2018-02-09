@@ -7,10 +7,12 @@
     "build": "npm run lib-build && npm run",
     "clean": "rimraf dist lib",
     "lib-build": "babel src --out-dir lib",
+    "lint": "eslint server ; exit 0",
     "prebuild": "npm run clean",
-    "prestart": "rm -Rf node_modules && yarn install",
-    "start": "npm run build && node lib/index.js",
-    "test": "test"
+    "prestart": "dropdb --if-exists vi_data_dev && createdb vi_data_dev && rm -Rf node_modules && yarn install",
+    "pretest": "dropdb --if-exists vi_data_test && createdb vi_data_test",
+    "start": "export NODE_ENV=development npm run build && node lib/index.js",
+    "test": "export NODE_ENV=test && ./node_modules/.bin/mocha -R spec 'test/**/**.test.js'"
   },
   "repository": {
     "type": "git",
@@ -37,7 +39,29 @@
     "babel-register": "^6.26.0",
     "bluebird": "^3.5.1",
     "lodash": "^4.17.4",
+    "pg": "^7.4.1",
     "rimraf": "^2.6.2",
-    "sequelize": "^4.33.0"
+    "sequelize": "^4.33.0",
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
+    "helmet": "^3.1.0",
+    "jsonwebtoken": "^7.1.9",
+    "pg-hstore": "^2.3.2",
+    "sequelize-cli": "^2.4.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "mocha": "^3.2.0",
+    "morgan": "^1.7.0",
+    "supertest": "^2.0.1"
   }
 }

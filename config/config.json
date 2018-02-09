@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "zachpflederer",
+    "password": null,
+    "database": "vi_data_dev",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zachpflederer",
+    "password": null,
+    "database": "vi_data_test",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "port": "",
+    "dialect": ""
+  }
+}
