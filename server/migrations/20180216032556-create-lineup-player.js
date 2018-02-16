@@ -10,11 +10,21 @@ module.exports = {
 			},
 			lineupId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				references: {
+					model: 'Lineups',
+					key: 'id',
+					as: 'lineupId',
+				},
 			},
 			playerId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				references: {
+					model: 'Players',
+					key: 'id',
+					as: 'playerId',
+				},
 			},
 			starter: {
 				type: Sequelize.BOOLEAN,

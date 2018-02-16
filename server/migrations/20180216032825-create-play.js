@@ -10,7 +10,12 @@ module.exports = {
 			},
 			gameId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				references: {
+					model: 'Games',
+					key: 'id',
+					as: 'gameId',
+				},
 			},
 			period: {
 				type: Sequelize.INTEGER,
@@ -25,7 +30,12 @@ module.exports = {
 			},
 			playerId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				references: {
+					model: 'Players',
+					key: 'id',
+					as: 'playerId',
+				},
 			},
 			stat: {
 				type: Sequelize.STRING,

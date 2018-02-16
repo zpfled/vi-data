@@ -10,15 +10,33 @@ module.exports = {
 			},
 			awayTeamId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				onDelete: 'CASCADE',
+				references: {
+					model: 'Teams',
+					key: 'id',
+					as: 'awayTeamId',
+				},
 			},
 			homeTeamId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				onDelete: 'CASCADE',
+				references: {
+					model: 'Teams',
+					key: 'id',
+					as: 'homeTeamId',
+				},
 			},
 			seasonId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				onDelete: 'CASCADE',
+				references: {
+					model: 'Seasons',
+					key: 'id',
+					as: 'seasonId',
+				},
 			},
 			neutral: {
 				type: Sequelize.BOOLEAN

@@ -18,7 +18,12 @@ module.exports = {
 			},
 			teamId: {
 				type: Sequelize.INTEGER,
-				allowNull: false
+				allowNull: false,
+				references: {
+					model: 'Teams',
+					key: 'id',
+					as: 'teamId',
+				},
 			},
 			height: {
 				type: Sequelize.STRING
