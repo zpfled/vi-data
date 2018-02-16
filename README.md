@@ -2,8 +2,11 @@
 
 API for Illinois Men's Basketball stats.
 
-## Setup 
+## Table of contents
+1. [Database](docs/database.md)
 
+
+## Setup 
 
 * [PostgreSQL](https://www.postgresql.org/)
 * [Sequelize](http://docs.sequelizejs.com/en/v3/)

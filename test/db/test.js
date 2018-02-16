@@ -1,5 +1,5 @@
 // import db from '../../src/db/config';
-const db = require('../../src/db/config');
+const db = require('../../db/config');
 
 db.authenticate()
 	.then(() => console.log('Connection has been established successfully.'))

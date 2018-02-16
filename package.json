@@ -12,6 +12,7 @@
     "prestart": "dropdb --if-exists vi_data_dev && createdb vi_data_dev && rm -Rf node_modules && yarn install",
     "pretest": "dropdb --if-exists vi_data_test && createdb vi_data_test",
     "start": "export NODE_ENV=development npm run build && node lib/index.js",
+    "start:dev": "export NODE_ENV=development npm run build && nodemon lib/index.js",
     "test": "export NODE_ENV=test && ./node_modules/.bin/mocha -R spec 'test/**/**.test.js'"
   },
   "repository": {
@@ -39,10 +40,10 @@
     "babel-register": "^6.26.0",
     "bcrypt": "^0.8.7",
     "bluebird": "^3.5.1",
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.18.2",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
-    "express": "^4.14.0",
+    "express": "^4.16.2",
     "express-jwt": "^5.1.0",
     "helmet": "^3.1.0",
     "jsonwebtoken": "^7.1.9",
@@ -50,8 +51,7 @@
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
     "rimraf": "^2.6.2",
-    "sequelize": "^4.33.0",
-    "sequelize-cli": "^2.4.0"
+    "sequelize": "^4.33.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -61,7 +61,8 @@
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.7.1",
     "mocha": "^3.2.0",
-    "morgan": "^1.7.0",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.15.0",
     "supertest": "^2.0.1"
   }
 }

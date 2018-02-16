@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 
-const helpers = require('../../src/utils/helpers');
+const helpers = require('../../server/utils/helpers');
 
 describe('[Helpers] Unit Test - validateStringLength', () => {
   it('returns give error if input length > limit', () => {
