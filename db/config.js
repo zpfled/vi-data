@@ -1,4 +1,3 @@
-// import Sequelize from 'sequelize';
 const Sequelize = require('sequelize');
 
 const database = 'vi_data_dev';
@@ -8,6 +7,10 @@ const host = 'localhost';
 
 const db = new Sequelize(database, username, password, {
 	host,
+	define: {
+		underscored: false,
+		timestamps: true
+	},
 	dialect: 'postgres',
 	pool: {
 		max: 5,
@@ -18,4 +21,3 @@ const db = new Sequelize(database, username, password, {
 });
 
 module.exports = db;
-// export default db

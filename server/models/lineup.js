@@ -1,10 +1,13 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  var Lineup = sequelize.define('Lineup', {
-    starting: DataTypes.BOOLEAN
-  }, {});
-  Lineup.associate = function(models) {
-    // associations can be defined here
-  };
-  return Lineup;
+	const Lineup = sequelize.define('Lineup', {
+		starting: DataTypes.BOOLEAN
+	}, {});
+
+	//associations
+	Lineup.associate = function (models) {
+		Lineup.belongsToMany(models.Player, { through: 'LineupPlayer' });
+	};
+
+	return Lineup;
 };

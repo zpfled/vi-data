@@ -12,37 +12,46 @@ module.exports = {
 				type: Sequelize.INTEGER,
 				allowNull: false,
 				onDelete: 'CASCADE',
-				references: {
-					model: 'Teams',
-					key: 'id',
-					as: 'awayTeamId',
-				},
+				// references: {
+				// 	model: 'Teams',
+				// 	key: 'id',
+				// 	as: 'awayTeamId',
+				// },
 			},
 			homeTeamId: {
 				type: Sequelize.INTEGER,
 				allowNull: false,
 				onDelete: 'CASCADE',
-				references: {
-					model: 'Teams',
-					key: 'id',
-					as: 'homeTeamId',
-				},
+				// references: {
+				// 	model: 'Teams',
+				// 	key: 'id',
+				// 	as: 'homeTeamId',
+				// },
 			},
 			seasonId: {
 				type: Sequelize.INTEGER,
 				allowNull: false,
 				onDelete: 'CASCADE',
-				references: {
-					model: 'Seasons',
-					key: 'id',
-					as: 'seasonId',
-				},
+				// references: {
+				// 	model: 'Seasons',
+				// 	key: 'id',
+				// 	as: 'seasonId',
+				// },
+			},
+			conference: {
+				type: Sequelize.BOOLEAN
+			},
+			date: {
+				type: Sequelize.DATE
 			},
 			neutral: {
 				type: Sequelize.BOOLEAN
 			},
 			postSeason: {
 				type: Sequelize.BOOLEAN
+			},
+			time: {
+				type: Sequelize.TIME
 			},
 			createdAt: {
 				allowNull: false,

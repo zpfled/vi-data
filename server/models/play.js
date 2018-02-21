@@ -1,17 +1,19 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  var Play = sequelize.define('Play', {
-    gameId: DataTypes.INTEGER,
-    period: DataTypes.INTEGER,
-    description: DataTypes.TEXT,
-    clock: DataTypes.STRING,
-    playerId: DataTypes.INTEGER,
-    stat: DataTypes.STRING,
-    awayScore: DataTypes.NUMBER,
-    homeScore: DataTypes.NUMBER
-  }, {});
-  Play.associate = function(models) {
-    // associations can be defined here
-  };
-  return Play;
+	const Play = sequelize.define('Play', {
+		period: DataTypes.INTEGER,
+		description: DataTypes.TEXT,
+		clock: DataTypes.STRING,
+		stat: DataTypes.STRING,
+		awayScore: DataTypes.INTEGER,
+		homeScore: DataTypes.INTEGER
+	}, {});
+
+	// associations can be defined here
+	Play.associate = function (models) {
+		Play.belongsTo(models.Game);
+		Play.belongsTo(models.Player);
+	};
+
+	return Play;
 };

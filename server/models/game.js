@@ -1,14 +1,19 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  var Game = sequelize.define('Game', {
-    awayTeamId: DataTypes.INTEGER,
-    homeTeamId: DataTypes.INTEGER,
-    seasonId: DataTypes.INTEGER,
-    neutral: DataTypes.BOOLEAN,
-    postSeason: DataTypes.BOOLEAN
-  }, {});
-  Game.associate = function(models) {
-    // associations can be defined here
-  };
-  return Game;
+	const Game = sequelize.define('Game', {
+		conference: DataTypes.BOOLEAN,
+		date: DataTypes.DATE,
+		neutral: DataTypes.BOOLEAN,
+		postSeason: DataTypes.BOOLEAN,
+		time: DataTypes.TIME,
+	}, {});
+
+	//associations
+	Game.associate = function (models) {
+		Game.belongsTo(models.Team, { as: 'awayTeam' });
+		Game.belongsTo(models.Team, { as: 'homeTeam' });
+		Game.belongsTo(models.Season);
+	};
+
+	return Game;
 };

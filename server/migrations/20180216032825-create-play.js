@@ -11,11 +11,11 @@ module.exports = {
 			gameId: {
 				type: Sequelize.INTEGER,
 				allowNull: false,
-				references: {
-					model: 'Games',
-					key: 'id',
-					as: 'gameId',
-				},
+				// references: {
+				// 	model: 'Games',
+				// 	key: 'id',
+				// 	as: 'gameId',
+				// },
 			},
 			period: {
 				type: Sequelize.INTEGER,
@@ -31,22 +31,22 @@ module.exports = {
 			playerId: {
 				type: Sequelize.INTEGER,
 				allowNull: false,
-				references: {
-					model: 'Players',
-					key: 'id',
-					as: 'playerId',
-				},
+				// references: {
+				// 	model: 'Players',
+				// 	key: 'id',
+				// 	as: 'playerId',
+				// },
 			},
 			stat: {
 				type: Sequelize.STRING,
 				allowNull: false
 			},
 			awayScore: {
-				type: Sequelize.NUMBER,
+				type: Sequelize.INTEGER,
 				allowNull: false
 			},
 			homeScore: {
-				type: Sequelize.NUMBER,
+				type: Sequelize.INTEGER,
 				allowNull: false
 			},
 			createdAt: {
