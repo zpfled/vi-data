@@ -1,6 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-	const Game = sequelize.define('Game', {
+	const Game = sequelize.define('game', {
 		conference: DataTypes.BOOLEAN,
 		date: DataTypes.DATE,
 		neutral: DataTypes.BOOLEAN,
@@ -10,9 +10,9 @@ module.exports = (sequelize, DataTypes) => {
 
 	//associations
 	Game.associate = function (models) {
-		Game.belongsTo(models.Team, { as: 'awayTeam' });
-		Game.belongsTo(models.Team, { as: 'homeTeam' });
-		Game.belongsTo(models.Season);
+		Game.belongsTo(models.Team, { as: 'awayTeam', foreignKey: 'awayTeamId' });
+		Game.belongsTo(models.Team, { as: 'homeTeam', foreignKey: 'homeTeamId' });
+		Game.belongsTo(models.Season, { as: 'season', foreignKey: 'seasonId' });
 	};
 
 	return Game;

@@ -1,6 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-	const Play = sequelize.define('Play', {
+	const Play = sequelize.define('play', {
 		period: DataTypes.INTEGER,
 		description: DataTypes.TEXT,
 		clock: DataTypes.STRING,

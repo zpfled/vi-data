@@ -1,3 +1,4 @@
+//TODO: delete this
 const config = {
   dev: 'development',
   test: 'test',
