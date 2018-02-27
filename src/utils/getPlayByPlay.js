@@ -3,6 +3,7 @@ let request = require('request');
 let cheerio = require('cheerio');
 let moment = require('moment');
 let numeral = require('numeral');
+let fs = require('fs');
 
 let thisTeamUrlName = 'illinois'
 let scheduleUrl = ['https://www.ncaa.com/schools', thisTeamUrlName, 'basketball-men'].join('/')
@@ -58,9 +59,9 @@ request(scheduleUrl, function (err, response, html) {
                     //     console.log('Requested play-by-play json from: ', pbpUrl)    
                     //     console.log('status code: ', response.statusCode, '\n')
                     // };
-                    console.log('Requested play-by-play json from: ', pbpUrl)    
-                    console.log('status code: ', response.statusCode, '\n')
-                });
+                    console.log('Requested play-by-play json from: ', pbpUrl);  
+                    console.log('status code: ', response.statusCode, '\n');
+                }).pipe(fs.createWriteStream([year, month, day, awayTeam + '-' + homeTeam, 'pbp.json'].join('-')));
             }
         }
     });
