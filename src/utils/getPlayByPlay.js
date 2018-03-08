@@ -36,6 +36,11 @@ request(scheduleUrl, function (err, response, html) {
                 homeTeam = opponentUrlName
                 awayTeam = thisTeamUrlName
             }
+            // hack date for unlv night game
+            if (opponentUrlName == 'unlv') {
+                day = numeral(date.date()+1).format('00')
+            }
+
             let pbpUrlArray = ['https://data.ncaa.com/jsonp/game/basketball-men/d1', year, month, day, awayTeam + '-' + homeTeam, 'pbp.json'];
             let pbpUrl = pbpUrlArray.join('/')
 
