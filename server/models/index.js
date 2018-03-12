@@ -7,7 +7,6 @@ const db = require('../../db/config');
 
 const MODELS = [
 	'Game',
-	'Lineup',
 	'Play',
 	'Player',
 	'Season',
