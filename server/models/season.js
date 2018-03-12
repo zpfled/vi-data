@@ -6,7 +6,7 @@ module.exports = (sequelize, DataTypes) => {
 	}, {});
 
 	Season.associate = function (models) {
-		Season.hasMany(models.Game, { as: 'season', foreignKey: 'seasonId' });
+		Season.hasMany(models.Game, { as: 'Games' });
 	};
 
 	return Season;

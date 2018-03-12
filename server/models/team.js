@@ -8,8 +8,8 @@ module.exports = (sequelize, DataTypes) => {
 	// associations
 	Team.associate = function (models) {
 		Team.hasMany(models.Player);
-		Team.hasMany(models.Game, { as: 'homeTeam', foreignKey: 'homeTeamId' });
-		Team.hasMany(models.Game, { as: 'awayTeam', foreignKey: 'awayTeamId' });
+		Team.hasMany(models.Game, { as: 'HomeGames', foreignKey: 'homeTeamId' });
+		Team.hasMany(models.Game, { as: 'AwayGames', foreignKey: 'awayTeamId' });
 	};
 
 	return Team;
