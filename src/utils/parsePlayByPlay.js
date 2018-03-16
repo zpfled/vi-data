@@ -38,37 +38,56 @@ function parsePlayScore(play) {
 }
 
 
-function parsePlayText() {
+function parsePlayText(play) {
 
-    if (string.includes('two point')) {
+    let text;
+    if (play.homeText) {
+        text = play.homeText
+    } else if (play.visitorText) {
+        text = play.visitorText
+    }
+
+
+    let parsedPlay = new Object();
+    if (text.includes('two point')) {
+        parsedPlay.description = 'two point'
         
-    } else if (string.includes('three point')) {
+    } else if (text.includes('three point')) {
+        parsedPlay.description = 'three point'
 
-    } else if (string.includes('three point')) {
+    } else if (text.includes('free throw')) {
+        parsedPlay.description = 'free throw'
 
-    } else if (string.includes('free throw')) {
+    } else if (text.includes('assist')) {
+        parsedPlay.description = 'assist'
 
-    } else if (string.includes('assist')) {
+    } else if (text.includes('defensive rebound')) {
+        parsedPlay.description = 'defensive rebound'
 
-    } else if (string.includes('defensive rebound')) {
+    } else if (text.includes('offensive rebound')) {
+        parsedPlay.description = 'offensive rebound'
 
-    } else if (string.includes('offensive rebound')) {
+    } else if (text.includes('turnover')) {
+        parsedPlay.description = 'turnover'
 
-    } else if (string.includes('turnover')) {
+    } else if (text.includes('steal')) {
+        parsedPlay.description = 'steal'
 
-    } else if (string.includes('steal')) {
+    } else if (text.includes('block')) {
+        parsedPlay.description = 'block'
 
-    } else if (string.includes('block')) {
+    } else if (text.includes('offensive foul')) {
+        parsedPlay.description = 'offensive foul'
 
-    } else if (string.includes('offensive foul')) {
+    } else if (text.includes('shooting foul')) {
+        parsedPlay.description = 'shooting foul'
 
-    } else if (string.includes('shooting foul')) {
-
-    } else if (string.includes('personal foul')) {
+    } else if (text.includes('personal foul')) {
+        parsedPlay.description = 'personal foul'
 
     }
     
-    return description, player
+    return parsedPlay
 }
 
 // read files in specified directory (assume it contains only the relevant JSONs)
@@ -78,14 +97,12 @@ fs.readdirSync(dir).forEach(file => {
         console.log(full_path)
         let rawdata = fs.readFileSync(full_path);
         let playByPlay = JSON.parse(rawdata.slice(16,-2));
-        // for (var key in playByPlay.periods) {
-        //     console.log(playByPlay.periods[key].playStats)
-        //     console.log('\n')
         for (let i_period in playByPlay.periods) {
             for (let i_play=0; i_play<playByPlay.periods[i_period].playStats.length; i_play++) {
                 let play = playByPlay.periods[i_period].playStats[i_play]
                 let scoreArray = parsePlayScore(play)
-                let db_entry = [parseInt(i_period)+1, play.time, scoreArray[0], scoreArray[0]]
+                let parsedPlay = parsePlayText(play)
+                let db_entry = [parseInt(i_period)+1, play.time, scoreArray[0], scoreArray[0], parsedPlay.description]
                 console.log(db_entry)
             }
         }
