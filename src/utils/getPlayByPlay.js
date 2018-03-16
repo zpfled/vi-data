@@ -48,22 +48,6 @@ request(scheduleUrl, function (err, response, html) {
             if (date.isBefore(moment())) {
                 request(pbpUrl, { json: true }, (err, response, body) => {
                     if (err) { return console.log(err); }
-                    // if (response.statusCode == 404) {
-                    //     console.log('Requested play-by-play json from: ', pbpUrl) 
-                    //     console.log('status code: ', response.statusCode)
-                    //     console.log('Attempting to increment date by one day...')
-                    //     day = numeral(date.date()+1).format('00')
-                    //     pbpUrlArray = ['https://data.ncaa.com/jsonp/game/basketball-men/d1', year, month, day, awayTeam + '-' + homeTeam, 'pbp.json'];
-                    //     pbpUrl = pbpUrlArray.join('/')
-                    //     request(pbpUrl, { json: true }, (err, response, body) => {
-                    //         console.log('Requested play-by-play json from: ', pbpUrl)
-                    //         console.log('status code: ', response.statusCode, '\n')
-                    //     });
-                    // }
-                    // else {
-                    //     console.log('Requested play-by-play json from: ', pbpUrl)    
-                    //     console.log('status code: ', response.statusCode, '\n')
-                    // };
                     console.log('Requested play-by-play json from: ', pbpUrl);  
                     console.log('status code: ', response.statusCode, '\n');
                 }).pipe(fs.createWriteStream([year, month, day, awayTeam + '-' + homeTeam, 'pbp.json'].join('-')));
