@@ -1,0 +1,1921 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Rutgers vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2631",
+				"seoName": "rutgers",
+				"sixCharAbbr": "RUTGER",
+				"shortName": "Rutgers",	
+				"nickName": "Scarlet Knights",		
+				"color": "#d21034"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols vs. Deshawn Freeman (Eugene Omoruyi gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Jump ball. Deshawn Freeman vs. Leron Black (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman turnover (lost ball) (Leron Black steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:24",
+							 "visitorText":"Leron Black misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:09",
+							 "visitorText":"Leron Black makes two point turnaround jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-3",
+							 "time":"18:50",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes three point jump shot (Jake Dadika assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:25",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Mark Alstork shooting foul (Deshawn Freeman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"18:16",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"",
+							 "homeText":"Mike Williams personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"4-4",
+							 "time":"18:00",
+							 "visitorText":"Kipper Nichols makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-6",
+							 "time":"17:46",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes two point reverse layup (Mike Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"Leron Black misses two point turnaround hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman defensive rebound"
+							 },
+							 {
+							 "score":"4-8",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Mike Williams makes two point layup (Corey Sanders assists)"
+							 },
+							 {
+							 "score":"6-8",
+							 "time":"16:44",
+							 "visitorText":"Leron Black makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"Greg Eboigbodin personal foul (Mike Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"",
+							 "homeText":"Geo Baker misses three point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:45",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:43",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"Trent Frazier misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"",
+							 "homeText":"Shaquille Doorson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:37",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:14",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-8",
+							 "time":"13:59",
+							 "visitorText":"Aaron Jordan makes three point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"Greg Eboigbodin shooting foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights rebound (deadball)"
+							 },
+							 {
+							 "score":"9-9",
+							 "time":"13:44",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"11-9",
+							 "time":"13:22",
+							 "visitorText":"Michael Finke makes two point layup (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"Te'Jon Lucas personal foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"",
+							 "homeText":"Geo Baker misses two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"",
+							 "homeText":"Issa Thiam personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:25",
+							 "visitorText":"",
+							 "homeText":"Issa Thiam personal foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"Aaron Jordan turnover (bad pass) (Corey Sanders steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:03",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-9",
+							 "time":"11:49",
+							 "visitorText":"Aaron Jordan makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Leron Black personal foul (Geo Baker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"",
+							 "homeText":"Geo Baker turnover (bad pass) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"15-9",
+							 "time":"11:33",
+							 "visitorText":"Mark Alstork makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-11",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes two point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Leron Black misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"",
+							 "homeText":"Mike Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:45",
+							 "visitorText":"",
+							 "homeText":"Mike Williams turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:44",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"Te'Jon Lucas turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-13",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Michael Finke shooting foul (Deshawn Freeman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-14",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"18-14",
+							 "time":"10:01",
+							 "visitorText":"Trent Frazier makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders offensive rebound"
+							 },
+							 {
+							 "score":"18-16",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes two point dunk (Corey Sanders assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"21-16",
+							 "time":"9:04",
+							 "visitorText":"Michael Finke makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-19",
+							 "time":"8:46",
+							 "visitorText":"",
+							 "homeText":"Mike Williams makes three point jump shot (Geo Baker assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"Shaquille Doorson blocks Michael Finke's two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Mike Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Deshawn Freeman steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"",
+							 "homeText":"Geo Baker turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika shooting foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-19",
+							 "time":"7:44",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"Da'Monte Williams misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Leron Black misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:58",
+							 "visitorText":"",
+							 "homeText":"Geo Baker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:54",
+							 "visitorText":"Da'Monte Williams personal foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-20",
+							 "time":"6:54",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"22-21",
+							 "time":"6:54",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"24-21",
+							 "time":"6:30",
+							 "visitorText":"Michael Finke makes two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"25-21",
+							 "time":"6:30",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:11",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork blocks Deshawn Freeman's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman offensive rebound"
+							 },
+							 {
+							 "score":"25-23",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Leron Black shooting foul (Deshawn Freeman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-24",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:52",
+							 "visitorText":"Te'Jon Lucas turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-26",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"26-26",
+							 "time":"5:31",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-26",
+							 "time":"5:31",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"",
+							 "homeText":"Geo Baker turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Geo Baker personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"28-26",
+							 "time":"5:20",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Mark Alstork misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Mike Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin blocks Mike Williams's two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"",
+							 "homeText":"Geo Baker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Te'Jon Lucas misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Michael Finke misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Shaquille Doorson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"Geo Baker turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"31-26",
+							 "time":"3:32",
+							 "visitorText":"Aaron Jordan makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-28",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes two point finger roll layup (Corey Sanders assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Michael Finke offensive foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Michael Finke turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Mark Alstork shooting foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-28",
+							 "time":"2:21",
+							 "visitorText":"Da'Monte Williams makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"Trent Frazier misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:41",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:39",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:47",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman personal foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"34-28",
+							 "time":"00:47",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-28",
+							 "time":"00:47",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Kipper Nichols personal foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-29",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"35-30",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:07",
+							 "visitorText":"Eugene Omoruyi blocks Da'Monte Williams's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Mike Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Scarlet Knights"
+							 },
+							 {
+							 "score":"35-32",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Leron Black offensive foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Leron Black turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Te'Jon Lucas shooting foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-33",
+							 "time":"18:50",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"35-34",
+							 "time":"18:50",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:39",
+							 "visitorText":"Kipper Nichols misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:18",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"Deshawn Freeman blocks Trent Frazier's two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders defensive rebound"
+							 },
+							 {
+							 "score":"35-36",
+							 "time":"18:03",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes two point driving layup (Deshawn Freeman assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Michael Finke misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Michael Finke misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Kipper Nichols personal foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"Da'Monte Williams personal foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:15",
+							 "visitorText":"",
+							 "homeText":"Mike Williams turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"16:57",
+							 "visitorText":"Trent Frazier makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi offensive foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi turnover"
+							 },
+							 {
+							 "score":"41-36",
+							 "time":"16:31",
+							 "visitorText":"Michael Finke makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:10",
+							 "visitorText":"",
+							 "homeText":"Issa Thiam turnover (back court violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders defensive rebound"
+							 },
+							 {
+							 "score":"41-38",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Trent Frazier shooting foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Geo Baker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"",
+							 "homeText":"Geo Baker turnover (carrying)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-38",
+							 "time":"14:41",
+							 "visitorText":"Te'Jon Lucas makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:25",
+							 "visitorText":"",
+							 "homeText":"Geo Baker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-38",
+							 "time":"14:17",
+							 "visitorText":"Aaron Jordan makes two point driving hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-40",
+							 "time":"13:50",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"Aaron Jordan turnover (bad pass) (Deshawn Freeman steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Trent Frazier misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Shaquille Doorson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Mark Alstork personal foul (Mike Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Trent Frazier personal foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Trent Frazier shooting foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman shooting foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"46-40",
+							 "time":"11:15",
+							 "visitorText":"Aaron Jordan makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-40",
+							 "time":"11:15",
+							 "visitorText":"Aaron Jordan makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-40",
+							 "time":"11:15",
+							 "visitorText":"Aaron Jordan makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-43",
+							 "time":"10:58",
+							 "visitorText":"",
+							 "homeText":"Mike Williams makes three point jump shot (Corey Sanders assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:36",
+							 "visitorText":"Jump ball. Leron Black vs. Mike Williams (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"Aaron Jordan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:16",
+							 "visitorText":"Te'Jon Lucas turnover (bad pass) (Mike Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-45",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes two point dunk (Mike Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"50-45",
+							 "time":"9:47",
+							 "visitorText":"Leron Black makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"Te'Jon Lucas personal foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-46",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-47",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Geo Baker personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"53-47",
+							 "time":"9:22",
+							 "visitorText":"Leron Black makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-49",
+							 "time":"9:00",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes two point floating jump shot (Jake Dadika assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:00",
+							 "visitorText":"Te'Jon Lucas shooting foul (Eugene Omoruyi draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-50",
+							 "time":"9:00",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"55-50",
+							 "time":"8:50",
+							 "visitorText":"Michael Finke makes two point alley-oop layup (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-52",
+							 "time":"8:34",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure makes two point dunk (Eugene Omoruyi assists)"
+							 },
+							 {
+							 "score":"58-52",
+							 "time":"8:23",
+							 "visitorText":"Leron Black makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"Leron Black shooting foul (Mamadou Doucoure draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-53",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-53",
+							 "time":"7:39",
+							 "visitorText":"Michael Finke makes two point reverse layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"61-53",
+							 "time":"7:18",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-53",
+							 "time":"7:18",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders turnover (lost ball) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"63-53",
+							 "time":"6:46",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-53",
+							 "time":"6:46",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses three point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"Kipper Nichols misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:26",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Deshawn Freeman steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"Trent Frazier personal foul (Deshawn Freeman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-54",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"64-55",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Scarlet Knights 30 second timeout"
+							 },
+							 {
+							 "score":"66-55",
+							 "time":"4:55",
+							 "visitorText":"Te'Jon Lucas makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Mike Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"",
+							 "homeText":"Mamadou Doucoure offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"Mark Alstork personal foul (Corey Sanders draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-56",
+							 "time":"4:32",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"",
+							 "homeText":"Deshawn Freeman personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"Kipper Nichols misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-56",
+							 "time":"4:04",
+							 "visitorText":"Aaron Jordan makes two point alley-oop layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Geo Baker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Mike Williams offensive rebound"
+							 },
+							 {
+							 "score":"68-58",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"Mike Williams makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball) (Eugene Omoruyi steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Corey Sanders misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:43",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi turnover (lost ball) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"Eugene Omoruyi blocks Leron Black's two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:15",
+							 "visitorText":"",
+							 "homeText":"Issa Thiam shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"69-58",
+							 "time":"2:15",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-58",
+							 "time":"2:15",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"Trent Frazier misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"Aaron Jordan personal foul (Jake Dadika draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-59",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"70-60",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"73-60",
+							 "time":"00:54",
+							 "visitorText":"Trent Frazier makes three point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Eugene Omoruyi personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"74-60",
+							 "time":"00:39",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-60",
+							 "time":"00:39",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Jake Dadika misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"",
+							 "homeText":"Matt Bullock offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:07",
+							 "visitorText":"",
+							 "homeText":"Matt Bullock misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"Issa Thiam offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Mark Alstork personal foul (Matt Bullock draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-61",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"Matt Bullock makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"75-62",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"Matt Bullock makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

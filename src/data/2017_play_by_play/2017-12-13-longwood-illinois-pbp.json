@@ -1,0 +1,1969 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Longwood",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "787",
+				"seoName": "longwood",
+				"sixCharAbbr": "LONGWD",
+				"shortName": "Longwood",	
+				"nickName": "Lancers",		
+				"color": "#1a5595"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"19:59",
+							 "visitorText":"",
+							 "homeText":"(Fighting Illini gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:41",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot (Aaron Jordan assists)"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"19:28",
+							 "visitorText":"Byron Ashe makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"18:47",
+							 "visitorText":"JaShaun Smith makes three point jump shot (Chris Shields assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:17",
+							 "visitorText":"Jahleem Montague defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:17",
+							 "visitorText":"Isaiah Walton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"Lancers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Jahleem Montague misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"5-6",
+							 "time":"18:01",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:26",
+							 "visitorText":"Jahleem Montague offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:26",
+							 "visitorText":"Jahleem Montague turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-8",
+							 "time":"17:13",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"Byron Ashe misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:51",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Jahleem Montague defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Isaiah Walton turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:05",
+							 "visitorText":"Jordan Cintron personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"Jordan Cintron turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Byron Ashe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Spencer Franklin misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"5-10",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"Chris Shields misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:00",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover"
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"13:35",
+							 "visitorText":"Isaiah Walton makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass) (Isaiah Walton steals)"
+							 },
+							 {
+							 "score":"9-10",
+							 "time":"13:15",
+							 "visitorText":"Isaiah Walton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-10",
+							 "time":"12:32",
+							 "visitorText":"Byron Ashe makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-13",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"Jordan Cintron misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"12-16",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"Spencer Franklin turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-19",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Isaiah Walton turnover (bad pass) (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:27",
+							 "visitorText":"Spencer Franklin shooting foul (Da'Monte Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-20",
+							 "time":"10:27",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"12-21",
+							 "time":"10:27",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (JaShaun Smith draws the foul)"
+							 },
+							 {
+							 "score":"13-21",
+							 "time":"10:14",
+							 "visitorText":"JaShaun Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"JaShaun Smith misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"Jahleem Montague personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-24",
+							 "time":"9:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Aaron Jordan assists)"
+							 },
+							 {
+							 "score":"15-24",
+							 "time":"9:41",
+							 "visitorText":"Spencer Franklin makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-26",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes two point dunk (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:03",
+							 "visitorText":"Isaiah Walton misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel defensive rebound"
+							 },
+							 {
+							 "score":"15-29",
+							 "time":"8:56",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:39",
+							 "visitorText":"Byron Ashe misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"Byron Ashe offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"Byron Ashe turnover (lost ball) (Greg Eboigbodin steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"JaShaun Smith blocks Greg Eboigbodin's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"Byron Ashe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-29",
+							 "time":"8:03",
+							 "visitorText":"Kamil Chapman makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Kamil Chapman draws the foul)"
+							 },
+							 {
+							 "score":"18-29",
+							 "time":"8:03",
+							 "visitorText":"Kamil Chapman makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Kamil Chapman personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-32",
+							 "time":"7:51",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Matic Vesel assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"",
+							 "homeText":"Michael Finke shooting foul (Kamil Chapman draws the foul)"
+							 },
+							 {
+							 "score":"19-32",
+							 "time":"7:33",
+							 "visitorText":"Kamil Chapman makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-32",
+							 "time":"7:33",
+							 "visitorText":"Kamil Chapman makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel offensive rebound"
+							 },
+							 {
+							 "score":"20-34",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Kamil Chapman misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:34",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"20-36",
+							 "time":"6:27",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:24",
+							 "visitorText":"Lancers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"Chris Shields misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"Lancers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"JaShaun Smith turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:26",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"20-38",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Kamil Chapman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"Lancers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Kamil Chapman turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:42",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Kamil Chapman shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-39",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"20-40",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"Chris Shields turnover (out of bounds) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:13",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:11",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:05",
+							 "visitorText":"Byron Ashe misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"Lancers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"Chris Shields misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"Jahleem Montague personal foul (Drew Cayce draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Boaz Williams turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-42",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Byron Ashe offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Byron Ashe turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-44",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup (Matic Vesel assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (Kamil Chapman draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"Kamil Chapman misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"Lancers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-44",
+							 "time":"2:51",
+							 "visitorText":"Kamil Chapman makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"Spencer Franklin shooting foul (Matic Vesel draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"Spencer Franklin shooting foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-45",
+							 "time":"2:17",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"21-46",
+							 "time":"2:17",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"24-46",
+							 "time":"1:58",
+							 "visitorText":"Byron Ashe makes three point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-48",
+							 "time":"1:36",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point alley-oop layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Kamil Chapman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:13",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"Boaz Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"24-50",
+							 "time":"00:31",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"Byron Ashe turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Lancers",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-50",
+							 "time":"19:54",
+							 "visitorText":"JaShaun Smith makes two point layup (Byron Ashe assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:54",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (JaShaun Smith draws the foul)"
+							 },
+							 {
+							 "score":"27-50",
+							 "time":"19:54",
+							 "visitorText":"JaShaun Smith makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:30",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"27-52",
+							 "time":"19:24",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"Byron Ashe offensive foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"Byron Ashe turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"29-52",
+							 "time":"18:25",
+							 "visitorText":"Chris Shields makes two point reverse layup (Jahleem Montague assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Jahleem Montague shooting foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-53",
+							 "time":"18:11",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-54",
+							 "time":"18:11",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:01",
+							 "visitorText":"JaShaun Smith turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"Kamil Chapman personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-56",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"Spencer Franklin shooting foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-57",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"Byron Ashe turnover (lost ball) (Mark Smith steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"29-59",
+							 "time":"17:13",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point putback layup"
+							 },
+							 {
+							 "score":"31-59",
+							 "time":"17:06",
+							 "visitorText":"Jordan Cintron makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"Jordan Cintron personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-62",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Chris Shields turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:30",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"31-65",
+							 "time":"16:18",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"Chris Shields misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"Chris Shields shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"31-66",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:35",
+							 "visitorText":"Jordan Cintron turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-68",
+							 "time":"15:26",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:13",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Byron Ashe turnover (bad pass) (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-70",
+							 "time":"14:58",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Byron Ashe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:22",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"31-72",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:04",
+							 "visitorText":"Kamil Chapman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"Jordan Cintron personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"Chris Shields misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"Jordan Cintron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Jordan Cintron turnover (bad pass) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Cintron blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Byron Ashe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"Byron Ashe misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:20",
+							 "visitorText":"Jahleem Montague offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:13",
+							 "visitorText":"Kamil Chapman misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"31-75",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Boaz Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"Boaz Williams personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"Kamil Chapman defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:14",
+							 "visitorText":"JaShaun Smith turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:01",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"31-77",
+							 "time":"10:57",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Byron Ashe shooting foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Jahleem Montague defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-77",
+							 "time":"10:39",
+							 "visitorText":"JaShaun Smith makes two point layup (Jahleem Montague assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"",
+							 "homeText":"Mark Smith shooting foul (JaShaun Smith draws the foul)"
+							 },
+							 {
+							 "score":"34-77",
+							 "time":"10:39",
+							 "visitorText":"JaShaun Smith makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Kamil Chapman personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:28",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (lost ball) (JaShaun Smith steals)"
+							 },
+							 {
+							 "score":"36-77",
+							 "time":"10:20",
+							 "visitorText":"Jahleem Montague makes two point layup (Byron Ashe assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel turnover (bad pass) (Spencer Franklin steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"Byron Ashe misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"Lancers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"Jahleem Montague turnover (bad pass) (Drew Cayce steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:18",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"Spencer Franklin offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"Spencer Franklin turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"36-80",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"39-80",
+							 "time":"8:14",
+							 "visitorText":"Chris Shields makes three point jump shot (Jahleem Montague assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Lancers 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-82",
+							 "time":"7:38",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"Chris Shields misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:17",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:07",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"Byron Ashe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"39-84",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Jordan Cintron shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-85",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:38",
+							 "visitorText":"JaShaun Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"39-88",
+							 "time":"6:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"41-88",
+							 "time":"5:58",
+							 "visitorText":"Jordan Cintron makes two point driving dunk (Byron Ashe assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:14",
+							 "visitorText":"Kamil Chapman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"Byron Ashe offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"Byron Ashe turnover (lost ball) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"Jordan Cintron personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-89",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"41-90",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Byron Ashe turnover (bad pass) (Greg Eboigbodin steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:50",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:48",
+							 "visitorText":"JaShaun Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"Byron Ashe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Samson Oladimeji defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"41-92",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"42-92",
+							 "time":"3:39",
+							 "visitorText":"Jahleem Montague makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"Jahleem Montague misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:12",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Samson Oladimeji offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"Chris Shields misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:50",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:22",
+							 "visitorText":"",
+							 "homeText":"Samson Oladimeji misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"Jahleem Montague misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:42",
+							 "visitorText":"",
+							 "homeText":"Samson Oladimeji defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Chris Shields defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"Kamil Chapman misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"Samson Oladimeji defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Boaz Williams blocks Cameron Liss's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (lost ball)"
+							 },
+							 {
+							 "score":"45-92",
+							 "time":"00:22",
+							 "visitorText":"Chris Shields makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

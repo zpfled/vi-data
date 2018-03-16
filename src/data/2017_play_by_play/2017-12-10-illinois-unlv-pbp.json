@@ -1,0 +1,2221 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for UNLV vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2602",
+				"seoName": "unlv",
+				"sixCharAbbr": "UNLV",
+				"shortName": "UNLV",	
+				"nickName": "Rebels",		
+				"color": "#cc092f"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Brandon McCoy vs. Michael Finke (Kris Clyburn gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point dunk (Jordan Johnson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"Michael Finke personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-4",
+							 "time":"19:00",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:47",
+							 "visitorText":"Mark Alstork turnover (lost ball) (Jordan Johnson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:47",
+							 "visitorText":"Mark Alstork personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-6",
+							 "time":"18:30",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point dunk (Shakur Juiston assists)"
+							 },
+							 {
+							 "score":"2-6",
+							 "time":"18:11",
+							 "visitorText":"Te'Jon Lucas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-8",
+							 "time":"17:59",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes two point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"Te'Jon Lucas personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"Te'Jon Lucas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:33",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson defensive rebound"
+							 },
+							 {
+							 "score":"2-10",
+							 "time":"17:17",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:06",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"Mark Alstork shooting foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-11",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"2-12",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"4-12",
+							 "time":"16:38",
+							 "visitorText":"Trent Frazier makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-14",
+							 "time":"16:28",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point pullup jump shot (Jovan Mooring assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:09",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses two point driving jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston personal foul"
+							 },
+							 {
+							 "score":"6-14",
+							 "time":"15:30",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston offensive rebound"
+							 },
+							 {
+							 "score":"6-16",
+							 "time":"15:16",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston makes two point putback layup"
+							 },
+							 {
+							 "score":"9-16",
+							 "time":"14:52",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:21",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"Michael Finke turnover (3-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"Mark Smith shooting foul (Jordan Johnson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"9-17",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"11-17",
+							 "time":"13:31",
+							 "visitorText":"Leron Black makes two point hook shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-20",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes three point jump shot (Amauri Hardy assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-20",
+							 "time":"13:01",
+							 "visitorText":"Michael Finke makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Cheickna Dembele offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Cheickna Dembele turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:27",
+							 "visitorText":"Te'Jon Lucas shooting foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-21",
+							 "time":"12:27",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"13-22",
+							 "time":"12:27",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"13-23",
+							 "time":"12:27",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Mark Smith misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Aaron Jordan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck shooting foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"14-23",
+							 "time":"11:21",
+							 "visitorText":"Aaron Jordan makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-23",
+							 "time":"11:21",
+							 "visitorText":"Aaron Jordan makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-25",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy shooting foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"16-25",
+							 "time":"10:47",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Mark Smith misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:27",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"Aaron Jordan personal foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Trent Frazier misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-25",
+							 "time":"10:01",
+							 "visitorText":"Mark Smith makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-27",
+							 "time":"9:47",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston makes two point floating jump shot (Anthony Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Mark Smith personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Mark Smith turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-29",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston makes two point driving layup (Jovan Mooring assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-29",
+							 "time":"9:08",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Trent Frazier personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Trent Frazier turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"Leron Black misses two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-29",
+							 "time":"7:41",
+							 "visitorText":"Trent Frazier makes three point jump shot (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:34",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"27-29",
+							 "time":"7:23",
+							 "visitorText":"Trent Frazier makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"Trent Frazier misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Kipper Nichols personal foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"28-29",
+							 "time":"7:08",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-29",
+							 "time":"7:08",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:51",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:49",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:41",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:24",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-29",
+							 "time":"6:06",
+							 "visitorText":"Kipper Nichols makes two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:43",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Michael Finke misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Kipper Nichols misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"31-31",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point layup (Kris Clyburn assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Kipper Nichols shooting foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-32",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Jovan Mooring steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-34",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck makes two point driving layup (Kris Clyburn assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"Trent Frazier turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"Michael Finke shooting foul (Tervell Beck draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-35",
+							 "time":"4:12",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Aaron Jordan turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Aaron Jordan personal foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-36",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"31-37",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"Kipper Nichols turnover (bad pass) (Brandon McCoy steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-39",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point driving layup"
+							 },
+							 {
+							 "score":"33-39",
+							 "time":"3:02",
+							 "visitorText":"Da'Monte Williams makes two point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"Kipper Nichols personal foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-40",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"33-41",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Greg Eboigbodin misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Brandon McCoy blocks Greg Eboigbodin's two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith offensive rebound"
+							 },
+							 {
+							 "score":"33-43",
+							 "time":"1:57",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith makes two point putback dunk"
+							 },
+							 {
+							 "score":"36-43",
+							 "time":"1:39",
+							 "visitorText":"Da'Monte Williams makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Brandon McCoy blocks Da'Monte Williams's two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Greg Eboigbodin shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Greg Eboigbodin turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses two point reverse layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy offensive rebound"
+							 },
+							 {
+							 "score":"36-45",
+							 "time":"00:31",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Jordan Johnson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Rebels"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Kipper Nichols misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Te'Jon Lucas personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Mark Alstork personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:43",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:43",
+							 "visitorText":"Mark Smith shooting foul (Kris Clyburn draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-46",
+							 "time":"18:43",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"36-47",
+							 "time":"18:43",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"38-47",
+							 "time":"18:31",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn turnover (traveling)"
+							 },
+							 {
+							 "score":"41-47",
+							 "time":"18:08",
+							 "visitorText":"Mark Smith makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-47",
+							 "time":"17:17",
+							 "visitorText":"Michael Finke makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:07",
+							 "visitorText":"Da'Monte Williams personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:52",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:36",
+							 "visitorText":"Da'Monte Williams personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"Trent Frazier shooting foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"43-48",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Greg Eboigbodin personal foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-49",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-49",
+							 "time":"15:42",
+							 "visitorText":"Trent Frazier makes two point layup (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston turnover"
+							 },
+							 {
+							 "score":"47-49",
+							 "time":"15:01",
+							 "visitorText":"Aaron Jordan makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Brandon McCoy blocks Michael Finke's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:36",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-49",
+							 "time":"14:32",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"",
+							 "homeText":"Rebels 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:15",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"Da'Monte Williams misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"Aaron Jordan personal foul (Jordan Johnson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-50",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-51",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"Mark Smith misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Mark Smith offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Mark Smith misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy turnover"
+							 },
+							 {
+							 "score":"52-51",
+							 "time":"12:57",
+							 "visitorText":"Trent Frazier makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Da'Monte Williams shooting foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"52-52",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:25",
+							 "visitorText":"Cheickna Dembele blocks Mark Smith's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:23",
+							 "visitorText":"Mark Smith offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"Mark Smith turnover (lost ball) (Jordan Johnson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck turnover"
+							 },
+							 {
+							 "score":"54-52",
+							 "time":"12:05",
+							 "visitorText":"Greg Eboigbodin makes two point alley-oop dunk (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-54",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck makes two point layup (Jordan Johnson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:23",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:13",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"54-56",
+							 "time":"11:03",
+							 "visitorText":"",
+							 "homeText":"Tervell Beck makes two point layup (Jovan Mooring assists)"
+							 },
+							 {
+							 "score":"56-56",
+							 "time":"10:48",
+							 "visitorText":"Te'Jon Lucas makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:48",
+							 "visitorText":"",
+							 "homeText":"Cheickna Dembele personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"57-56",
+							 "time":"10:48",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"59-56",
+							 "time":"10:21",
+							 "visitorText":"Da'Monte Williams makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy offensive rebound"
+							 },
+							 {
+							 "score":"59-58",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Kipper Nichols personal foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-58",
+							 "time":"9:41",
+							 "visitorText":"Te'Jon Lucas makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:26",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson offensive rebound"
+							 },
+							 {
+							 "score":"61-60",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point dunk (Jordan Johnson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:03",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"Te'Jon Lucas misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Mark Smith misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"Michael Finke personal foul (Shakur Juiston draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:20",
+							 "visitorText":"",
+							 "homeText":"Kris Clyburn misses two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Aaron Jordan misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"Aaron Jordan personal foul (Amauri Hardy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-61",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-62",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"Mark Alstork turnover (bad pass) (Brandon McCoy steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"Michael Finke personal foul (Brandon McCoy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Te'Jon Lucas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Te'Jon Lucas personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:40",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy turnover (bad pass) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:23",
+							 "visitorText":"Mark Alstork personal foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-63",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-64",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"63-64",
+							 "time":"6:02",
+							 "visitorText":"Mark Smith makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-66",
+							 "time":"5:53",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy makes two point dunk (Shakur Juiston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson personal foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"64-66",
+							 "time":"5:42",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-66",
+							 "time":"5:42",
+							 "visitorText":"Mark Smith makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-68",
+							 "time":"5:25",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"Da'Monte Williams misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"",
+							 "homeText":"Brandon McCoy defensive rebound"
+							 },
+							 {
+							 "score":"65-71",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes three point floating jump shot"
+							 },
+							 {
+							 "score":"68-71",
+							 "time":"4:14",
+							 "visitorText":"Mark Smith makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:43",
+							 "visitorText":"Mark Alstork shooting foul (Jordan Johnson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-72",
+							 "time":"3:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"68-73",
+							 "time":"3:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"71-73",
+							 "time":"3:26",
+							 "visitorText":"Mark Smith makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-76",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:44",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball) (Shakur Juiston steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-78",
+							 "time":"2:35",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston makes two point alley-oop dunk (Amauri Hardy assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:22",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"Mark Smith shooting foul (Amauri Hardy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-79",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"71-80",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Rebels 30 second timeout"
+							 },
+							 {
+							 "score":"74-80",
+							 "time":"1:56",
+							 "visitorText":"Michael Finke makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-83",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"75-83",
+							 "time":"1:15",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Da'Monte Williams misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Shakur Juiston defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"Da'Monte Williams personal foul (Amauri Hardy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-84",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Amauri Hardy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:49",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Mark Smith personal foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"75-85",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Shakur Juiston blocks Trent Frazier's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-85",
+							 "time":"00:33",
+							 "visitorText":"Michael Finke makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Trent Frazier personal foul (Jovan Mooring draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-86",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"77-87",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Jovan Mooring makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Anthony Smith shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"78-87",
+							 "time":"00:20",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"79-87",
+							 "time":"00:20",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"Greg Eboigbodin personal foul (Jordan Johnson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"79-88",
+							 "time":"00:12",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"79-89",
+							 "time":"00:12",
+							 "visitorText":"",
+							 "homeText":"Jordan Johnson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"82-89",
+							 "time":"00:04",
+							 "visitorText":"Michael Finke makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

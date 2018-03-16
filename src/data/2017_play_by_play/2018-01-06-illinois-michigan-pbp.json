@@ -1,0 +1,1813 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Michigan vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1845",
+				"seoName": "michigan",
+				"sixCharAbbr": "MICH",
+				"shortName": "Michigan",	
+				"nickName": "Wolverines",		
+				"color": "#003976"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke vs. Moritz Wagner (Zavier Simpson gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson turnover (bad pass) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews personal foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:29",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:13",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"Trent Frazier shooting foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"Mark Smith turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:21",
+							 "visitorText":"Mark Smith makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:41",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"",
+							 "homeText":"Wolverines defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"Da'Monte Williams personal foul (Duncan Robinson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin blocks Muhammad-Ali Abdur-Rahkman's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Wolverines offensive rebound"
+							 },
+							 {
+							 "score":"2-5",
+							 "time":"17:03",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes three point jump shot (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:52",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Muhammad-Ali Abdur-Rahkman steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner turnover (bad pass) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"4-5",
+							 "time":"16:48",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner shooting foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"16:48",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:31",
+							 "visitorText":"",
+							 "homeText":"Ibi Watson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:29",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-5",
+							 "time":"16:20",
+							 "visitorText":"Mark Smith makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"Mark Smith personal foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Ibi Watson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Jon Teske offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"",
+							 "homeText":"Ibi Watson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"Te'Jon Lucas misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:56",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"",
+							 "homeText":"Jon Teske misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"",
+							 "homeText":"Ibi Watson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams blocks Ibi Watson's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Jon Teske offensive rebound"
+							 },
+							 {
+							 "score":"8-7",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes two point jump shot (Jon Teske assists)"
+							 },
+							 {
+							 "score":"11-7",
+							 "time":"14:30",
+							 "visitorText":"Mark Smith makes three point jump shot (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"",
+							 "homeText":"Jon Teske offensive foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"",
+							 "homeText":"Jon Teske turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"",
+							 "homeText":"Eli Brooks defensive rebound"
+							 },
+							 {
+							 "score":"11-9",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes two point layup (Eli Brooks assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"",
+							 "homeText":"Eli Brooks defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews offensive foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:53",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson offensive foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson turnover"
+							 },
+							 {
+							 "score":"13-9",
+							 "time":"12:30",
+							 "visitorText":"Trent Frazier makes two point layup (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork blocks Eli Brooks's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Mark Alstork personal foul (Muhammad-Ali Abdur-Rahkman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"",
+							 "homeText":"Eli Brooks misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:55",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-9",
+							 "time":"11:37",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:23",
+							 "visitorText":"",
+							 "homeText":"Eli Brooks turnover (bad pass) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:28",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Jordan Poole steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:27",
+							 "visitorText":"Aaron Jordan personal foul (Jordan Poole draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-9",
+							 "time":"9:49",
+							 "visitorText":"Kipper Nichols makes two point dunk (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-11",
+							 "time":"9:25",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes two point jump shot"
+							 },
+							 {
+							 "score":"19-11",
+							 "time":"9:07",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:52",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson offensive foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:52",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Mark Smith offensive foul (Muhammad-Ali Abdur-Rahkman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Mark Smith turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Te'Jon Lucas personal foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-12",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"19-13",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"21-13",
+							 "time":"8:14",
+							 "visitorText":"Te'Jon Lucas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:31",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin blocks Zavier Simpson's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Wolverines offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman offensive foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Greg Eboigbodin turnover (lost ball) (Jon Teske steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson defensive rebound"
+							 },
+							 {
+							 "score":"21-16",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers makes three point jump shot (Muhammad-Ali Abdur-Rahkman assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"Te'Jon Lucas offensive foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"Te'Jon Lucas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-18",
+							 "time":"5:48",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers makes two point dunk (Jon Teske assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"Trent Frazier turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-20",
+							 "time":"5:22",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers makes two point dunk (Muhammad-Ali Abdur-Rahkman assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Mark Alstork offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-20",
+							 "time":"4:52",
+							 "visitorText":"Michael Finke makes two point dunk (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"Mark Alstork shooting foul (Jordan Poole draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-21",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"23-22",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"23-23",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Mark Smith turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons defensive rebound"
+							 },
+							 {
+							 "score":"23-25",
+							 "time":"4:07",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers makes two point dunk (Jordan Poole assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-25",
+							 "time":"3:42",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-25",
+							 "time":"3:42",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Da'Monte Williams turnover (lost ball) (Jordan Poole steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Aaron Jordan shooting foul (Jordan Poole draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-26",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"25-27",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-27",
+							 "time":"2:44",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"Trent Frazier shooting foul (Jaaron Simmons draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-28",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-28",
+							 "time":"2:19",
+							 "visitorText":"Te'Jon Lucas makes two point layup (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-31",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes three point jump shot (Jaaron Simmons assists)"
+							 },
+							 {
+							 "score":"31-31",
+							 "time":"1:37",
+							 "visitorText":"Leron Black makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-31",
+							 "time":"1:05",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Jaaron Simmons turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:31",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Fighting Illini",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Mark Smith turnover (bad pass) (Zavier Simpson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-33",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews makes two point dunk (Muhammad-Ali Abdur-Rahkman assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"Mark Smith turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"Fighting Illini 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-35",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"Mark Alstork shooting foul (Moritz Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-36",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:47",
+							 "visitorText":"Moritz Wagner blocks Aaron Jordan's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson defensive rebound"
+							 },
+							 {
+							 "score":"34-38",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes two point layup (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"36-38",
+							 "time":"18:32",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Da'Monte Williams personal foul (Moritz Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-40",
+							 "time":"18:01",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:10",
+							 "visitorText":"Trent Frazier turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"Kipper Nichols shooting foul (Charles Matthews draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Wolverines rebound (deadball)"
+							 },
+							 {
+							 "score":"36-41",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:33",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"Muhammad-Ali Abdur-Rahkman blocks Michael Finke's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson turnover (back court violation)"
+							 },
+							 {
+							 "score":"38-41",
+							 "time":"15:57",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:34",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner personal foul (Greg Eboigbodin draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"Mark Smith offensive foul (Muhammad-Ali Abdur-Rahkman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"Mark Smith turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-44",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes three point jump shot"
+							 },
+							 {
+							 "score":"40-44",
+							 "time":"14:42",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-47",
+							 "time":"14:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Poole makes three point jump shot (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"41-47",
+							 "time":"13:53",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-47",
+							 "time":"13:53",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-49",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"Te'Jon Lucas shooting foul (Muhammad-Ali Abdur-Rahkman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-50",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"42-51",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"44-51",
+							 "time":"12:35",
+							 "visitorText":"Leron Black makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:01",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"",
+							 "homeText":"Jon Teske shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-51",
+							 "time":"11:31",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-51",
+							 "time":"11:31",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:17",
+							 "visitorText":"Greg Eboigbodin kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers offensive rebound"
+							 },
+							 {
+							 "score":"46-54",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Isaiah Livers makes three point jump shot (Charles Matthews assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:30",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:28",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman defensive rebound"
+							 },
+							 {
+							 "score":"46-56",
+							 "time":"10:20",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews makes two point layup"
+							 },
+							 {
+							 "score":"48-56",
+							 "time":"10:05",
+							 "visitorText":"Greg Eboigbodin makes two point dunk (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-59",
+							 "time":"9:39",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews makes three point jump shot (Muhammad-Ali Abdur-Rahkman assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"Jon Teske blocks Aaron Jordan's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball) (Muhammad-Ali Abdur-Rahkman steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-59",
+							 "time":"8:28",
+							 "visitorText":"Te'Jon Lucas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-61",
+							 "time":"8:02",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes two point layup (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"52-61",
+							 "time":"7:41",
+							 "visitorText":"Kipper Nichols makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-63",
+							 "time":"7:15",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes two point layup (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"54-63",
+							 "time":"6:58",
+							 "visitorText":"Kipper Nichols makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-66",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes three point jump shot (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:21",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"55-66",
+							 "time":"6:21",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:21",
+							 "visitorText":"Leron Black misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:21",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:52",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:40",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"55-68",
+							 "time":"5:33",
+							 "visitorText":"",
+							 "homeText":"Charles Matthews makes two point dunk (Zavier Simpson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Zavier Simpson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Trent Frazier offensive foul (Moritz Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Trent Frazier turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-68",
+							 "time":"4:33",
+							 "visitorText":"Michael Finke makes two point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:52",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Michael Finke personal foul (Duncan Robinson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-69",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"57-70",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman shooting foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"58-70",
+							 "time":"3:42",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-70",
+							 "time":"3:42",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Te'Jon Lucas personal foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-71",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner defensive rebound"
+							 },
+							 {
+							 "score":"59-73",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Moritz Wagner makes two point layup (Charles Matthews assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"Moritz Wagner blocks Te'Jon Lucas's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"60-73",
+							 "time":"2:25",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-73",
+							 "time":"2:25",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"Greg Eboigbodin personal foul (Zavier Simpson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-73",
+							 "time":"1:57",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:42",
+							 "visitorText":"Kipper Nichols personal foul (Duncan Robinson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-74",
+							 "time":"1:42",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"63-75",
+							 "time":"1:42",
+							 "visitorText":"",
+							 "homeText":"Duncan Robinson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"65-75",
+							 "time":"1:34",
+							 "visitorText":"Greg Eboigbodin makes two point dunk (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-77",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Zavier Simpson turnover (10-second violation)"
+							 },
+							 {
+							 "score":"67-77",
+							 "time":"00:37",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"Da'Monte Williams personal foul (Muhammad-Ali Abdur-Rahkman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-78",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"67-79",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Muhammad-Ali Abdur-Rahkman makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Moritz Wagner blocks Te'Jon Lucas's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-79",
+							 "time":"00:06",
+							 "visitorText":"Da'Monte Williams makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

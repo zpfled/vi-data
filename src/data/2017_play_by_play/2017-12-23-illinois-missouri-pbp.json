@@ -1,0 +1,2083 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Missouri vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1169",
+				"seoName": "missouri",
+				"sixCharAbbr": "MIZZOU",
+				"shortName": "Missouri",	
+				"nickName": "Tigers",		
+				"color": "#F1B82D"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke vs. Jeremiah Tilmon (Blake Harris gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:37",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes two point layup"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"19:07",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:12",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:03",
+							 "visitorText":"Michael Finke misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:01",
+							 "visitorText":"",
+							 "homeText":"Blake Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:55",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear turnover (lost ball) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"Blake Harris turnover (lost ball)"
+							 },
+							 {
+							 "score":"4-2",
+							 "time":"17:27",
+							 "visitorText":"Mark Smith makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:10",
+							 "visitorText":"",
+							 "homeText":"Blake Harris turnover (bad pass) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"7-2",
+							 "time":"17:03",
+							 "visitorText":"Mark Smith makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-2",
+							 "time":"16:11",
+							 "visitorText":"Leron Black makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"Tigers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:34",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:19",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:11",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:09",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive rebound"
+							 },
+							 {
+							 "score":"10-5",
+							 "time":"15:05",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:32",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:30",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-5",
+							 "time":"14:22",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:11",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"Kipper Nichols turnover (lost ball) (Jontay Porter steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:00",
+							 "visitorText":"Mark Smith personal foul (Jordan Geist draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Michael Finke blocks Jontay Porter's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:35",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett turnover"
+							 },
+							 {
+							 "score":"14-5",
+							 "time":"13:23",
+							 "visitorText":"Da'Monte Williams makes two point layup (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Da'Monte Williams personal foul (Jordan Geist draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"16-5",
+							 "time":"13:00",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (bad pass) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"Michael Finke misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-5",
+							 "time":"12:40",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan blocks Jeremiah Tilmon's two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"Aaron Jordan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-5",
+							 "time":"11:37",
+							 "visitorText":"Michael Finke makes two point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:12",
+							 "visitorText":"Te'Jon Lucas shooting foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-6",
+							 "time":"11:12",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:12",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:12",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:53",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Jump ball. Kassius Robertson vs. Te'Jon Lucas (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson turnover (lost ball) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:58",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:56",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Mark Smith turnover (lost ball) (Jeremiah Tilmon steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-8",
+							 "time":"9:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"Mark Smith turnover (bad pass) (Jontay Porter steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"Te'Jon Lucas shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-9",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"19-10",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"21-10",
+							 "time":"9:12",
+							 "visitorText":"Leron Black makes two point hook shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips offensive foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:46",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter kicked ball violation"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Trent Frazier turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-12",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes two point layup"
+							 },
+							 {
+							 "score":"23-12",
+							 "time":"7:58",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon defensive rebound"
+							 },
+							 {
+							 "score":"23-14",
+							 "time":"7:19",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:40",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"23-16",
+							 "time":"6:30",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes two point layup (Blake Harris assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter offensive foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Jontay Porter blocks Da'Monte Williams's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:40",
+							 "visitorText":"",
+							 "homeText":"Tigers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:22",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon turnover (traveling)"
+							 },
+							 {
+							 "score":"25-16",
+							 "time":"5:07",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-16",
+							 "time":"4:48",
+							 "visitorText":"Mark Smith makes three point jump shot (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:22",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:20",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson offensive foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-16",
+							 "time":"3:31",
+							 "visitorText":"Michael Finke makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-18",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes two point dunk (Terrence Phillips assists)"
+							 },
+							 {
+							 "score":"32-18",
+							 "time":"2:44",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"33-18",
+							 "time":"2:18",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-18",
+							 "time":"2:18",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-18",
+							 "time":"1:44",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:38",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:38",
+							 "visitorText":"Michael Finke personal foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"Trent Frazier shooting foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"",
+							 "homeText":"Tigers rebound (deadball)"
+							 },
+							 {
+							 "score":"36-19",
+							 "time":"1:37",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon defensive rebound"
+							 },
+							 {
+							 "score":"36-22",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Kassius Robertson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:13",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-22",
+							 "time":"00:56",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon turnover (lost ball)"
+							 },
+							 {
+							 "score":"42-22",
+							 "time":"00:04",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Tigers"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"Leron Black personal foul (Kevin Puryear draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Blake Harris offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:20",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear offensive rebound"
+							 },
+							 {
+							 "score":"42-24",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"Te'Jon Lucas shooting foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-25",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:06",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball) (Blake Harris steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-27",
+							 "time":"19:01",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"",
+							 "homeText":"Blake Harris technical foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"Mark Smith misses technical free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-27",
+							 "time":"19:00",
+							 "visitorText":"Mark Smith makes technical free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:47",
+							 "visitorText":"",
+							 "homeText":"Blake Harris personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"Leron Black misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:30",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"Mark Alstork turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"Mark Alstork personal foul (Terrence Phillips draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-30",
+							 "time":"17:53",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes three point jump shot (Jeremiah Tilmon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"Jordan Barnett blocks Mark Alstork's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:51",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"",
+							 "homeText":"Reed Nikko shooting foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"Aaron Jordan misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-30",
+							 "time":"16:50",
+							 "visitorText":"Aaron Jordan makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter turnover (bad pass) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"Jump ball. Leron Black vs. Terrence Phillips (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:18",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:16",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Leron Black personal foul (Jontay Porter draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Da'Monte Williams personal foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Kipper Nichols personal foul (Blake Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Kipper Nichols shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-31",
+							 "time":"15:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"44-32",
+							 "time":"15:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:19",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"45-32",
+							 "time":"15:19",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-32",
+							 "time":"15:19",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-34",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Michael Finke shooting foul (Blake Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:33",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:25",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:25",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon personal foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:09",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:07",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:54",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:49",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"Mark Smith turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-36",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes two point layup (Terrence Phillips assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"47-36",
+							 "time":"13:19",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-36",
+							 "time":"13:19",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-38",
+							 "time":"13:04",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes two point layup"
+							 },
+							 {
+							 "score":"50-38",
+							 "time":"12:42",
+							 "visitorText":"Michael Finke makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-40",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes two point layup"
+							 },
+							 {
+							 "score":"52-40",
+							 "time":"11:40",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"Mark Smith shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-41",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"52-42",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"52-43",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"Te'Jon Lucas turnover (bad pass) (Jeremiah Tilmon steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:48",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-43",
+							 "time":"10:31",
+							 "visitorText":"Leron Black makes two point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"",
+							 "homeText":"Blake Harris misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:07",
+							 "visitorText":"Te'Jon Lucas offensive foul (Blake Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:07",
+							 "visitorText":"Te'Jon Lucas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:58",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:56",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:53",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips turnover (bad pass) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"Kipper Nichols personal foul (Kevin Puryear draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-44",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"54-45",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"55-45",
+							 "time":"8:47",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-45",
+							 "time":"8:47",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:28",
+							 "visitorText":"Trent Frazier personal foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:28",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:28",
+							 "visitorText":"",
+							 "homeText":"Tigers rebound (deadball)"
+							 },
+							 {
+							 "score":"56-46",
+							 "time":"8:28",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Aaron Jordan personal foul (Blake Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-47",
+							 "time":"7:54",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"56-48",
+							 "time":"7:54",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Leron Black misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"Mark Alstork offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"Mark Alstork misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:17",
+							 "visitorText":"Mark Alstork offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:17",
+							 "visitorText":"Jeremiah Tilmon blocks Mark Alstork's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"Trent Frazier personal foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-49",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"56-50",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"Da'Monte Williams misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:48",
+							 "visitorText":"",
+							 "homeText":"Blake Harris turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Blake Harris personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"Trent Frazier misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-50",
+							 "time":"5:46",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips turnover (traveling)"
+							 },
+							 {
+							 "score":"60-50",
+							 "time":"4:43",
+							 "visitorText":"Leron Black makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-53",
+							 "time":"4:27",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes three point jump shot (Kevin Puryear assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:51",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:43",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-53",
+							 "time":"3:22",
+							 "visitorText":"Mark Smith makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear personal foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"Michael Finke misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-53",
+							 "time":"2:49",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-56",
+							 "time":"2:40",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes three point jump shot"
+							 },
+							 {
+							 "score":"65-56",
+							 "time":"2:07",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"66-56",
+							 "time":"2:07",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-58",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Tigers 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:24",
+							 "visitorText":"Jeremiah Tilmon blocks Leron Black's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Blake Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:06",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive rebound"
+							 },
+							 {
+							 "score":"66-60",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Blake Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier blocks Kassius Robertson's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Tigers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-62",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes two point jump shot (Blake Harris assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"67-62",
+							 "time":"00:25",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-62",
+							 "time":"00:25",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"69-62",
+							 "time":"00:08",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-62",
+							 "time":"00:08",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-64",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Blake Harris makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

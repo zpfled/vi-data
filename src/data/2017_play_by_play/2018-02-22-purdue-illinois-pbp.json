@@ -1,0 +1,2041 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Purdue",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "243",
+				"seoName": "purdue",
+				"sixCharAbbr": "PURDUE",
+				"shortName": "Purdue",	
+				"nickName": "Boilermakers",		
+				"color": "#141414"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Isaac Haas vs. Kipper Nichols (Fighting Illini gains possession)"
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:49",
+							 "visitorText":"Grady Eifert makes two point layup (Carsen Edwards assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"Isaac Haas misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:03",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:53",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point jump shot (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"4-2",
+							 "time":"18:42",
+							 "visitorText":"P.J. Thompson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:33",
+							 "visitorText":"Isaac Haas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Carsen Edwards misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Carsen Edwards defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"Mark Alstork blocks Carsen Edwards's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"Grady Eifert offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-2",
+							 "time":"17:46",
+							 "visitorText":"P.J. Thompson makes two point jump shot (Grady Eifert assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-5",
+							 "time":"17:41",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"9-5",
+							 "time":"17:12",
+							 "visitorText":"Carsen Edwards makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-7",
+							 "time":"16:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:28",
+							 "visitorText":"P.J. Thompson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"9-10",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Carsen Edwards misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Grady Eifert offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Grady Eifert draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Mark Smith, Greg Eboigbodin, Da'Monte Williams, Aaron Jordan, Michael Finke)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Boilermakers lineup change (Nojel Eastern, Ryan Cline, Matt Haarms, Grady Eifert, Carsen Edwards)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Grady Eifert misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Boilermakers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"15:54",
+							 "visitorText":"Grady Eifert makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:35",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"Matt Haarms defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Matt Haarms turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:09",
+							 "visitorText":"Nojel Eastern personal foul (Da'Monte Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-12",
+							 "time":"14:46",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Nojel Eastern draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:21",
+							 "visitorText":"Ryan Cline misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"Carsen Edwards offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-12",
+							 "time":"14:11",
+							 "visitorText":"Grady Eifert makes three point jump shot (Ryan Cline assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-15",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Greg Eboigbodin assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Grady Eifert turnover (bad pass) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-17",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Ryan Cline shooting foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Ryan Cline, Nojel Eastern, Isaac Haas, Dakota Mathias)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-18",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"15-18",
+							 "time":"13:16",
+							 "visitorText":"Isaac Haas makes two point hook shot (Ryan Cline assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Mark Alstork, Kipper Nichols, Te'Jon Lucas, Leron Black, Trent Frazier)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"16-18",
+							 "time":"12:55",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Ryan Cline, P.J. Thompson, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-18",
+							 "time":"12:55",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"Isaac Haas turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Ryan Cline defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul (Isaac Haas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Grady Eifert, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-18",
+							 "time":"11:38",
+							 "visitorText":"Dakota Mathias makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-20",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"21-20",
+							 "time":"10:56",
+							 "visitorText":"Carsen Edwards makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-22",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point dunk (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"P.J. Thompson offensive foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"P.J. Thompson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Michael Finke, Mark Smith, Leron Black, Mark Alstork)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (bad pass) (Carsen Edwards steals)"
+							 },
+							 {
+							 "score":"23-22",
+							 "time":"9:54",
+							 "visitorText":"Carsen Edwards makes two point driving dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"Grady Eifert defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-22",
+							 "time":"9:21",
+							 "visitorText":"Dakota Mathias makes three point jump shot (Carsen Edwards assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Boilermakers lineup change (Matt Haarms, P.J. Thompson, Grady Eifert, Dakota Mathias, Ryan Cline)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Mark Smith, Kipper Nichols, Aaron Jordan)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"P.J. Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-22",
+							 "time":"8:32",
+							 "visitorText":"Dakota Mathias makes three point jump shot (Ryan Cline assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"29-24",
+							 "time":"7:59",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point hook shot"
+							 },
+							 {
+							 "score":"31-24",
+							 "time":"7:43",
+							 "visitorText":"Dakota Mathias makes two point layup (P.J. Thompson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Te'Jon Lucas, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:21",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"31-26",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point tip shot"
+							 },
+							 {
+							 "score":"34-26",
+							 "time":"7:01",
+							 "visitorText":"Dakota Mathias makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-28",
+							 "time":"6:42",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"Ryan Cline misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"P.J. Thompson turnover (lost ball) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"Grady Eifert defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"Boilermakers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Mark Smith, Greg Eboigbodin, Te'Jon Lucas, Mark Alstork, Michael Finke)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Ryan Cline, Nojel Eastern, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-28",
+							 "time":"5:01",
+							 "visitorText":"Ryan Cline makes three point jump shot (Dakota Mathias assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:19",
+							 "visitorText":"Dakota Mathias misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"Ryan Cline offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-28",
+							 "time":"4:15",
+							 "visitorText":"Carsen Edwards makes three point jump shot (Ryan Cline assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Ryan Cline, Nojel Eastern, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Mark Smith, Mark Alstork, Michael Finke)"
+							 },
+							 {
+							 "score":"40-30",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul (Isaac Haas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Te'Jon Lucas, Kipper Nichols, Mark Smith, Mark Alstork, Michael Finke)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"Isaac Haas turnover (lost ball) (Mark Smith steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:17",
+							 "visitorText":"Ryan Cline defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"Ryan Cline misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Isaac Haas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"Carsen Edwards misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"40-33",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes three point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Grady Eifert, P.J. Thompson, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Matic Vesel, Mark Smith, Da'Monte Williams, Michael Finke)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Carsen Edwards misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (lost ball) (Dakota Mathias steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel shooting foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"Carsen Edwards misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"Boilermakers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Mark Smith, Da'Monte Williams, Michael Finke)"
+							 },
+							 {
+							 "score":"41-33",
+							 "time":"2:09",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-36",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"Grady Eifert turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"Isaac Haas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Carsen Edwards misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"41-38",
+							 "time":"1:01",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"43-38",
+							 "time":"00:36",
+							 "visitorText":"Carsen Edwards makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Kipper Nichols, Mark Alstork, Leron Black)"
+							 },
+							 {
+							 "score":"43-41",
+							 "time":"19:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"Dakota Mathias turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"Jump ball. Te'Jon Lucas vs. P.J. Thompson (P.J. Thompson gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (lost ball) (P.J. Thompson steals)"
+							 },
+							 {
+							 "score":"46-41",
+							 "time":"18:40",
+							 "visitorText":"Carsen Edwards makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"P.J. Thompson shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-42",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"46-43",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Te'Jon Lucas, Leron Black, Mark Alstork)"
+							 },
+							 {
+							 "score":"48-43",
+							 "time":"18:11",
+							 "visitorText":"Isaac Haas makes two point layup (Grady Eifert assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-45",
+							 "time":"17:39",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"49-45",
+							 "time":"17:30",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-45",
+							 "time":"17:30",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"Grady Eifert defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Greg Eboigbodin, Leron Black, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Grady Eifert turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-47",
+							 "time":"16:49",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point dunk (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Carsen Edwards turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Te'Jon Lucas, Greg Eboigbodin, Da'Monte Williams, Mark Smith, Michael Finke)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Matt Haarms, Grady Eifert, Dakota Mathias, Nojel Eastern)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"Matt Haarms shooting foul (Greg Eboigbodin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-48",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"Matt Haarms defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:05",
+							 "visitorText":"Nojel Eastern misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:03",
+							 "visitorText":"Carsen Edwards offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Mark Smith, Da'Monte Williams, Michael Finke)"
+							 },
+							 {
+							 "score":"51-48",
+							 "time":"15:59",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-48",
+							 "time":"15:59",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:39",
+							 "visitorText":"",
+							 "homeText":"Matt Haarms blocks Michael Finke's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"Carsen Edwards defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:34",
+							 "visitorText":"Carsen Edwards turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-50",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"Grady Eifert turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-53",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"54-53",
+							 "time":"14:44",
+							 "visitorText":"Carsen Edwards makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Nojel Eastern draws the foul)"
+							 },
+							 {
+							 "score":"55-53",
+							 "time":"14:20",
+							 "visitorText":"Nojel Eastern makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Te'Jon Lucas, Aaron Jordan)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Nojel Eastern, Grady Eifert, Ryan Cline, Matt Haarms)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-53",
+							 "time":"14:20",
+							 "visitorText":"Nojel Eastern makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-56",
+							 "time":"14:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"59-56",
+							 "time":"13:55",
+							 "visitorText":"Carsen Edwards makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:31",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Ryan Cline personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Boilermakers lineup change (Dakota Mathias, Ryan Cline, Nojel Eastern, Grady Eifert, Matt Haarms)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Ryan Cline defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Leron Black, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"61-56",
+							 "time":"13:08",
+							 "visitorText":"Nojel Eastern makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Nojel Eastern draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Nojel Eastern misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Matt Haarms personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Boilermakers lineup change (Ryan Cline, Nojel Eastern, Grady Eifert, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-56",
+							 "time":"12:41",
+							 "visitorText":"Ryan Cline makes three point jump shot (Nojel Eastern assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Mark Smith, Kipper Nichols, Te'Jon Lucas, Leron Black, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:20",
+							 "visitorText":"Ryan Cline defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"Nojel Eastern misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:09",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"64-58",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul (Isaac Haas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Aaron Jordan, Te'Jon Lucas, Leron Black, Mark Smith, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Boilermakers lineup change (Ryan Cline, Nojel Eastern, Carsen Edwards, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-58",
+							 "time":"11:50",
+							 "visitorText":"Isaac Haas makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-58",
+							 "time":"11:50",
+							 "visitorText":"Isaac Haas makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-60",
+							 "time":"11:34",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point driving dunk (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"68-60",
+							 "time":"11:12",
+							 "visitorText":"Isaac Haas makes two point layup (Dakota Mathias assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Mark Smith, Trent Frazier, Aaron Jordan)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, Ryan Cline, P.J. Thompson, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"Carsen Edwards misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"Boilermakers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Dakota Mathias misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul (Isaac Haas draws the foul)"
+							 },
+							 {
+							 "score":"69-60",
+							 "time":"9:54",
+							 "visitorText":"Isaac Haas makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-60",
+							 "time":"9:54",
+							 "visitorText":"Isaac Haas makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"Isaac Haas personal foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Leron Black, Michael Finke, Aaron Jordan)"
+							 },
+							 {
+							 "score":"70-63",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"Carsen Edwards misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"Boilermakers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:02",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Matt Haarms, Dakota Mathias, Grady Eifert)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:02",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Leron Black, Da'Monte Williams, Michael Finke)"
+							 },
+							 {
+							 "score":"71-63",
+							 "time":"9:02",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Carsen Edwards defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"Dakota Mathias misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"71-66",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"73-66",
+							 "time":"7:36",
+							 "visitorText":"Carsen Edwards makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-68",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"75-68",
+							 "time":"6:55",
+							 "visitorText":"Carsen Edwards makes two point driving dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"Matt Haarms personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Mark Smith, Leron Black, Mark Alstork, Greg Eboigbodin)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"Boilermakers lineup change (Isaac Haas, P.J. Thompson, Grady Eifert, Dakota Mathias, Carsen Edwards)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-70",
+							 "time":"6:22",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"76-70",
+							 "time":"6:14",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Leron Black, Mark Smith, Te'Jon Lucas)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Nojel Eastern, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-70",
+							 "time":"6:14",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:52",
+							 "visitorText":"Nojel Eastern personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-71",
+							 "time":"5:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"77-72",
+							 "time":"5:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"79-72",
+							 "time":"5:36",
+							 "visitorText":"Carsen Edwards makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"79-74",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"Carsen Edwards misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Dakota Mathias personal foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"79-75",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Ryan Cline, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"P.J. Thompson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"P.J. Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (P.J. Thompson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Grady Eifert, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"80-75",
+							 "time":"3:58",
+							 "visitorText":"P.J. Thompson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"81-75",
+							 "time":"3:58",
+							 "visitorText":"P.J. Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"P.J. Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"84-75",
+							 "time":"3:19",
+							 "visitorText":"Dakota Mathias makes three point jump shot (P.J. Thompson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"",
+							 "homeText":"Isaac Haas blocks Mark Smith's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"84-77",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"Grady Eifert shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"84-78",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Aaron Jordan, Leron Black, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Ryan Cline, Dakota Mathias, Isaac Haas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"86-78",
+							 "time":"2:31",
+							 "visitorText":"Dakota Mathias makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"86-81",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:15",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:15",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Leron Black, Da'Monte Williams, Greg Eboigbodin)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"Dakota Mathias misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"",
+							 "homeText":"Isaac Haas blocks Leron Black's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Dakota Mathias defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"87-81",
+							 "time":"1:18",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"Boilermakers lineup change (Carsen Edwards, P.J. Thompson, Nojel Eastern, Dakota Mathias, Grady Eifert)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Mark Smith, Leron Black, Da'Monte Williams)"
+							 },
+							 {
+							 "score":"88-81",
+							 "time":"1:18",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"88-83",
+							 "time":"1:06",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Carsen Edwards offensive foul (Da'Monte Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Carsen Edwards turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Boilermakers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (P.J. Thompson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"P.J. Thompson misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Boilermakers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"89-83",
+							 "time":"00:32",
+							 "visitorText":"P.J. Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (Carsen Edwards steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul (Carsen Edwards draws the foul)"
+							 },
+							 {
+							 "score":"90-83",
+							 "time":"00:21",
+							 "visitorText":"Carsen Edwards makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"91-83",
+							 "time":"00:21",
+							 "visitorText":"Carsen Edwards makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"",
+							 "homeText":"Nojel Eastern blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"P.J. Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul (P.J. Thompson draws the foul)"
+							 },
+							 {
+							 "score":"92-83",
+							 "time":"00:11",
+							 "visitorText":"P.J. Thompson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"93-83",
+							 "time":"00:11",
+							 "visitorText":"P.J. Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"93-86",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

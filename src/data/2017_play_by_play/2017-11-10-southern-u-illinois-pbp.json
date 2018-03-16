@@ -1,0 +1,48 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Southern U.",
+		            "division": "d1",
+		            "status" : "In-Progress",
+		            "period": "1",
+		            "minutes": "19",
+		            "seconds" : "07",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "957",
+				"seoName": "southern-u",
+				"sixCharAbbr": "SOUTHR",
+				"shortName": "Southern U.",	
+				"nickName": "Jaguars",		
+				"color": "#5fb2e3"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+				]
+			}
+			
+			]
+		});

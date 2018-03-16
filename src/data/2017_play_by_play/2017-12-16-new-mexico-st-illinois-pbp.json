@@ -1,0 +1,1789 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs New Mexico St.",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1629",
+				"seoName": "new-mexico-st",
+				"sixCharAbbr": "NM ST",
+				"shortName": "New Mexico St.",	
+				"nickName": "Aggies",		
+				"color": "#882345"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"(Aggies gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Johnathon Wilkins misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Sidy N'Dir blocks Michael Finke's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:21",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:21",
+							 "visitorText":"",
+							 "homeText":"Johnathon Wilkins blocks Michael Finke's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"Zach Lofton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"Jemerrio Jones turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:55",
+							 "visitorText":"",
+							 "homeText":"Sidy N'Dir blocks Mark Alstork's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:53",
+							 "visitorText":"Johnathon Wilkins defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:40",
+							 "visitorText":"A.J. Harris misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"Jemerrio Jones offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"18:38",
+							 "visitorText":"Jemerrio Jones makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"A.J. Harris personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"Mark Smith blocks Jemerrio Jones's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"Zach Lofton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:06",
+							 "visitorText":"Jemerrio Jones misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Zach Lofton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"Sidy N'Dir personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-6",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"A.J. Harris turnover (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-8",
+							 "time":"16:04",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"Zach Lofton misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Sidy N'Dir offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Sidy N'Dir misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Jemerrio Jones personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:27",
+							 "visitorText":"A.J. Harris defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-8",
+							 "time":"15:14",
+							 "visitorText":"A.J. Harris makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:09",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"Zach Lofton misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:32",
+							 "visitorText":"Eli Chuha defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"Jemerrio Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:21",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"7-8",
+							 "time":"14:18",
+							 "visitorText":"Eli Chuha makes three point jump shot (Sidy N'Dir assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"Eli Chuha turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-8",
+							 "time":"13:36",
+							 "visitorText":"Zach Lofton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"11-8",
+							 "time":"13:30",
+							 "visitorText":"Zach Lofton makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Zach Lofton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:59",
+							 "visitorText":"Zach Lofton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"Johnny McCants offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"Mark Smith blocks Johnny McCants's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Eli Chuha offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"Zach Lofton turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:26",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (Jemerrio Jones steals)"
+							 },
+							 {
+							 "score":"13-8",
+							 "time":"12:10",
+							 "visitorText":"Jemerrio Jones makes two point layup (Shunn Buchanan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-8",
+							 "time":"11:32",
+							 "visitorText":"Sidy N'Dir makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:17",
+							 "visitorText":"Johnathon Wilkins personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Johnathon Wilkins defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"Jemerrio Jones misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:50",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-8",
+							 "time":"10:33",
+							 "visitorText":"Johnathon Wilkins makes two point jump shot (Shunn Buchanan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-10",
+							 "time":"10:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"20-10",
+							 "time":"9:47",
+							 "visitorText":"Zach Lofton makes three point jump shot (Sidy N'Dir assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"22-10",
+							 "time":"9:05",
+							 "visitorText":"Eli Chuha makes two point jump shot (Zach Lofton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:40",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Sidy N'Dir misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"Eli Chuha misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"22-13",
+							 "time":"7:48",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"Sidy N'Dir turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-15",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot"
+							 },
+							 {
+							 "score":"24-15",
+							 "time":"6:41",
+							 "visitorText":"Eli Chuha makes two point jump shot (A.J. Harris assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (Johnny McCants steals)"
+							 },
+							 {
+							 "score":"27-15",
+							 "time":"6:12",
+							 "visitorText":"A.J. Harris makes three point jump shot (Zach Lofton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover"
+							 },
+							 {
+							 "score":"30-15",
+							 "time":"5:28",
+							 "visitorText":"Keyon Jones makes three point jump shot (Eli Chuha assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:25",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"30-17",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"A.J. Harris shooting foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:05",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:05",
+							 "visitorText":"Johnny McCants defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Keyon Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Sidy N'Dir personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Johnathon Wilkins blocks Mark Smith's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"Johnathon Wilkins defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"32-17",
+							 "time":"4:13",
+							 "visitorText":"Zach Lofton makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"Keyon Jones misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"32-19",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Shunn Buchanan turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-21",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"Aggies 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"Keyon Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"32-23",
+							 "time":"2:30",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point dunk (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"34-23",
+							 "time":"2:10",
+							 "visitorText":"Jemerrio Jones makes two point layup (Johnathon Wilkins assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul"
+							 },
+							 {
+							 "score":"36-23",
+							 "time":"1:21",
+							 "visitorText":"Zach Lofton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-26",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"38-26",
+							 "time":"00:36",
+							 "visitorText":"Zach Lofton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"Shunn Buchanan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Aggies",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (Zach Lofton steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"Zach Lofton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"Sidy N'Dir personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-28",
+							 "time":"19:21",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:04",
+							 "visitorText":"Zach Lofton offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:04",
+							 "visitorText":"Zach Lofton turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:39",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"Zach Lofton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Jemerrio Jones offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"Jemerrio Jones misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"38-30",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"A.J. Harris shooting foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive rebound"
+							 },
+							 {
+							 "score":"38-32",
+							 "time":"17:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:41",
+							 "visitorText":"Jemerrio Jones misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:25",
+							 "visitorText":"Zach Lofton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"Zach Lofton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:28",
+							 "visitorText":"Zach Lofton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-34",
+							 "time":"16:19",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"Sidy N'Dir misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"15:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-36",
+							 "time":"15:21",
+							 "visitorText":"Jemerrio Jones makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"Jemerrio Jones misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"Keyon Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Shunn Buchanan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"39-39",
+							 "time":"14:40",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Eli Chuha turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Eli Chuha personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Johnny McCants blocks Leron Black's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"",
+							 "homeText":"Eli Chuha blocks Leron Black's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"Sidy N'Dir turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (Sidy N'Dir steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:53",
+							 "visitorText":"Eli Chuha misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Johnny McCants defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-39",
+							 "time":"12:29",
+							 "visitorText":"A.J. Harris makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-41",
+							 "time":"12:15",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"43-41",
+							 "time":"11:59",
+							 "visitorText":"A.J. Harris makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Sidy N'Dir personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-42",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"43-43",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"Jemerrio Jones misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Eli Chuha offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"Eli Chuha misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:56",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Keyon Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"Keyon Jones personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-44",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"43-45",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"Eli Chuha misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"43-48",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"Aggies 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-48",
+							 "time":"9:31",
+							 "visitorText":"Johnathon Wilkins makes three point jump shot (Jemerrio Jones assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-50",
+							 "time":"9:18",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"48-50",
+							 "time":"9:01",
+							 "visitorText":"Zach Lofton makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Jemerrio Jones steals)"
+							 },
+							 {
+							 "score":"50-50",
+							 "time":"8:30",
+							 "visitorText":"Eli Chuha makes two point dunk (Jemerrio Jones assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"Eli Chuha personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-51",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-52",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"53-52",
+							 "time":"7:47",
+							 "visitorText":"Zach Lofton makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-54",
+							 "time":"7:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:31",
+							 "visitorText":"Johnathon Wilkins shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:31",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-55",
+							 "time":"7:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"55-55",
+							 "time":"7:19",
+							 "visitorText":"Zach Lofton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-57",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:40",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"58-57",
+							 "time":"6:28",
+							 "visitorText":"Zach Lofton makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Zach Lofton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-57",
+							 "time":"6:04",
+							 "visitorText":"Keyon Jones makes three point jump shot (Johnathon Wilkins assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (Jemerrio Jones steals)"
+							 },
+							 {
+							 "score":"63-57",
+							 "time":"5:51",
+							 "visitorText":"Jemerrio Jones makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"Jemerrio Jones personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-58",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"63-59",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"65-59",
+							 "time":"5:11",
+							 "visitorText":"A.J. Harris makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"",
+							 "homeText":"Johnathon Wilkins blocks Aaron Jordan's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Eli Chuha defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"Zach Lofton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"65-62",
+							 "time":"4:13",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"A.J. Harris misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"Aggies rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"A.J. Harris misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"65-65",
+							 "time":"3:37",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"Zach Lofton turnover (carrying)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (carrying)"
+							 },
+							 {
+							 "score":"67-65",
+							 "time":"2:50",
+							 "visitorText":"A.J. Harris makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Eli Chuha blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"Zach Lofton misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"Jemerrio Jones offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-65",
+							 "time":"2:00",
+							 "visitorText":"Jemerrio Jones makes two point layup (Eli Chuha assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-67",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:35",
+							 "visitorText":"A.J. Harris turnover (Michael Finke steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"69-69",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Aggies 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"Zach Lofton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (Jemerrio Jones steals)"
+							 },
+							 {
+							 "score":"71-69",
+							 "time":"00:29",
+							 "visitorText":"A.J. Harris makes two point layup (Eli Chuha assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (A.J. Harris draws the foul)"
+							 },
+							 {
+							 "score":"72-69",
+							 "time":"00:29",
+							 "visitorText":"A.J. Harris makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Zach Lofton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Jemerrio Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Zach Lofton misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Eli Chuha defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"73-69",
+							 "time":"00:03",
+							 "visitorText":"Eli Chuha makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-69",
+							 "time":"00:03",
+							 "visitorText":"Eli Chuha makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

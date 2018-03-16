@@ -1,0 +1,1951 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Wake Forest vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1719",
+				"seoName": "wake-forest",
+				"sixCharAbbr": "WAKE",
+				"shortName": "Wake Forest",	
+				"nickName": "Demon Deacons",		
+				"color": "#141414"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke vs. Doral Moore (Bryant Crawford gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Leron Black blocks Terrence Thompson's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:16",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Doral Moore defensive rebound"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:00",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point alley-oop dunk (Terrence Thompson assists)"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:53",
+							 "visitorText":"Mark Alstork makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:29",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-2",
+							 "time":"18:22",
+							 "visitorText":"Mark Alstork makes three point pullup jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"Leron Black turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"17:20",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"8-5",
+							 "time":"17:15",
+							 "visitorText":"Mark Alstork makes three point pullup jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-8",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown makes three point pullup jump shot (Bryant Crawford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Michael Finke offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Michael Finke turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:16",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-8",
+							 "time":"16:01",
+							 "visitorText":"Mark Smith makes three point pullup jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson offensive rebound"
+							 },
+							 {
+							 "score":"11-10",
+							 "time":"15:41",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson makes two point putback layup"
+							 },
+							 {
+							 "score":"13-10",
+							 "time":"15:34",
+							 "visitorText":"Mark Smith makes two point driving layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"Te'Jon Lucas personal foul (Terrence Thompson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-10",
+							 "time":"14:50",
+							 "visitorText":"Kipper Nichols makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods turnover (bad pass) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods shooting foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"17-10",
+							 "time":"14:20",
+							 "visitorText":"Aaron Jordan makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-10",
+							 "time":"14:20",
+							 "visitorText":"Aaron Jordan makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-12",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:48",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"",
+							 "homeText":"Doral Moore defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"Michael Finke shooting foul (Keyshawn Woods draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-13",
+							 "time":"13:27",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"18-14",
+							 "time":"13:27",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Aaron Jordan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-14",
+							 "time":"13:08",
+							 "visitorText":"Aaron Jordan makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"Greg Eboigbodin shooting foul (Olivier Sarr draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Mark Alstork turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"Te'Jon Lucas personal foul (Brandon Childress draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"Trent Frazier personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-14",
+							 "time":"12:04",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-16",
+							 "time":"11:51",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:36",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:34",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:33",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Trent Frazier turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Aaron Jordan turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:07",
+							 "visitorText":"Leron Black shooting foul (Chaundee Brown draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-17",
+							 "time":"10:07",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"23-18",
+							 "time":"10:07",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"25-18",
+							 "time":"9:51",
+							 "visitorText":"Kipper Nichols makes two point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:34",
+							 "visitorText":"Mark Smith personal foul (Bryant Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-19",
+							 "time":"9:34",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"25-20",
+							 "time":"9:34",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:06",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-20",
+							 "time":"9:01",
+							 "visitorText":"Leron Black makes two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-22",
+							 "time":"8:41",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point turnaround jump shot (Chaundee Brown assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Kipper Nichols turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:51",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:51",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-22",
+							 "time":"7:51",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-22",
+							 "time":"7:51",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-25",
+							 "time":"7:29",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:05",
+							 "visitorText":"Leron Black misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"",
+							 "homeText":"Doral Moore defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"Aaron Jordan shooting foul (Bryant Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-26",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-27",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"Aaron Jordan turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-29",
+							 "time":"5:50",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point alley-oop dunk (Bryant Crawford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Doral Moore defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Kipper Nichols personal foul (Bryant Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-30",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Doral Moore offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"Kipper Nichols turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"Kipper Nichols personal foul (Melo Eggleston draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Melo Eggleston misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons rebound (deadball)"
+							 },
+							 {
+							 "score":"29-31",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Melo Eggleston makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:43",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Mark Alstork misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Doral Moore personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-31",
+							 "time":"2:34",
+							 "visitorText":"Aaron Jordan makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"Trent Frazier offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"Trent Frazier offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"Trent Frazier turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Donovan Mitchell turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:21",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Aaron Jordan personal foul (Brandon Childress draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-32",
+							 "time":"1:19",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"31-33",
+							 "time":"1:19",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:06",
+							 "visitorText":"Mark Alstork misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"Mark Smith personal foul (Olivier Sarr draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-34",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"31-35",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses two point finger roll layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-35",
+							 "time":"00:06",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Fighting Illini",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown personal foul"
+							 },
+							 {
+							 "score":"36-35",
+							 "time":"19:31",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-37",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:43",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:00",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"Leron Black shooting foul (Terrence Thompson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons rebound (deadball)"
+							 },
+							 {
+							 "score":"36-38",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:25",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-38",
+							 "time":"17:15",
+							 "visitorText":"Te'Jon Lucas makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:49",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"",
+							 "homeText":"Terrence Thompson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"Mark Alstork personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Michael Finke offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Michael Finke turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-40",
+							 "time":"16:16",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown makes two point layup (Bryant Crawford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"Leron Black turnover (bad pass) (Bryant Crawford steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-43",
+							 "time":"16:10",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"Kipper Nichols turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-46",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes three point jump shot (Keyshawn Woods assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Te'Jon Lucas shooting foul (Brandon Childress draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-47",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"Doral Moore blocks Mark Smith's two point driving jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Mark Alstork turnover (bad pass) (Keyshawn Woods steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-49",
+							 "time":"14:52",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin shooting foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"40-49",
+							 "time":"14:38",
+							 "visitorText":"Aaron Jordan makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-49",
+							 "time":"14:38",
+							 "visitorText":"Aaron Jordan makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:25",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-49",
+							 "time":"14:10",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-51",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point dunk (Olivier Sarr assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Doral Moore defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:25",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress turnover (out of bounds)"
+							 },
+							 {
+							 "score":"47-51",
+							 "time":"13:10",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"Doral Moore misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-51",
+							 "time":"12:24",
+							 "visitorText":"Da'Monte Williams makes two point layup (Leron Black assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin defensive rebound"
+							 },
+							 {
+							 "score":"49-53",
+							 "time":"11:35",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"Da'Monte Williams shooting foul (Mitchell Wilbekin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-54",
+							 "time":"11:35",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:17",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Kipper Nichols turnover (lost ball) (Donovan Mitchell steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:59",
+							 "visitorText":"",
+							 "homeText":"Donovan Mitchell turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods defensive rebound"
+							 },
+							 {
+							 "score":"49-56",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes two point finger roll layup (Keyshawn Woods assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Donovan Mitchell shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"Leron Black misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-56",
+							 "time":"10:17",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford turnover (bad pass) (Leron Black steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"51-56",
+							 "time":"10:05",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-56",
+							 "time":"10:05",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-56",
+							 "time":"9:29",
+							 "visitorText":"Leron Black makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-58",
+							 "time":"8:58",
+							 "visitorText":"",
+							 "homeText":"Donovan Mitchell makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Leron Black turnover (lost ball) (Bryant Crawford steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-61",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Michael Finke offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Michael Finke turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Mark Alstork shooting foul (Bryant Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-62",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"55-63",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"55-64",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:45",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-64",
+							 "time":"7:45",
+							 "visitorText":"Kipper Nichols makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:31",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:29",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-64",
+							 "time":"7:11",
+							 "visitorText":"Te'Jon Lucas makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:51",
+							 "visitorText":"",
+							 "homeText":"Donovan Mitchell turnover (lost ball) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:48",
+							 "visitorText":"Aaron Jordan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Mitchell Wilbekin vs. Kipper Nichols (Demon Deacons gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-66",
+							 "time":"6:31",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown makes two point driving jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"Kipper Nichols misses two point turnaround jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods defensive rebound"
+							 },
+							 {
+							 "score":"59-68",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Olivier Sarr personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"60-68",
+							 "time":"5:24",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-68",
+							 "time":"5:24",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"",
+							 "homeText":"Chaundee Brown misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"Te'Jon Lucas misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Leron Black personal foul (Keyshawn Woods draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-69",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-70",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"",
+							 "homeText":"Doral Moore shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"62-70",
+							 "time":"4:02",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"4:02",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-70",
+							 "time":"3:15",
+							 "visitorText":"Michael Finke makes two point reverse layup (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-73",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes three point jump shot (Brandon Childress assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Kipper Nichols misses two point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-73",
+							 "time":"2:32",
+							 "visitorText":"Da'Monte Williams makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:14",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:12",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-73",
+							 "time":"2:06",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-76",
+							 "time":"1:47",
+							 "visitorText":"",
+							 "homeText":"Keyshawn Woods makes three point jump shot (Bryant Crawford assists)"
+							 },
+							 {
+							 "score":"73-76",
+							 "time":"1:22",
+							 "visitorText":"Da'Monte Williams makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Mark Smith shooting foul (Brandon Childress draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"",
+							 "homeText":"Demon Deacons rebound (deadball)"
+							 },
+							 {
+							 "score":"73-77",
+							 "time":"1:02",
+							 "visitorText":"",
+							 "homeText":"Brandon Childress makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Bryant Crawford steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"Jump ball. Bryant Crawford vs. Mark Smith (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Bryant Crawford turnover (lost ball) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Kipper Nichols turnover (lost ball) (Mitchell Wilbekin steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"Mark Smith personal foul (Mitchell Wilbekin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-78",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Mitchell Wilbekin misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Olivier Sarr blocks Mark Smith's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Leron Black turnover (lost ball) (Bryant Crawford steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-80",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Doral Moore makes two point dunk (Olivier Sarr assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

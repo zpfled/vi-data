@@ -1,0 +1,2095 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs UT Martin",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "2013",
+				"seoName": "ut-martin",
+				"sixCharAbbr": "UT MAR",
+				"shortName": "UT Martin",	
+				"nickName": "Skyhawks",		
+				"color": "#ff6900"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Terrence Parker vs. Michael Finke (Dominique Williams gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"Dominique Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:21",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"Mike Fofana defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"Matthew Butler misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Dominique Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:55",
+							 "visitorText":"Dominique Williams turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"Mike Fofana personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:24",
+							 "visitorText":"Mike Fofana defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"Mike Fofana misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"17:15",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Dominique Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"0-4",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"Skyhawks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Mike Fofana turnover (bad pass) (Michael Finke steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (lost ball) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Matthew Butler misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:05",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:57",
+							 "visitorText":"Jailen Gill defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"Mike Fofana misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (bad pass) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"15:37",
+							 "visitorText":"DelFincko Bogan makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (DelFincko Bogan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-4",
+							 "time":"15:37",
+							 "visitorText":"DelFincko Bogan makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"DelFincko Bogan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"15:03",
+							 "visitorText":"Matthew Butler makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Kipper Nichols blocks Jailen Gill's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (bad pass) (Kahari Beaufort steals)"
+							 },
+							 {
+							 "score":"7-4",
+							 "time":"14:32",
+							 "visitorText":"Kahari Beaufort makes two point layup (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Kahari Beaufort shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-5",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:22",
+							 "visitorText":"Dominique Williams personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:11",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:09",
+							 "visitorText":"Matthew Butler defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:55",
+							 "visitorText":"Kahari Beaufort misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"7-7",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"Kahari Beaufort personal foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-8",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"Matthew Butler turnover (lost ball) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (lost ball) (Jailen Gill steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Jailen Gill offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Jailen Gill turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:01",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:59",
+							 "visitorText":"DelFincko Bogan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"DelFincko Bogan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams personal foul (DelFincko Bogan draws the foul)"
+							 },
+							 {
+							 "score":"9-10",
+							 "time":"12:12",
+							 "visitorText":"Fatodd Lewis makes two point layup (Parrish Hewitt assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"DelFincko Bogan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-10",
+							 "time":"11:43",
+							 "visitorText":"DelFincko Bogan makes three point jump shot (Parrish Hewitt assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:34",
+							 "visitorText":"Parrish Hewitt personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:34",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-13",
+							 "time":"11:23",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"DelFincko Bogan turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"Dominique Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"Matthew Butler personal foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (palming)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"Matthew Butler turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-15",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Fatodd Lewis shooting foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-16",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"Matthew Butler misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:03",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"12-18",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul (Matthew Butler draws the foul)"
+							 },
+							 {
+							 "score":"13-18",
+							 "time":"8:36",
+							 "visitorText":"Matthew Butler makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-18",
+							 "time":"8:36",
+							 "visitorText":"Matthew Butler makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-20",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point jump shot"
+							 },
+							 {
+							 "score":"16-20",
+							 "time":"7:47",
+							 "visitorText":"Dominique Williams makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"Jerome Davis shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"16-21",
+							 "time":"7:33",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"Terrence Parker misses two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Terrence Parker offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-21",
+							 "time":"7:20",
+							 "visitorText":"Terrence Parker makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-23",
+							 "time":"7:01",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"20-23",
+							 "time":"6:41",
+							 "visitorText":"Dominique Williams makes two point hook shot (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"Terrence Parker shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-24",
+							 "time":"6:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"20-25",
+							 "time":"6:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"Darius Thompson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"DelFincko Bogan misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"Terrence Parker offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-25",
+							 "time":"5:53",
+							 "visitorText":"DelFincko Bogan makes two point jump shot (Terrence Parker assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-27",
+							 "time":"5:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"DelFincko Bogan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (bad pass) (Darius Thompson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"Terrence Parker turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-29",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Jailen Gill turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Fatodd Lewis blocks Da'Monte Williams's two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:54",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:51",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (lost ball) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:37",
+							 "visitorText":"Fatodd Lewis misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (lost ball) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Dominique Williams offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Dominique Williams turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Fatodd Lewis personal foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-30",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"22-31",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Darius Thompson draws the foul)"
+							 },
+							 {
+							 "score":"23-31",
+							 "time":"3:04",
+							 "visitorText":"Darius Thompson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-31",
+							 "time":"3:04",
+							 "visitorText":"Darius Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-34",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Aaron Jordan assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"Matthew Butler misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:38",
+							 "visitorText":"Fatodd Lewis offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-34",
+							 "time":"2:33",
+							 "visitorText":"Fatodd Lewis makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-37",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"Fatodd Lewis turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-39",
+							 "time":"1:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"29-39",
+							 "time":"1:34",
+							 "visitorText":"DelFincko Bogan makes three point jump shot (Darius Thompson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-42",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"Matthew Butler misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"Darius Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"Darius Thompson turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-44",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Darius Thompson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:54",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:52",
+							 "visitorText":"Fatodd Lewis defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"DelFincko Bogan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"",
+							 "homeText":"Kahari Beaufort blocks Mark Smith's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:20",
+							 "visitorText":"Matthew Butler personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"Fatodd Lewis shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-45",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-46",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Matthew Butler turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-48",
+							 "time":"18:49",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point driving layup"
+							 },
+							 {
+							 "score":"31-48",
+							 "time":"18:37",
+							 "visitorText":"Fatodd Lewis makes two point layup (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"Skyhawks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"Kahari Beaufort personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Mike Fofana personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:01",
+							 "visitorText":"Terrence Parker defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-48",
+							 "time":"17:47",
+							 "visitorText":"Dominique Williams makes two point layup (Terrence Parker assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-51",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"36-51",
+							 "time":"17:07",
+							 "visitorText":"Matthew Butler makes three point jump shot (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (bad pass) (Dominique Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"DelFincko Bogan offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"DelFincko Bogan turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:33",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"Mike Fofana personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Terrence Parker turnover (offensive goaltending)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-51",
+							 "time":"15:32",
+							 "visitorText":"Dominique Williams makes two point layup (Matthew Butler assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover"
+							 },
+							 {
+							 "score":"41-51",
+							 "time":"15:10",
+							 "visitorText":"DelFincko Bogan makes three point jump shot (Fatodd Lewis assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (bad pass) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"43-51",
+							 "time":"14:30",
+							 "visitorText":"DelFincko Bogan makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (DelFincko Bogan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"44-51",
+							 "time":"14:30",
+							 "visitorText":"DelFincko Bogan makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:14",
+							 "visitorText":"Terrence Parker defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:48",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"Dominique Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"Darius Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-51",
+							 "time":"13:32",
+							 "visitorText":"Matthew Butler makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"47-53",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:53",
+							 "visitorText":"Matthew Butler turnover (lost ball) (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"Dominique Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Matthew Butler misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:26",
+							 "visitorText":"Dominique Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"Dominique Williams misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"Terrence Parker turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Terrence Parker shooting foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-54",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"47-55",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"49-55",
+							 "time":"11:28",
+							 "visitorText":"DelFincko Bogan makes two point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-57",
+							 "time":"11:10",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"Jerome Davis shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"Fatodd Lewis defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"Jerome Davis offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"Jerome Davis turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:50",
+							 "visitorText":"Matthew Butler defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"51-57",
+							 "time":"10:33",
+							 "visitorText":"Terrence Parker makes two point layup (Dominique Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-59",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point hook shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Fatodd Lewis misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"Fatodd Lewis offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Terrence Parker draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"Terrence Parker misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"Terrence Parker shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-60",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"51-61",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:09",
+							 "visitorText":"Dominique Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Terrence Parker defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"Matthew Butler misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:30",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:19",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:19",
+							 "visitorText":"Dominique Williams personal foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-62",
+							 "time":"8:19",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"51-63",
+							 "time":"8:19",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"Aaron Jordan blocks Dominique Williams's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"Skyhawks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"Skyhawks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Matthew Butler misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"51-65",
+							 "time":"7:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Fatodd Lewis misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover"
+							 },
+							 {
+							 "score":"53-65",
+							 "time":"7:04",
+							 "visitorText":"DelFincko Bogan makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Skyhawks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Jailen Gill blocks Kipper Nichols's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:51",
+							 "visitorText":"Dominique Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"Jailen Gill turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-67",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:05",
+							 "visitorText":"Dominique Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul (Darius Thompson draws the foul)"
+							 },
+							 {
+							 "score":"54-67",
+							 "time":"5:34",
+							 "visitorText":"Darius Thompson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-67",
+							 "time":"5:34",
+							 "visitorText":"Darius Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:23",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"Matthew Butler defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:14",
+							 "visitorText":"Leron Black blocks Jailen Gill's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"Dominique Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Dominique Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Dominique Williams misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Skyhawks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-67",
+							 "time":"4:51",
+							 "visitorText":"Dominique Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-70",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"Terrence Parker shooting foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"Jerome Davis shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"56-71",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Matthew Butler turnover (bad pass) (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Dominique Williams personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"56-72",
+							 "time":"4:24",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"58-72",
+							 "time":"4:14",
+							 "visitorText":"Dominique Williams makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-74",
+							 "time":"3:51",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point dunk (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"60-74",
+							 "time":"3:36",
+							 "visitorText":"Dominique Williams makes two point layup (Fatodd Lewis assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Fatodd Lewis defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-74",
+							 "time":"3:00",
+							 "visitorText":"DelFincko Bogan makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Fatodd Lewis defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-74",
+							 "time":"2:22",
+							 "visitorText":"Matthew Butler makes three point jump shot (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-76",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"68-76",
+							 "time":"1:38",
+							 "visitorText":"Matthew Butler makes three point jump shot (DelFincko Bogan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols shooting foul (Darius Thompson draws the foul)"
+							 },
+							 {
+							 "score":"69-76",
+							 "time":"1:22",
+							 "visitorText":"Darius Thompson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-76",
+							 "time":"1:22",
+							 "visitorText":"Darius Thompson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (lost ball) (DelFincko Bogan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul (Dominique Williams draws the foul)"
+							 },
+							 {
+							 "score":"71-76",
+							 "time":"1:07",
+							 "visitorText":"Dominique Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-76",
+							 "time":"1:07",
+							 "visitorText":"Dominique Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Matthew Butler personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-77",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Skyhawks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"DelFincko Bogan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"DelFincko Bogan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:47",
+							 "visitorText":"DelFincko Bogan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Fatodd Lewis offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-77",
+							 "time":"00:41",
+							 "visitorText":"Fatodd Lewis makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"Matthew Butler defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Matthew Butler misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Skyhawks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Matthew Butler misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

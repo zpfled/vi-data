@@ -1,0 +1,1981 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Indiana",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "760",
+				"seoName": "indiana",
+				"sixCharAbbr": "IND",
+				"shortName": "Indiana",	
+				"nickName": "Hoosiers",		
+				"color": "#9e1b32"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Justin Smith vs. Michael Finke (Hoosiers gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"Juwan Morgan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:45",
+							 "visitorText":"Zach McRoberts offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:28",
+							 "visitorText":"Juwan Morgan makes two point layup (Josh Newkirk assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (bad pass) (Juwan Morgan steals)"
+							 },
+							 {
+							 "score":"5-0",
+							 "time":"19:06",
+							 "visitorText":"Zach McRoberts makes three point jump shot (Juwan Morgan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-2",
+							 "time":"18:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Justin Smith draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"Zach McRoberts misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"Juwan Morgan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-2",
+							 "time":"18:07",
+							 "visitorText":"Justin Smith makes two point layup (Juwan Morgan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"Robert Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Justin Smith turnover (lost ball) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-4",
+							 "time":"17:10",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"10-4",
+							 "time":"17:03",
+							 "visitorText":"Juwan Morgan makes three point jump shot (Josh Newkirk assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:51",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:49",
+							 "visitorText":"Zach McRoberts defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"Robert Johnson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Juwan Morgan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-4",
+							 "time":"16:30",
+							 "visitorText":"Juwan Morgan makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:18",
+							 "visitorText":"Robert Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Zach McRoberts draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:09",
+							 "visitorText":"Josh Newkirk turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-6",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"Juwan Morgan turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"Juwan Morgan personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point alley-oop layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-6",
+							 "time":"14:50",
+							 "visitorText":"Juwan Morgan makes two point layup (Collin Hartman assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Collin Hartman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass) (Robert Johnson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:54",
+							 "visitorText":"Robert Johnson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"14-8",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:15",
+							 "visitorText":"Robert Johnson offensive foul (Greg Eboigbodin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:15",
+							 "visitorText":"Robert Johnson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (bad pass) (Zach McRoberts steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Devonte Green misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:45",
+							 "visitorText":"Freddie McSwain Jr. defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"Zach McRoberts misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Aaron Jordan vs. Collin Hartman (Fighting Illini gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (lost ball) (Devonte Green steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"Kipper Nichols blocks Freddie McSwain Jr.'s two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:42",
+							 "visitorText":"",
+							 "homeText":"Aljami Durham blocks Trent Frazier's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"Devonte Green defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"Freddie McSwain Jr. turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-8",
+							 "time":"11:05",
+							 "visitorText":"Justin Smith makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-10",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point finger roll layup (Leron Black assists)"
+							 },
+							 {
+							 "score":"19-10",
+							 "time":"10:20",
+							 "visitorText":"Zach McRoberts makes three point jump shot (Devonte Green assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-12",
+							 "time":"9:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"Zach McRoberts misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Hoosiers turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:20",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-14",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"21-14",
+							 "time":"8:35",
+							 "visitorText":"Juwan Morgan makes two point layup (Aljami Durham assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"22-14",
+							 "time":"8:35",
+							 "visitorText":"Juwan Morgan makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Aljami Durham personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"Justin Smith turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-16",
+							 "time":"7:06",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:58",
+							 "visitorText":"Robert Johnson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:47",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:45",
+							 "visitorText":"Aljami Durham defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Freddie McSwain Jr. draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"Freddie McSwain Jr. misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-16",
+							 "time":"6:39",
+							 "visitorText":"Freddie McSwain Jr. makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-18",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Juwan Morgan misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-18",
+							 "time":"6:12",
+							 "visitorText":"Juwan Morgan makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-20",
+							 "time":"6:02",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point finger roll layup"
+							 },
+							 {
+							 "score":"27-20",
+							 "time":"5:50",
+							 "visitorText":"Robert Johnson makes three point jump shot (Collin Hartman assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Collin Hartman personal foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (bad pass) (Collin Hartman steals)"
+							 },
+							 {
+							 "score":"29-20",
+							 "time":"4:51",
+							 "visitorText":"Juwan Morgan makes two point dunk (Devonte Green assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-23",
+							 "time":"4:34",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"31-23",
+							 "time":"4:20",
+							 "visitorText":"Collin Hartman makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"Collin Hartman shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"31-24",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:37",
+							 "visitorText":"Robert Johnson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"Zach McRoberts offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-24",
+							 "time":"3:31",
+							 "visitorText":"Zach McRoberts makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"Devonte Green personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-26",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Jump ball. Justin Smith vs. Greg Eboigbodin (Hoosiers gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-26",
+							 "time":"2:19",
+							 "visitorText":"Zach McRoberts makes two point layup (Devonte Green assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-29",
+							 "time":"1:59",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"Juwan Morgan misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"Juwan Morgan misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-29",
+							 "time":"00:56",
+							 "visitorText":"Robert Johnson makes three point jump shot (Zach McRoberts assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"38-32",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"Hoosiers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Devonte Green misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Freddie McSwain Jr. blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Freddie McSwain Jr. defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"38-34",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:21",
+							 "visitorText":"Leron Black blocks Juwan Morgan's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"19:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"Josh Newkirk misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:39",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:37",
+							 "visitorText":"Juwan Morgan personal foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-37",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"38-38",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"40-38",
+							 "time":"18:25",
+							 "visitorText":"Juwan Morgan makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"Zach McRoberts shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-39",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"Robert Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols shooting foul (Collin Hartman draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Collin Hartman misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-39",
+							 "time":"18:02",
+							 "visitorText":"Collin Hartman makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point reverse layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"Hoosiers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"Josh Newkirk turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Juwan Morgan misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Juwan Morgan misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:40",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:38",
+							 "visitorText":"Collin Hartman defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-39",
+							 "time":"16:33",
+							 "visitorText":"Juwan Morgan makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-41",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Zach McRoberts shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-42",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"Collin Hartman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"Collin Hartman offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-42",
+							 "time":"15:47",
+							 "visitorText":"Juwan Morgan makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-44",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"Devonte Green misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Juwan Morgan personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Collin Hartman personal foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"Freddie McSwain Jr. shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"45-45",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"47-45",
+							 "time":"14:09",
+							 "visitorText":"Collin Hartman makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Freddie McSwain Jr. blocks Leron Black's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"Robert Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-45",
+							 "time":"13:37",
+							 "visitorText":"Robert Johnson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (bad pass) (Josh Newkirk steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul (Josh Newkirk draws the foul)"
+							 },
+							 {
+							 "score":"50-45",
+							 "time":"13:21",
+							 "visitorText":"Josh Newkirk makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-45",
+							 "time":"13:21",
+							 "visitorText":"Josh Newkirk makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:59",
+							 "visitorText":"Freddie McSwain Jr. personal foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-46",
+							 "time":"12:59",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"51-47",
+							 "time":"12:59",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"Zach McRoberts turnover (lost ball) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-49",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:24",
+							 "visitorText":"Josh Newkirk turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-51",
+							 "time":"12:13",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"Robert Johnson turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-53",
+							 "time":"11:40",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"Josh Newkirk turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"Justin Smith personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-54",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"51-55",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"53-55",
+							 "time":"11:11",
+							 "visitorText":"Justin Smith makes two point dunk (Devonte Green assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-57",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point hook shot (Aaron Jordan assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"Justin Smith shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-58",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"55-58",
+							 "time":"10:42",
+							 "visitorText":"Juwan Morgan makes two point layup (Devonte Green assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"Robert Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"Aljami Durham misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:03",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"Aljami Durham turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"Devonte Green personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-59",
+							 "time":"9:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"55-60",
+							 "time":"9:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Devonte Green misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-60",
+							 "time":"9:11",
+							 "visitorText":"Devonte Green makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Juwan Morgan turnover (lost ball) (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols shooting foul (Aljami Durham draws the foul)"
+							 },
+							 {
+							 "score":"57-60",
+							 "time":"8:09",
+							 "visitorText":"Aljami Durham makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Aljami Durham misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Freddie McSwain Jr. blocks Te'Jon Lucas's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:38",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"Justin Smith turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Devonte Green shooting foul (Greg Eboigbodin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"Devonte Green misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:17",
+							 "visitorText":"Zach McRoberts defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:59",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul (Freddie McSwain Jr. draws the foul)"
+							 },
+							 {
+							 "score":"58-60",
+							 "time":"5:59",
+							 "visitorText":"Freddie McSwain Jr. makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-60",
+							 "time":"5:59",
+							 "visitorText":"Freddie McSwain Jr. makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Freddie McSwain Jr. personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-61",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"59-62",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"60-62",
+							 "time":"5:18",
+							 "visitorText":"Devonte Green makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-62",
+							 "time":"5:18",
+							 "visitorText":"Devonte Green makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Freddie McSwain Jr. defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Robert Johnson offensive foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Robert Johnson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"Freddie McSwain Jr. shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-63",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-64",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"Devonte Green misses two point alley-oop layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Collin Hartman personal foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-65",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-66",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul (Collin Hartman draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Collin Hartman misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Collin Hartman misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-66",
+							 "time":"2:48",
+							 "visitorText":"Devonte Green makes two point jump shot (Juwan Morgan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-69",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"Collin Hartman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"Devonte Green defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Devonte Green turnover (Leron Black steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Collin Hartman shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"63-71",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Hoosiers 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-71",
+							 "time":"1:02",
+							 "visitorText":"Juwan Morgan makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"Hoosiers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:56",
+							 "visitorText":"Zach McRoberts personal foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-72",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"65-73",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"66-73",
+							 "time":"00:50",
+							 "visitorText":"Devonte Green makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-73",
+							 "time":"00:50",
+							 "visitorText":"Devonte Green makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (bad pass) (Robert Johnson steals)"
+							 },
+							 {
+							 "score":"69-73",
+							 "time":"00:40",
+							 "visitorText":"Juwan Morgan makes two point layup (Robert Johnson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Juwan Morgan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"70-73",
+							 "time":"00:40",
+							 "visitorText":"Juwan Morgan makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul (Devonte Green draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Devonte Green misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Hoosiers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-73",
+							 "time":"00:08",
+							 "visitorText":"Devonte Green makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Juwan Morgan personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Hoosiers 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Zach McRoberts defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Devonte Green turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Zach McRoberts personal foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Juwan Morgan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

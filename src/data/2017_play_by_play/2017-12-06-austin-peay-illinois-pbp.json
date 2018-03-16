@@ -1,0 +1,2125 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Austin Peay",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "464",
+				"seoName": "austin-peay",
+				"sixCharAbbr": "A PEAY",
+				"shortName": "Austin Peay",	
+				"nickName": "Governors",		
+				"color": "#C41E3A"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Terry Taylor vs. Michael Finke (Tre' Ivory gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:39",
+							 "visitorText":"Averyl Ugba makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:06",
+							 "visitorText":"Chris Porter-Bunton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:04",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:48",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"4-0",
+							 "time":"18:23",
+							 "visitorText":"Chris Porter-Bunton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-2",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:03",
+							 "visitorText":"Averyl Ugba turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:03",
+							 "visitorText":"Averyl Ugba personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-4",
+							 "time":"17:49",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:33",
+							 "visitorText":"Terry Taylor misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Terry Taylor defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:06",
+							 "visitorText":"Chris Porter-Bunton turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:40",
+							 "visitorText":"Dayton Gumm personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-6",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Deyshawn Martin shooting foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Terry Taylor defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Steve Harris misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Governors rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Steve Harris misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"4-8",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"6-8",
+							 "time":"15:47",
+							 "visitorText":"Tre' Ivory makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-11",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Tre' Ivory misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:12",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"Deyshawn Martin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Dayton Gumm offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Dayton Gumm turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-13",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:09",
+							 "visitorText":"Steve Harris misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:07",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:54",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (Tre' Ivory steals)"
+							 },
+							 {
+							 "score":"8-13",
+							 "time":"13:46",
+							 "visitorText":"Steve Harris makes two point layup (Tre' Ivory assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-13",
+							 "time":"13:17",
+							 "visitorText":"Chris Porter-Bunton makes two point layup (Zach Glotta assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"Steve Harris misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Averyl Ugba blocks Te'Jon Lucas's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Terry Taylor defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:24",
+							 "visitorText":"Terry Taylor misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"Terry Taylor offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-13",
+							 "time":"12:16",
+							 "visitorText":"Averyl Ugba makes two point jump shot (Chris Porter-Bunton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Steve Harris misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"Terry Taylor offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"Terry Taylor misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"Zach Glotta personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"Acoydan McCarthy personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin turnover"
+							 },
+							 {
+							 "score":"14-13",
+							 "time":"11:19",
+							 "visitorText":"Averyl Ugba makes two point layup (Zach Glotta assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (Steve Harris steals)"
+							 },
+							 {
+							 "score":"16-13",
+							 "time":"10:28",
+							 "visitorText":"Terry Taylor makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"Steve Harris personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Averyl Ugba defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Te'Jon Lucas blocks Steve Harris's two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Governors offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:07",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Tre' Ivory offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Tre' Ivory turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (Tre' Ivory steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"Steve Harris misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (Tre' Ivory steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"Tre' Ivory misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:00",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"17-13",
+							 "time":"8:35",
+							 "visitorText":"Chris Porter-Bunton makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Chris Porter-Bunton misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:28",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"17-15",
+							 "time":"8:24",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Tre' Ivory turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:02",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (Chris Porter-Bunton steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:52",
+							 "visitorText":"Chris Porter-Bunton turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:38",
+							 "visitorText":"Deyshawn Martin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:10",
+							 "visitorText":"Deyshawn Martin misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:41",
+							 "visitorText":"Deyshawn Martin offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:41",
+							 "visitorText":"Deyshawn Martin turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (Terry Taylor steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"Terry Taylor turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Tre' Ivory steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul"
+							 },
+							 {
+							 "score":"18-15",
+							 "time":"6:00",
+							 "visitorText":"Tre' Ivory makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-15",
+							 "time":"6:00",
+							 "visitorText":"Tre' Ivory makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:40",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:38",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"Steve Harris turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"Chris Porter-Bunton turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:27",
+							 "visitorText":"Steve Harris defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Averyl Ugba draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Averyl Ugba misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Governors rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-15",
+							 "time":"4:14",
+							 "visitorText":"Averyl Ugba makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Chris Porter-Bunton blocks Michael Finke's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"20-17",
+							 "time":"3:12",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot"
+							 },
+							 {
+							 "score":"22-17",
+							 "time":"2:43",
+							 "visitorText":"Averyl Ugba makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"Chris Porter-Bunton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-18",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"22-19",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:20",
+							 "visitorText":"Tre' Ivory turnover (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"Terry Taylor personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-20",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"22-21",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Tre' Ivory draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"Tre' Ivory misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"Governors rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-21",
+							 "time":"2:05",
+							 "visitorText":"Tre' Ivory makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-23",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"Steve Harris misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"Averyl Ugba offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-23",
+							 "time":"1:18",
+							 "visitorText":"Terry Taylor makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Terry Taylor defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-23",
+							 "time":"00:57",
+							 "visitorText":"Steve Harris makes two point layup (Averyl Ugba assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"Michael Finke shooting foul"
+							 },
+							 {
+							 "score":"28-23",
+							 "time":"00:57",
+							 "visitorText":"Steve Harris makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (Averyl Ugba steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"Chris Porter-Bunton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"28-25",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Chris Porter-Bunton turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Steve Harris personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"28-26",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"Governors 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"Steve Harris misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Dayton Gumm misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"Terry Taylor turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-28",
+							 "time":"19:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"30-28",
+							 "time":"18:57",
+							 "visitorText":"Terry Taylor makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-30",
+							 "time":"18:39",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup"
+							 },
+							 {
+							 "score":"32-30",
+							 "time":"18:19",
+							 "visitorText":"Averyl Ugba makes two point layup (Chris Porter-Bunton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Tre' Ivory personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:01",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:59",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"Mark Alstork blocks Dayton Gumm's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"Governors offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"Terry Taylor misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:41",
+							 "visitorText":"Governors offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:10",
+							 "visitorText":"Terry Taylor misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:08",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (Dayton Gumm steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Terry Taylor turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (Chris Porter-Bunton steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"Governors 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"Tre' Ivory offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"Tre' Ivory turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-32",
+							 "time":"16:28",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:08",
+							 "visitorText":"Steve Harris turnover (Michael Finke steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"",
+							 "homeText":"Averyl Ugba blocks Michael Finke's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"Averyl Ugba defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"Averyl Ugba misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:48",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:41",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:39",
+							 "visitorText":"Steve Harris defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:32",
+							 "visitorText":"Dayton Gumm turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:32",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-34",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Michael Finke blocks Dayton Gumm's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Averyl Ugba offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"Averyl Ugba misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"Averyl Ugba offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"Averyl Ugba misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"32-36",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point dunk (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Mark Alstork blocks Steve Harris's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"Terry Taylor offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-36",
+							 "time":"13:58",
+							 "visitorText":"Terry Taylor makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Dayton Gumm personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:47",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Zach Glotta defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Zach Glotta offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Zach Glotta turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:25",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (Chris Porter-Bunton steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"Chris Porter-Bunton turnover (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:51",
+							 "visitorText":"Steve Harris shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:51",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"34-37",
+							 "time":"12:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"36-37",
+							 "time":"12:43",
+							 "visitorText":"Terry Taylor makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:27",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (Chris Porter-Bunton steals)"
+							 },
+							 {
+							 "score":"38-37",
+							 "time":"12:12",
+							 "visitorText":"Tre' Ivory makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (Steve Harris steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"Steve Harris turnover (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:34",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:32",
+							 "visitorText":"Chris Porter-Bunton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"40-37",
+							 "time":"11:06",
+							 "visitorText":"Steve Harris makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Averyl Ugba defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"Chris Porter-Bunton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"Deyshawn Martin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:11",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Deyshawn Martin personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Averyl Ugba steals)"
+							 },
+							 {
+							 "score":"42-37",
+							 "time":"9:51",
+							 "visitorText":"Averyl Ugba makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"Averyl Ugba personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"42-38",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:26",
+							 "visitorText":"Tre' Ivory turnover (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-40",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point layup"
+							 },
+							 {
+							 "score":"45-40",
+							 "time":"9:01",
+							 "visitorText":"Dayton Gumm makes three point jump shot (Chris Porter-Bunton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-42",
+							 "time":"8:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"Leron Black blocks Tre' Ivory's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:14",
+							 "visitorText":"Deyshawn Martin personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-43",
+							 "time":"8:14",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"45-44",
+							 "time":"8:14",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"Terry Taylor turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-46",
+							 "time":"7:34",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"48-46",
+							 "time":"7:05",
+							 "visitorText":"Terry Taylor makes three point jump shot (Tre' Ivory assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:35",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"Tre' Ivory defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Terry Taylor turnover (double dribble)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Dayton Gumm defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-46",
+							 "time":"5:52",
+							 "visitorText":"Dayton Gumm makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"Tre' Ivory personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-47",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Averyl Ugba personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-48",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-49",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"Dayton Gumm misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Averyl Ugba personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"50-50",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"Zach Glotta turnover (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-53",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Steve Harris misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"Chris Porter-Bunton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-54",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-55",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"52-55",
+							 "time":"3:52",
+							 "visitorText":"Chris Porter-Bunton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"Tre' Ivory personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-56",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"52-57",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:12",
+							 "visitorText":"Dayton Gumm misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"Averyl Ugba offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-57",
+							 "time":"3:06",
+							 "visitorText":"Averyl Ugba makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Terry Taylor misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Averyl Ugba offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"Steve Harris misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"54-59",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"56-59",
+							 "time":"1:46",
+							 "visitorText":"Chris Porter-Bunton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Governors 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (Steve Harris steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"Governors 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Terry Taylor misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Governors turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"Chris Porter-Bunton shooting foul (Te'Jon Lucas draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-60",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"56-61",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Michael Finke shooting foul (Dayton Gumm draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"Dayton Gumm misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"Governors rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-61",
+							 "time":"00:14",
+							 "visitorText":"Dayton Gumm makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"Chris Porter-Bunton personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"57-62",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Zach Glotta misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"57-64",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

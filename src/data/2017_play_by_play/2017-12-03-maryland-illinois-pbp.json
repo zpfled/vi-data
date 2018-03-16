@@ -1,0 +1,2084 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Maryland",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "3",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "2503",
+				"seoName": "maryland",
+				"sixCharAbbr": "MD",
+				"shortName": "Maryland",	
+				"nickName": "Terrapins, Terps",		
+				"color": "#e31836"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michal Cekovsky vs. Michael Finke (Leron Black gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:37",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:30",
+							 "visitorText":"Justin Jackson turnover (bad pass) (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:27",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"Michal Cekovsky misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:16",
+							 "visitorText":"Justin Jackson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"Justin Jackson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:44",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"18:35",
+							 "visitorText":"Justin Jackson makes two point dunk (Kevin Huerter assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:18",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Justin Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-0",
+							 "time":"17:47",
+							 "visitorText":"Justin Jackson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:32",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (lost ball) (Anthony Cowan Jr. steals)"
+							 },
+							 {
+							 "score":"6-0",
+							 "time":"17:27",
+							 "visitorText":"Anthony Cowan Jr. makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-0",
+							 "time":"16:37",
+							 "visitorText":"Ivan Bender makes two point layup (Kevin Huerter assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (lost ball) (Michal Cekovsky steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Kevin Huerter turnover (lost ball) (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:05",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (lost ball) (Anthony Cowan Jr. steals)"
+							 },
+							 {
+							 "score":"10-0",
+							 "time":"15:57",
+							 "visitorText":"Michal Cekovsky makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:57",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-2",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:27",
+							 "visitorText":"Justin Jackson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:25",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Ivan Bender personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:06",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:04",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Bruno Fernando blocks Kipper Nichols's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"Anthony Cowan Jr. defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-2",
+							 "time":"14:55",
+							 "visitorText":"Kevin Huerter makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-5",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Anthony Cowan Jr. draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"Anthony Cowan Jr. misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"Terrapins rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-5",
+							 "time":"14:17",
+							 "visitorText":"Anthony Cowan Jr. makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:57",
+							 "visitorText":"Justin Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Anthony Cowan Jr. misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Bruno Fernando personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-7",
+							 "time":"13:15",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"Darryl Morsell turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-9",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"Darryl Morsell misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Darryl Morsell offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Darryl Morsell draws the foul)"
+							 },
+							 {
+							 "score":"14-9",
+							 "time":"12:29",
+							 "visitorText":"Darryl Morsell makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Darryl Morsell misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:13",
+							 "visitorText":"Kevin Huerter turnover (lost ball) (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"Darryl Morsell defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Michal Cekovsky offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Michal Cekovsky turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"Michal Cekovsky defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"Darryl Morsell turnover (lost ball) (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"Michal Cekovsky personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"Anthony Cowan Jr. turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-11",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup (Michael Finke assists)"
+							 },
+							 {
+							 "score":"17-11",
+							 "time":"10:25",
+							 "visitorText":"Dion Wiley makes three point jump shot (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"17-13",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"Justin Jackson offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"Justin Jackson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Justin Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-13",
+							 "time":"9:37",
+							 "visitorText":"Anthony Cowan Jr. makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-15",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point driving layup"
+							 },
+							 {
+							 "score":"22-15",
+							 "time":"9:06",
+							 "visitorText":"Justin Jackson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-18",
+							 "time":"8:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes three point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"25-18",
+							 "time":"8:36",
+							 "visitorText":"Anthony Cowan Jr. makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Justin Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"Ivan Bender turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-18",
+							 "time":"7:28",
+							 "visitorText":"Anthony Cowan Jr. makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-18",
+							 "time":"6:59",
+							 "visitorText":"Kevin Huerter makes three point jump shot (Ivan Bender assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:45",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"Darryl Morsell defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-18",
+							 "time":"6:26",
+							 "visitorText":"Ivan Bender makes two point layup (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"Darryl Morsell kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"Ivan Bender defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:35",
+							 "visitorText":"Ivan Bender turnover (bad pass) (Greg Eboigbodin steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"32-20",
+							 "time":"5:27",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point putback layup"
+							 },
+							 {
+							 "score":"34-20",
+							 "time":"5:00",
+							 "visitorText":"Anthony Cowan Jr. makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:39",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Justin Jackson blocks Kipper Nichols's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Bruno Fernando defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-20",
+							 "time":"4:17",
+							 "visitorText":"Bruno Fernando makes two point hook shot (Kevin Huerter assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:13",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:13",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Bruno Fernando defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-20",
+							 "time":"3:35",
+							 "visitorText":"Anthony Cowan Jr. makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-22",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"Justin Jackson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"",
+							 "homeText":"Justin Jackson blocks Mark Alstork's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"Justin Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-22",
+							 "time":"2:24",
+							 "visitorText":"Kevin Huerter makes two point layup (Justin Jackson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"Bruno Fernando defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"Dion Wiley misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Justin Jackson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-22",
+							 "time":"1:45",
+							 "visitorText":"Justin Jackson makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:36",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"43-24",
+							 "time":"1:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:21",
+							 "visitorText":"Terrapins 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-24",
+							 "time":"1:06",
+							 "visitorText":"Dion Wiley makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-26",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"Jump ball.  (Terrapins gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Anthony Cowan Jr. misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Bruno Fernando personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Darryl Morsell blocks Mark Smith's three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"45-28",
+							 "time":"19:46",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point finger roll layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:29",
+							 "visitorText":"Kevin Huerter misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:27",
+							 "visitorText":"Dion Wiley offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-28",
+							 "time":"19:22",
+							 "visitorText":"Justin Jackson makes two point layup (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Justin Jackson draws the foul)"
+							 },
+							 {
+							 "score":"48-28",
+							 "time":"19:22",
+							 "visitorText":"Justin Jackson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-30",
+							 "time":"19:03",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"Kevin Huerter misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:43",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:40",
+							 "visitorText":"Kevin Huerter personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (lost ball) (Justin Jackson steals)"
+							 },
+							 {
+							 "score":"50-30",
+							 "time":"18:30",
+							 "visitorText":"Michal Cekovsky makes two point layup (Kevin Huerter assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (lost ball) (Dion Wiley steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Justin Jackson turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-30",
+							 "time":"17:27",
+							 "visitorText":"Kevin Huerter makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-33",
+							 "time":"17:20",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"Anthony Cowan Jr. turnover (bad pass) (Leron Black steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-35",
+							 "time":"17:02",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Michal Cekovsky shooting foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Dion Wiley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"Justin Jackson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"52-37",
+							 "time":"16:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul"
+							 },
+							 {
+							 "score":"55-37",
+							 "time":"16:14",
+							 "visitorText":"Justin Jackson makes three point jump shot (Kevin Huerter assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Dion Wiley personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"Bruno Fernando misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Bruno Fernando offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-37",
+							 "time":"15:23",
+							 "visitorText":"Bruno Fernando makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-39",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"Anthony Cowan Jr. turnover (lost ball) (Mark Smith steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-41",
+							 "time":"14:53",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul (Bruno Fernando draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:21",
+							 "visitorText":"Kevin Huerter turnover (bad pass) (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"Bruno Fernando personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-43",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:47",
+							 "visitorText":"Darryl Morsell turnover (lost ball) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"58-43",
+							 "time":"13:42",
+							 "visitorText":"Kevin Huerter makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-43",
+							 "time":"13:42",
+							 "visitorText":"Kevin Huerter makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:17",
+							 "visitorText":"Ivan Bender defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Justin Jackson turnover (lost ball) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Justin Jackson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:01",
+							 "visitorText":"Ivan Bender personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-46",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Darryl Morsell misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"59-48",
+							 "time":"12:25",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"Terrapins 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-48",
+							 "time":"12:05",
+							 "visitorText":"Darryl Morsell makes two point layup (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Darryl Morsell defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"Dion Wiley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"Anthony Cowan Jr. shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"61-49",
+							 "time":"11:26",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"Michal Cekovsky misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"Darryl Morsell offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-49",
+							 "time":"10:58",
+							 "visitorText":"Darryl Morsell makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-52",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Anthony Cowan Jr. turnover (bad pass) (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-54",
+							 "time":"10:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Kevin Huerter misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"63-57",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"Terrapins 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (Bruno Fernando draws the foul)"
+							 },
+							 {
+							 "score":"64-57",
+							 "time":"9:27",
+							 "visitorText":"Bruno Fernando makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-57",
+							 "time":"9:27",
+							 "visitorText":"Bruno Fernando makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:12",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"Bruno Fernando defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"Justin Jackson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:02",
+							 "visitorText":"Bruno Fernando offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Bruno Fernando turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-59",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul"
+							 },
+							 {
+							 "score":"66-59",
+							 "time":"8:21",
+							 "visitorText":"Justin Jackson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-59",
+							 "time":"8:21",
+							 "visitorText":"Justin Jackson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-61",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"Kevin Huerter misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Kevin Huerter defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Jump ball.  (Terrapins gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Anthony Cowan Jr. misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Bruno Fernando offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Bruno Fernando misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:48",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"67-63",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Justin Jackson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:10",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"",
+							 "homeText":"Kevin Huerter blocks Aaron Jordan's three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:55",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (lost ball) (Anthony Cowan Jr. steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Bruno Fernando turnover (bad pass) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"Kevin Huerter personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-64",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"67-65",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"Terrapins 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-65",
+							 "time":"5:06",
+							 "visitorText":"Anthony Cowan Jr. makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-67",
+							 "time":"4:46",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Anthony Cowan Jr. turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"Kevin Huerter personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-68",
+							 "time":"4:04",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"69-69",
+							 "time":"4:04",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"Anthony Cowan Jr. misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:16",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:14",
+							 "visitorText":"Ivan Bender defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-69",
+							 "time":"3:01",
+							 "visitorText":"Darryl Morsell makes two point reverse layup (Justin Jackson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-71",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-71",
+							 "time":"2:12",
+							 "visitorText":"Justin Jackson makes two point jump shot (Ivan Bender assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-74",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:36",
+							 "visitorText":"Anthony Cowan Jr. turnover (bad pass) (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (bad pass) (Kevin Huerter steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"Kevin Huerter turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"Anthony Cowan Jr. turnover (10-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"Kevin Huerter turnover (lost ball) (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Kipper Nichols blocks Darryl Morsell's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Anthony Cowan Jr. personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"73-75",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Anthony Cowan Jr. misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Kevin Huerter misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Bruno Fernando offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-75",
+							 "time":"00:01",
+							 "visitorText":"Bruno Fernando makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"3",
+		 "periodDisplay":"OT",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Bruno Fernando vs. Michael Finke (Anthony Cowan Jr. gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"Dion Wiley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Dion Wiley personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-76",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"75-77",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"77-77",
+							 "time":"4:19",
+							 "visitorText":"Bruno Fernando makes two point alley-oop dunk (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-80",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"80-80",
+							 "time":"3:34",
+							 "visitorText":"Anthony Cowan Jr. makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Darryl Morsell personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"80-81",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"80-82",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:17",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Anthony Cowan Jr. draws the foul)"
+							 },
+							 {
+							 "score":"81-82",
+							 "time":"3:17",
+							 "visitorText":"Anthony Cowan Jr. makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"82-82",
+							 "time":"3:17",
+							 "visitorText":"Anthony Cowan Jr. makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"82-84",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul (Kevin Huerter draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"Kevin Huerter misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"Terrapins rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"83-84",
+							 "time":"2:31",
+							 "visitorText":"Kevin Huerter makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"Bruno Fernando shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"83-85",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"85-85",
+							 "time":"1:49",
+							 "visitorText":"Anthony Cowan Jr. makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols shooting foul (Anthony Cowan Jr. draws the foul)"
+							 },
+							 {
+							 "score":"86-85",
+							 "time":"1:49",
+							 "visitorText":"Anthony Cowan Jr. makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"86-87",
+							 "time":"1:36",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Terrapins 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"88-87",
+							 "time":"1:15",
+							 "visitorText":"Justin Jackson makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"88-89",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup"
+							 },
+							 {
+							 "score":"91-89",
+							 "time":"00:39",
+							 "visitorText":"Kevin Huerter makes three point jump shot (Anthony Cowan Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"91-91",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Anthony Cowan Jr. draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"92-91",
+							 "time":"00:01",
+							 "visitorText":"Anthony Cowan Jr. makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Anthony Cowan Jr. misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st OT.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

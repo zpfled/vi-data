@@ -1,0 +1,2161 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Minnesota vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2197",
+				"seoName": "minnesota",
+				"sixCharAbbr": "MINN",
+				"shortName": "Minnesota",	
+				"nickName": "Golden Gophers",		
+				"color": "#872434"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke vs. Reggie Lynch (Golden Gophers gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point layup (Amir Coffey assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:24",
+							 "visitorText":"Reggie Lynch blocks Leron Black's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"Te'Jon Lucas misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"Leron Black personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch offensive rebound"
+							 },
+							 {
+							 "score":"0-4",
+							 "time":"18:55",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:20",
+							 "visitorText":"Te'Jon Lucas shooting foul (Amir Coffey draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-5",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"0-6",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Reggie Lynch blocks Leron Black's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"",
+							 "homeText":"Nate Mason turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:14",
+							 "visitorText":"",
+							 "homeText":"Nate Mason defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Leron Black personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Kipper Nichols shooting foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers rebound (deadball)"
+							 },
+							 {
+							 "score":"0-7",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Mark Smith personal foul (Amir Coffey draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols blocks Jordan Murphy's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:10",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy turnover (lost ball) (Michael Finke steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer defensive rebound"
+							 },
+							 {
+							 "score":"0-9",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:32",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Reggie Lynch blocks Michael Finke's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:12",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"Da'Monte Williams shooting foul (Dupree McBrayer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-10",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"0-11",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"2-11",
+							 "time":"14:59",
+							 "visitorText":"Trent Frazier makes two point driving layup (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Trent Frazier misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:37",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:00",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:54",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Bakary Konate blocks Kipper Nichols's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington turnover (bad pass) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"Aaron Jordan misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington turnover (bad pass) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Nate Mason steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-13",
+							 "time":"12:43",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point dunk (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"Greg Eboigbodin turnover (bad pass) (Bakary Konate steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-15",
+							 "time":"12:35",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes two point dunk (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"Greg Eboigbodin turnover (bad pass) (Nate Mason steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Nate Mason turnover (bad pass) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:07",
+							 "visitorText":"Trent Frazier personal foul (Isaiah Washington draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-16",
+							 "time":"12:07",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"2-17",
+							 "time":"12:07",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Leron Black misses two point hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-17",
+							 "time":"11:13",
+							 "visitorText":"Te'Jon Lucas makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:44",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Michael Hurt misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Mark Smith personal foul (Dupree McBrayer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-18",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-18",
+							 "time":"10:01",
+							 "visitorText":"Kipper Nichols makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-20",
+							 "time":"9:34",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"6-22",
+							 "time":"9:12",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes two point driving layup (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"6-25",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes three point jump shot (Dupree McBrayer assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Michael Hurt personal foul"
+							 },
+							 {
+							 "score":"8-25",
+							 "time":"8:15",
+							 "visitorText":"Greg Eboigbodin makes two point dunk (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-28",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes three point jump shot (Dupree McBrayer assists)"
+							 },
+							 {
+							 "score":"11-28",
+							 "time":"7:38",
+							 "visitorText":"Mark Alstork makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"Trent Frazier personal foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-29",
+							 "time":"7:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-29",
+							 "time":"6:54",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-31",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes two point hook shot (Jordan Murphy assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Reggie Lynch blocks Greg Eboigbodin's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Greg Eboigbodin personal foul (Reggie Lynch draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers rebound (deadball)"
+							 },
+							 {
+							 "score":"13-32",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:35",
+							 "visitorText":"Reggie Lynch blocks Mark Smith's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Mark Smith offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-32",
+							 "time":"5:25",
+							 "visitorText":"Mark Smith makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Michael Finke misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-32",
+							 "time":"5:01",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Aaron Jordan misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-32",
+							 "time":"4:24",
+							 "visitorText":"Aaron Jordan makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:11",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:09",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-32",
+							 "time":"4:00",
+							 "visitorText":"Greg Eboigbodin makes two point dunk (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-35",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes three point jump shot (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Amir Coffey blocks Aaron Jordan's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate shooting foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"21-35",
+							 "time":"2:48",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-35",
+							 "time":"2:48",
+							 "visitorText":"Da'Monte Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"22-37",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes two point dunk (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Nate Mason steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:39",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-37",
+							 "time":"1:31",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:47",
+							 "visitorText":"Aaron Jordan turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy offensive rebound"
+							 },
+							 {
+							 "score":"24-39",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate makes two point putback layup (Jordan Murphy assists)"
+							 },
+							 {
+							 "score":"26-39",
+							 "time":"00:05",
+							 "visitorText":"Mark Smith makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Fighting Illini",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:45",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"26-41",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:03",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"Da'Monte Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-41",
+							 "time":"18:58",
+							 "visitorText":"Michael Finke makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-43",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes two point jump shot (Amir Coffey assists)"
+							 },
+							 {
+							 "score":"30-43",
+							 "time":"18:45",
+							 "visitorText":"Leron Black makes two point reverse layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"31-43",
+							 "time":"18:45",
+							 "visitorText":"Leron Black makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-45",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes two point floating jump shot"
+							 },
+							 {
+							 "score":"33-45",
+							 "time":"18:12",
+							 "visitorText":"Michael Finke makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-47",
+							 "time":"17:53",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Da'Monte Williams turnover (bad pass) (Dupree McBrayer steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer turnover (lost ball) (Da'Monte Williams steals)"
+							 },
+							 {
+							 "score":"36-47",
+							 "time":"16:59",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-49",
+							 "time":"16:53",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes two point layup"
+							 },
+							 {
+							 "score":"38-49",
+							 "time":"16:48",
+							 "visitorText":"Leron Black makes two point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-52",
+							 "time":"16:16",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey makes three point jump shot (Dupree McBrayer assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Reggie Lynch steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"Dupree McBrayer blocks Mark Smith's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:35",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"Mark Smith shooting foul (Dupree McBrayer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers rebound (deadball)"
+							 },
+							 {
+							 "score":"38-53",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy shooting foul (Greg Eboigbodin draws the foul)"
+							 },
+							 {
+							 "score":"39-53",
+							 "time":"15:16",
+							 "visitorText":"Greg Eboigbodin makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"Greg Eboigbodin misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"41-53",
+							 "time":"14:32",
+							 "visitorText":"Leron Black makes two point floating jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy turnover (offensive goaltending)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:39",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Nate Mason turnover (bad pass)"
+							 },
+							 {
+							 "score":"44-53",
+							 "time":"13:13",
+							 "visitorText":"Mark Alstork makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"Mark Alstork turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-55",
+							 "time":"12:05",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate shooting foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-55",
+							 "time":"11:38",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-55",
+							 "time":"11:38",
+							 "visitorText":"Da'Monte Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Mark Alstork personal foul (Isaiah Washington draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Isaiah Washington misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"",
+							 "homeText":"Michael Hurt turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"49-55",
+							 "time":"11:10",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate offensive foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Bakary Konate turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-55",
+							 "time":"10:10",
+							 "visitorText":"Da'Monte Williams makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"Leron Black shooting foul (Reggie Lynch draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-56",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"51-57",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"51-59",
+							 "time":"9:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:14",
+							 "visitorText":"Michael Finke shooting foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-60",
+							 "time":"9:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"53-60",
+							 "time":"8:56",
+							 "visitorText":"Leron Black makes two point fadeaway jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Nate Mason turnover (back court violation) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"54-60",
+							 "time":"8:18",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-60",
+							 "time":"8:18",
+							 "visitorText":"Mark Alstork makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:51",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:25",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"Aaron Jordan personal foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-62",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point jump shot (Amir Coffey assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch turnover (bad pass) (Michael Finke steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"Mark Alstork offensive foul (Nate Mason draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"Mark Alstork turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"Mark Alstork personal foul (Nate Mason draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-62",
+							 "time":"5:47",
+							 "visitorText":"Leron Black makes two point layup (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:41",
+							 "visitorText":"Mark Alstork personal foul (Nate Mason draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-63",
+							 "time":"5:41",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"57-64",
+							 "time":"5:41",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"Mark Smith turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"Da'Monte Williams personal foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-65",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Nate Mason offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:21",
+							 "visitorText":"",
+							 "homeText":"Nate Mason misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:19",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-65",
+							 "time":"3:56",
+							 "visitorText":"Leron Black makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:54",
+							 "visitorText":"Fighting Illini 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Nate Mason offensive rebound"
+							 },
+							 {
+							 "score":"60-68",
+							 "time":"3:18",
+							 "visitorText":"",
+							 "homeText":"Nate Mason makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"Da'Monte Williams personal foul (Amir Coffey draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"",
+							 "homeText":"Amir Coffey misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"Reggie Lynch blocks Leron Black's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Nate Mason defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"Michael Finke shooting foul (Jordan Murphy draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers rebound (deadball)"
+							 },
+							 {
+							 "score":"60-69",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"Da'Monte Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"Reggie Lynch blocks Michael Finke's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"Golden Gophers defensive rebound"
+							 },
+							 {
+							 "score":"60-71",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Nate Mason personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"61-71",
+							 "time":"1:17",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"Trent Frazier misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Trent Frazier personal foul (Dupree McBrayer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-72",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy defensive rebound"
+							 },
+							 {
+							 "score":"61-74",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Jordan Murphy makes two point dunk (Nate Mason assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"Leron Black personal foul (Reggie Lynch draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-75",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"61-76",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Reggie Lynch makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"64-76",
+							 "time":"00:30",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"Trent Frazier personal foul (Dupree McBrayer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-77",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Dupree McBrayer misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-77",
+							 "time":"00:21",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

@@ -1,0 +1,2359 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Ohio St. vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "573",
+				"seoName": "ohio-st",
+				"sixCharAbbr": "OHIOST",
+				"shortName": "Ohio St.",	
+				"nickName": "Buckeyes",		
+				"color": "#bb0000"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Michael Finke vs. Kaleb Wesson (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:24",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson makes two point dunk (Jae'Sean Tate assists)"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"19:00",
+							 "visitorText":"Mark Alstork makes two point jump shot (Leron Black assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point jump shot"
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"18:31",
+							 "visitorText":"Michael Finke makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson turnover (bad pass)"
+							 },
+							 {
+							 "score":"8-4",
+							 "time":"17:54",
+							 "visitorText":"Mark Alstork makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"8-6",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"8-9",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes three point jump shot (Keita Bates-Diop assists)"
+							 },
+							 {
+							 "score":"11-9",
+							 "time":"16:34",
+							 "visitorText":"Leron Black makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:13",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:09",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:03",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"Buckeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Da'Monte Williams, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"Trent Frazier shooting foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Da'Monte Williams, Mark Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-10",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"11-11",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"13-11",
+							 "time":"15:27",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:07",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson turnover (bad pass) (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"15-11",
+							 "time":"15:03",
+							 "visitorText":"Kipper Nichols makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"Kipper Nichols personal foul (Kaleb Wesson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"Fighting Illini lineup change (Greg Eboigbodin, Te'Jon Lucas, Leron Black, Mark Smith, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:37",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:37",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andre Wesson, Keita Bates-Diop, Andrew Dakich)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Te'Jon Lucas misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson turnover (bad pass) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:49",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate shooting foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"16-11",
+							 "time":"13:49",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:49",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Greg Eboigbodin, Michael Finke, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-11",
+							 "time":"13:49",
+							 "visitorText":"Mark Smith makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-13",
+							 "time":"13:33",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-13",
+							 "time":"13:01",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-13",
+							 "time":"12:30",
+							 "visitorText":"Mark Alstork makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Buckeyes 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Mark Smith, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Musa Jallow, C.J. Jackson, Andrew Dakich, Andre Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:13",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-13",
+							 "time":"12:05",
+							 "visitorText":"Michael Finke makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson offensive foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Musa Jallow, C.J. Jackson, Andrew Dakich, Jae'Sean Tate, Micah Potter)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-13",
+							 "time":"11:24",
+							 "visitorText":"Michael Finke makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:58",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"",
+							 "homeText":"Micah Potter shooting foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"27-13",
+							 "time":"10:51",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Kipper Nichols, Mark Alstork, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-13",
+							 "time":"10:51",
+							 "visitorText":"Mark Alstork makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Da'Monte Williams, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:41",
+							 "visitorText":"Trent Frazier personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:41",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Kipper Nichols, Leron Black, Da'Monte Williams, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-15",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich makes two point layup (Jae'Sean Tate assists)"
+							 },
+							 {
+							 "score":"30-15",
+							 "time":"10:10",
+							 "visitorText":"Kipper Nichols makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-17",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Leron Black vs. Musa Jallow (Buckeyes gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"Leron Black turnover (lost ball) (Musa Jallow steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Micah Potter, Jae'Sean Tate, Musa Jallow, Keita Bates-Diop, Andrew Dakich)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"Te'Jon Lucas offensive foul (Andrew Dakich draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"Te'Jon Lucas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Leron Black, Mark Alstork, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Micah Potter, Andre Wesson, Musa Jallow, Andrew Dakich, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"30-19",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point dunk (Andrew Dakich assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Michael Finke, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Mark Smith, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"",
+							 "homeText":"Musa Jallow offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:37",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:27",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:25",
+							 "visitorText":"",
+							 "homeText":"Micah Potter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Kipper Nichols shooting foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (C.J. Jackson, Jae'Sean Tate, Kaleb Wesson, Andre Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Fighting Illini lineup change (Leron Black, Mark Smith, Te'Jon Lucas, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-20",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"30-21",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Mark Smith turnover (lost ball) (Jae'Sean Tate steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop offensive rebound"
+							 },
+							 {
+							 "score":"30-23",
+							 "time":"6:35",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"Te'Jon Lucas turnover (lost ball) (Kaleb Wesson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-26",
+							 "time":"6:08",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes three point jump shot (Jae'Sean Tate assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Da'Monte Williams, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:59",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"30-28",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point dunk (C.J. Jackson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Mark Alstork offensive foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Mark Alstork turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Da'Monte Williams, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-30",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson personal foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Musa Jallow, Keita Bates-Diop, Kaleb Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:39",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:22",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Mark Smith, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:47",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Mark Smith, Mark Alstork, Greg Eboigbodin)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"30-32",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"Leron Black turnover (bad pass) (Kaleb Wesson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"",
+							 "homeText":"Musa Jallow turnover (bad pass) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Aaron Jordan, Leron Black, Mark Smith, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, Andrew Dakich, C.J. Jackson, Keita Bates-Diop, Kaleb Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Mark Smith misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"Buckeyes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"Leron Black personal foul (Kaleb Wesson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-33",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Leron Black, Trent Frazier, Aaron Jordan, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-34",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Kyle Young)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Musa Jallow, C.J. Jackson, Andrew Dakich, Kyle Young, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Mark Alstork, Leron Black, Aaron Jordan, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Trent Frazier turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Andre Wesson, C.J. Jackson, Andrew Dakich, Kaleb Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Fighting Illini",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Fighting Illini lineup change (Mark Alstork, Trent Frazier, Michael Finke, Leron Black, Kipper Nichols)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Andre Wesson, Kaleb Wesson, Jae'Sean Tate, Keita Bates-Diop, C.J. Jackson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:27",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"Leron Black misses two point hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:02",
+							 "visitorText":"Leron Black shooting foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-35",
+							 "time":"19:02",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:02",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:02",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-35",
+							 "time":"18:41",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:21",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"Mark Alstork shooting foul (Jae'Sean Tate draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Buckeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:55",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:32",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:06",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"34-35",
+							 "time":"17:03",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Aaron Jordan, Mark Alstork, Leron Black)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-35",
+							 "time":"17:03",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-37",
+							 "time":"16:36",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"Mark Alstork misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson defensive rebound"
+							 },
+							 {
+							 "score":"35-39",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes two point dunk (Kaleb Wesson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Buckeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:12",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson turnover (bad pass) (Leron Black steals)"
+							 },
+							 {
+							 "score":"37-39",
+							 "time":"15:07",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"Aaron Jordan shooting foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-40",
+							 "time":"14:39",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"37-41",
+							 "time":"14:39",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"37-42",
+							 "time":"14:39",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:14",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-42",
+							 "time":"14:06",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:05",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:05",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, Andrew Dakich, Andre Wesson, Keita Bates-Diop, Kaleb Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:03",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Kipper Nichols shooting foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-43",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Michael Finke, Leron Black, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-44",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"42-44",
+							 "time":"13:36",
+							 "visitorText":"Leron Black makes two point layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Leron Black shooting foul (Jae'Sean Tate draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-45",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, Andrew Dakich, Andre Wesson, Keita Bates-Diop, Micah Potter)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Aaron Jordan, Mark Smith, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-46",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Micah Potter, Musa Jallow, Andrew Dakich, Andre Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Micah Potter personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:13",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Andre Wesson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"Fighting Illini kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Micah Potter, Musa Jallow, Andrew Dakich, C.J. Jackson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-46",
+							 "time":"11:22",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-48",
+							 "time":"11:01",
+							 "visitorText":"",
+							 "homeText":"Micah Potter makes two point jump shot (Andrew Dakich assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:01",
+							 "visitorText":"Leron Black shooting foul (Micah Potter draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:01",
+							 "visitorText":"",
+							 "homeText":"Micah Potter misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:01",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:53",
+							 "visitorText":"",
+							 "homeText":"Micah Potter personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:53",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Mark Smith, Aaron Jordan, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:36",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:34",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Kipper Nichols shooting foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-49",
+							 "time":"10:22",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"44-50",
+							 "time":"10:22",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Mark Alstork, Mark Smith, Aaron Jordan, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-50",
+							 "time":"10:11",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-52",
+							 "time":"9:55",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich makes two point layup"
+							 },
+							 {
+							 "score":"50-52",
+							 "time":"9:47",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:26",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover (lost ball) (Aaron Jordan steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:09",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop offensive foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Micah Potter, Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Trent Frazier offensive foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Trent Frazier turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Mark Smith, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Andre Wesson, Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"52-52",
+							 "time":"8:49",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson shooting foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"53-52",
+							 "time":"8:49",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop shooting foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"54-52",
+							 "time":"8:29",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Andre Wesson, Kaleb Wesson)"
+							 },
+							 {
+							 "score":"55-52",
+							 "time":"8:29",
+							 "visitorText":"Mark Smith makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Da'Monte Williams, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Buckeyes 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Kipper Nichols, Greg Eboigbodin, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate technical foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Mark Alstork misses technical free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-52",
+							 "time":"7:56",
+							 "visitorText":"Mark Alstork makes technical free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"",
+							 "homeText":"Andre Wesson personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Kaleb Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Greg Eboigbodin, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"Greg Eboigbodin personal foul (Jae'Sean Tate draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-53",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"56-54",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"58-54",
+							 "time":"7:31",
+							 "visitorText":"Trent Frazier makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Greg Eboigbodin personal foul (Kaleb Wesson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-55",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Aaron Jordan, Greg Eboigbodin, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-56",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Andre Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-56",
+							 "time":"6:45",
+							 "visitorText":"Trent Frazier makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"Mark Alstork personal foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-57",
+							 "time":"6:31",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"60-58",
+							 "time":"6:31",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"62-58",
+							 "time":"6:06",
+							 "visitorText":"Mark Alstork makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-60",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Kipper Nichols shooting foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Mark Alstork misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Kaleb Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-60",
+							 "time":"5:20",
+							 "visitorText":"Mark Alstork makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-63",
+							 "time":"5:03",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes three point jump shot (C.J. Jackson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:50",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:48",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Andre Wesson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:50",
+							 "visitorText":"",
+							 "homeText":"Buckeyes 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:50",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Kaleb Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:50",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-65",
+							 "time":"3:39",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes two point layup (C.J. Jackson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Leron Black offensive foul (Jae'Sean Tate draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Leron Black turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Mark Smith, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"Mark Alstork personal foul (C.J. Jackson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"",
+							 "homeText":"Buckeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Andre Wesson)"
+							 },
+							 {
+							 "score":"63-66",
+							 "time":"2:59",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"63-68",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich makes two point layup (C.J. Jackson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson makes two point layup"
+							 },
+							 {
+							 "score":"66-70",
+							 "time":"1:44",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Kaleb Wesson, Keita Bates-Diop)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Andrew Dakich misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"67-70",
+							 "time":"1:11",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"Mark Alstork misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"C.J. Jackson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Jae'Sean Tate misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson offensive rebound"
+							 },
+							 {
+							 "score":"67-72",
+							 "time":"00:45",
+							 "visitorText":"",
+							 "homeText":"Kaleb Wesson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"Michael Finke misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"Te'Jon Lucas personal foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Buckeyes lineup change (Jae'Sean Tate, C.J. Jackson, Andrew Dakich, Keita Bates-Diop, Andre Wesson)"
+							 },
+							 {
+							 "score":"67-73",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"67-74",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Te'Jon Lucas personal foul (Keita Bates-Diop draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Buckeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Mark Smith, Aaron Jordan, Mark Alstork, Michael Finke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-75",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Keita Bates-Diop defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

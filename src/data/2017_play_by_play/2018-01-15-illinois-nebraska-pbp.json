@@ -1,0 +1,1981 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Nebraska vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2272",
+				"seoName": "nebraska",
+				"sixCharAbbr": "NEB",
+				"shortName": "Nebraska",	
+				"nickName": "Cornhuskers, Huskers",		
+				"color": "#e51937"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Michael Finke vs. Isaiah Roby (Isaac Copeland gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"19:30",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-2",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:51",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:49",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:31",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:29",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Leron Black turnover (lost ball) (Isaiah Roby steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:20",
+							 "visitorText":"Leron Black shooting foul (Isaiah Roby draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-3",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"3-4",
+							 "time":"18:20",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:59",
+							 "visitorText":"Da'Monte Williams misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:53",
+							 "visitorText":"Michael Finke misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:33",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby turnover (Kipper Nichols steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:25",
+							 "visitorText":"Da'Monte Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"",
+							 "homeText":"Anton Gill offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"",
+							 "homeText":"Anton Gill turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:08",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. technical foul"
+							 },
+							 {
+							 "score":"4-4",
+							 "time":"16:56",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:39",
+							 "visitorText":"Da'Monte Williams misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"Jump ball. Isaac Copeland vs. Mark Smith (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland turnover (lost ball) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"Isaiah Roby blocks Trent Frazier's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"Anton Gill defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"Trent Frazier shooting foul (Glynn Watson Jr.  draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-5",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"4-6",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-8",
+							 "time":"14:44",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes two point jump shot"
+							 },
+							 {
+							 "score":"6-8",
+							 "time":"14:29",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland shooting foul (Greg Eboigbodin draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"Greg Eboigbodin misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"Evan Taylor blocks Trent Frazier's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"Trent Frazier turnover (Isaiah Roby steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:47",
+							 "visitorText":"Aaron Jordan shooting foul (Isaiah Roby draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-9",
+							 "time":"13:47",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:47",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:47",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"Mark Alstork shooting foul (Evan Taylor draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor defensive rebound"
+							 },
+							 {
+							 "score":"6-11",
+							 "time":"13:01",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point driving dunk"
+							 },
+							 {
+							 "score":"8-11",
+							 "time":"12:45",
+							 "visitorText":"Mark Smith makes two point driving layup (Leron Black assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-13",
+							 "time":"12:33",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes two point dunk (Isaiah Roby assists)"
+							 },
+							 {
+							 "score":"10-13",
+							 "time":"12:19",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"11-13",
+							 "time":"12:19",
+							 "visitorText":"Leron Black makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:03",
+							 "visitorText":"Michael Finke shooting foul (James Palmer Jr. draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-14",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"11-15",
+							 "time":"12:03",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:49",
+							 "visitorText":"Aaron Jordan misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:32",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"Mark Smith misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-15",
+							 "time":"11:24",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"Michael Finke misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:10",
+							 "visitorText":"Michael Finke personal foul (Anton Gill draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"Leron Black turnover (lost ball) (Evan Taylor steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-17",
+							 "time":"10:45",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes two point driving layup"
+							 },
+							 {
+							 "score":"14-17",
+							 "time":"10:27",
+							 "visitorText":"Leron Black makes two point jump shot (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:03",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-17",
+							 "time":"9:53",
+							 "visitorText":"Leron Black makes two point layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:33",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:09",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:46",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. turnover (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"17-17",
+							 "time":"8:27",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"Trent Frazier misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"18-17",
+							 "time":"8:03",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-17",
+							 "time":"8:03",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:45",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"Mark Smith turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:17",
+							 "visitorText":"Kipper Nichols shooting foul (Evan Taylor draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-18",
+							 "time":"7:17",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"19-19",
+							 "time":"7:17",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Mark Smith offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:51",
+							 "visitorText":"Mark Smith misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:49",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. defensive rebound"
+							 },
+							 {
+							 "score":"19-21",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point layup (Evan Taylor assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Anton Gill personal foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"Mark Alstork misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Leron Black offensive foul (Isaac Copeland draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Leron Black turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Mark Alstork offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"Mark Alstork turnover (bad pass) (James Palmer Jr. steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"Da'Monte Williams shooting foul (Evan Taylor draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-22",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"19-23",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor shooting foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"Mark Alstork misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-23",
+							 "time":"4:16",
+							 "visitorText":"Mark Alstork makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-26",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes three point jump shot (Isaiah Roby assists)"
+							 },
+							 {
+							 "score":"22-26",
+							 "time":"3:44",
+							 "visitorText":"Trent Frazier makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-28",
+							 "time":"3:23",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland makes two point jump shot (Thomas Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Trent Frazier misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"Trent Frazier offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:51",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:43",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-28",
+							 "time":"2:38",
+							 "visitorText":"Kipper Nichols makes two point driving layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:38",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:38",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-28",
+							 "time":"2:38",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-31",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen makes three point jump shot (Anton Gill assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"Mark Smith shooting foul (Thomas Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-32",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-32",
+							 "time":"1:39",
+							 "visitorText":"Kipper Nichols makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Kipper Nichols turnover (lost ball) (Evan Taylor steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses two point finger roll layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-32",
+							 "time":"00:33",
+							 "visitorText":"Trent Frazier makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"30-32",
+							 "time":"00:01",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Trent Frazier misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Cornhuskers"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:01",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-32",
+							 "time":"18:54",
+							 "visitorText":"Michael Finke makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:44",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-32",
+							 "time":"18:33",
+							 "visitorText":"Leron Black makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-34",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point driving layup"
+							 },
+							 {
+							 "score":"36-34",
+							 "time":"17:59",
+							 "visitorText":"Trent Frazier makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:44",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-34",
+							 "time":"17:30",
+							 "visitorText":"Leron Black makes two point turnaround jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:07",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Leron Black turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:16",
+							 "visitorText":"",
+							 "homeText":"Tanner Borchardt personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:10",
+							 "visitorText":"",
+							 "homeText":"Anton Gill personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"Leron Black misses two point turnaround jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:43",
+							 "visitorText":"",
+							 "homeText":"Tanner Borchardt shooting foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"39-34",
+							 "time":"15:43",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-34",
+							 "time":"15:43",
+							 "visitorText":"Da'Monte Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-36",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes two point driving layup (Evan Taylor assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"Trent Frazier turnover (lost ball) (Isaiah Roby steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:48",
+							 "visitorText":"Leron Black personal foul (Isaiah Roby draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-38",
+							 "time":"14:37",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"Mark Alstork turnover (bad pass) (Isaiah Roby steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-40",
+							 "time":"14:19",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes two point driving dunk (Glynn Watson Jr.  assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-42",
+							 "time":"13:35",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  personal foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:01",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"Michael Finke turnover (bad pass) (Glynn Watson Jr.  steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-44",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point driving dunk (Glynn Watson Jr.  assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"Isaac Copeland blocks Aaron Jordan's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"Aaron Jordan shooting foul (Evan Taylor draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-45",
+							 "time":"12:00",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:33",
+							 "visitorText":"Isaiah Roby blocks Trent Frazier's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. defensive rebound"
+							 },
+							 {
+							 "score":"40-48",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  makes three point jump shot (Isaac Copeland assists)"
+							 },
+							 {
+							 "score":"42-48",
+							 "time":"10:32",
+							 "visitorText":"Trent Frazier makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"Greg Eboigbodin personal foul (Evan Taylor draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:20",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Michael Finke shooting foul (Isaiah Roby draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-49",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"42-50",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"45-50",
+							 "time":"10:00",
+							 "visitorText":"Michael Finke makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"",
+							 "homeText":"Thomas Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:17",
+							 "visitorText":"",
+							 "homeText":"Evan Taylor personal foul"
+							 },
+							 {
+							 "score":"47-50",
+							 "time":"9:11",
+							 "visitorText":"Trent Frazier makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:46",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"Leron Black turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-53",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Anton Gill makes three point jump shot (James Palmer Jr. assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-53",
+							 "time":"7:39",
+							 "visitorText":"Michael Finke makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Mark Smith personal foul (Isaac Copeland draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Isaac Copeland blocks Da'Monte Williams's two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:48",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland defensive rebound"
+							 },
+							 {
+							 "score":"49-55",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point layup"
+							 },
+							 {
+							 "score":"51-55",
+							 "time":"6:09",
+							 "visitorText":"Michael Finke makes two point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:48",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:26",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Anton Gill defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"Leron Black personal foul (Isaac Copeland draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby turnover (bad pass) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"53-55",
+							 "time":"4:43",
+							 "visitorText":"Trent Frazier makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby offensive rebound"
+							 },
+							 {
+							 "score":"53-57",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Michael Finke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"",
+							 "homeText":"Anton Gill shooting foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"54-57",
+							 "time":"3:31",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-57",
+							 "time":"3:31",
+							 "visitorText":"Da'Monte Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"Greg Eboigbodin shooting foul (Anton Gill draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Anton Gill misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers rebound (deadball)"
+							 },
+							 {
+							 "score":"55-58",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Anton Gill makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"55-59",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Anton Gill makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:50",
+							 "visitorText":"",
+							 "homeText":"Isaac Copeland misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"Jump ball. Trent Frazier vs. Isaiah Roby (Trent Frazier gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"Da'Monte Williams misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-59",
+							 "time":"2:12",
+							 "visitorText":"Leron Black makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"",
+							 "homeText":"Glynn Watson Jr.  misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:42",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:38",
+							 "visitorText":"Da'Monte Williams turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"Da'Monte Williams kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Da'Monte Williams turnover (lost ball) (James Palmer Jr. steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-61",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-61",
+							 "time":"00:32",
+							 "visitorText":"Michael Finke makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Trent Frazier personal foul (James Palmer Jr. draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:18",
+							 "visitorText":"Fighting Illini 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-61",
+							 "time":"00:08",
+							 "visitorText":"Michael Finke makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Isaiah Roby shooting foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"63-61",
+							 "time":"00:08",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Cornhuskers 60 second timeout"
+							 },
+							 {
+							 "score":"63-64",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"James Palmer Jr. makes three point jump shot (Glynn Watson Jr.  assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

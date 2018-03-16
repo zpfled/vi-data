@@ -1,0 +1,1945 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Grand Canyon",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1913",
+				"seoName": "grand-canyon",
+				"sixCharAbbr": "GCANYN",
+				"shortName": "Grand Canyon",	
+				"nickName": "Lopes",		
+				"color": "#4e0c76"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"(Fighting Illini gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"Keonta Vernon misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:06",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"Joshua Braun defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:26",
+							 "visitorText":"Alessandro Lever makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"Shaq Carr misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"Alessandro Lever defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:17",
+							 "visitorText":"Casey Benson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:15",
+							 "visitorText":"Keonta Vernon offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:12",
+							 "visitorText":"Casey Benson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:12",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:12",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"Keonta Vernon misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:34",
+							 "visitorText":"",
+							 "homeText":"Keonta Vernon blocks Mark Alstork's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"Antelopes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-2",
+							 "time":"15:49",
+							 "visitorText":"Keonta Vernon makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-4",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"Keonta Vernon offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"Keonta Vernon turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-6",
+							 "time":"15:07",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point jump shot (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"6-6",
+							 "time":"14:44",
+							 "visitorText":"Shaq Carr makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-8",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Gerard Martin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:57",
+							 "visitorText":"Shaq Carr defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-8",
+							 "time":"13:49",
+							 "visitorText":"Joshua Braun makes three point jump shot (Gerard Martin assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:17",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:17",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"Roberts Blumbergs turnover (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Gerard Martin steals)"
+							 },
+							 {
+							 "score":"11-8",
+							 "time":"12:33",
+							 "visitorText":"Oscar Frayer makes two point layup (Casey Benson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-10",
+							 "time":"12:17",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"Michael Finke blocks Casey Benson's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:55",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Joshua Braun defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-10",
+							 "time":"11:40",
+							 "visitorText":"Oscar Frayer makes two point layup (Joshua Braun assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-12",
+							 "time":"11:17",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point dunk (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"Oscar Frayer misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:46",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Roberts Blumbergs steals)"
+							 },
+							 {
+							 "score":"15-12",
+							 "time":"10:38",
+							 "visitorText":"Oscar Frayer makes two point dunk (Roberts Blumbergs assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-14",
+							 "time":"10:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:16",
+							 "visitorText":"Casey Benson turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-16",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point jump shot (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"Casey Benson shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:14",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-17",
+							 "time":"10:14",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:55",
+							 "visitorText":"Oscar Frayer misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:53",
+							 "visitorText":"Matt Jackson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"Roberts Blumbergs misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"Oscar Frayer personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:13",
+							 "visitorText":"Matt Jackson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:00",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Mark Smith offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"Fiifi Aidoo personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:46",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"15-19",
+							 "time":"8:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Alessandro Lever misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"Fiifi Aidoo defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"Oscar Frayer misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover (Oscar Frayer steals)"
+							 },
+							 {
+							 "score":"17-19",
+							 "time":"7:41",
+							 "visitorText":"Shaq Carr makes two point dunk (Oscar Frayer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-21",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Shaq Carr turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Fiifi Aidoo blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Shaq Carr defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Matt Jackson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:48",
+							 "visitorText":"Joshua Braun misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Keonta Vernon personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-23",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"20-23",
+							 "time":"6:00",
+							 "visitorText":"Alessandro Lever makes three point jump shot (Matt Jackson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:48",
+							 "visitorText":"Matt Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:41",
+							 "visitorText":"Casey Benson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:27",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:25",
+							 "visitorText":"Casey Benson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:22",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"22-23",
+							 "time":"5:15",
+							 "visitorText":"Alessandro Lever makes two point jump shot (Joshua Braun assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"Alessandro Lever misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"Gerard Martin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"Shaq Carr turnover (Michael Finke steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (Gerard Martin steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"Alessandro Lever turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"Fiifi Aidoo misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"Alessandro Lever offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"Alessandro Lever misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul"
+							 },
+							 {
+							 "score":"23-23",
+							 "time":"3:26",
+							 "visitorText":"Alessandro Lever makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-23",
+							 "time":"3:26",
+							 "visitorText":"Alessandro Lever makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"Gerard Martin personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-24",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:50",
+							 "visitorText":"",
+							 "homeText":"Joshua Braun blocks Leron Black's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover"
+							 },
+							 {
+							 "score":"26-24",
+							 "time":"2:15",
+							 "visitorText":"Shaq Carr makes two point layup (Joshua Braun assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (Oscar Frayer steals)"
+							 },
+							 {
+							 "score":"28-24",
+							 "time":"1:45",
+							 "visitorText":"Alessandro Lever makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Shaq Carr shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"28-25",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Joshua Braun defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"Joshua Braun misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:49",
+							 "visitorText":"Oscar Frayer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-25",
+							 "time":"00:43",
+							 "visitorText":"Oscar Frayer makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"Alessandro Lever shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-26",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"30-27",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"Antelopes 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Joshua Braun misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Alessandro Lever offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-27",
+							 "time":"00:02",
+							 "visitorText":"Alessandro Lever makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Antelopes",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Alessandro Lever misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"32-30",
+							 "time":"19:24",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes three point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"Keonta Vernon misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"32-32",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"34-32",
+							 "time":"18:35",
+							 "visitorText":"Shaq Carr makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul"
+							 },
+							 {
+							 "score":"35-32",
+							 "time":"18:35",
+							 "visitorText":"Shaq Carr makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-34",
+							 "time":"18:24",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:14",
+							 "visitorText":"",
+							 "homeText":"Mark Smith shooting foul (Keonta Vernon draws the foul)"
+							 },
+							 {
+							 "score":"36-34",
+							 "time":"18:14",
+							 "visitorText":"Keonta Vernon makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-34",
+							 "time":"18:14",
+							 "visitorText":"Keonta Vernon makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-36",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"Shaq Carr turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Alessandro Lever offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Alessandro Lever turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Alessandro Lever defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-36",
+							 "time":"16:33",
+							 "visitorText":"Keonta Vernon makes two point layup (Shaq Carr assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:24",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"Kipper Nichols blocks Casey Benson's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"Alessandro Lever misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"39-39",
+							 "time":"15:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:32",
+							 "visitorText":"Antelopes 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Joshua Braun misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Oscar Frayer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-39",
+							 "time":"15:22",
+							 "visitorText":"Oscar Frayer makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Oscar Frayer misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (Keonta Vernon steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"Joshua Braun misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"Keonta Vernon offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-39",
+							 "time":"14:25",
+							 "visitorText":"Keonta Vernon makes two point dunk (Alessandro Lever assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"43-41",
+							 "time":"14:12",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"",
+							 "homeText":"Leron Black shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"Keonta Vernon misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"Antelopes rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-41",
+							 "time":"13:43",
+							 "visitorText":"Keonta Vernon makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Keonta Vernon blocks Mark Smith's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:01",
+							 "visitorText":"Shaq Carr defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Joshua Braun misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:45",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"Keonta Vernon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:25",
+							 "visitorText":"Joshua Braun misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:23",
+							 "visitorText":"Oscar Frayer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"Oscar Frayer misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Shaq Carr turnover (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-43",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"47-43",
+							 "time":"11:32",
+							 "visitorText":"Gerard Martin makes three point jump shot (Fiifi Aidoo assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (Fiifi Aidoo steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Gerard Martin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:45",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Da'Monte Williams blocks Gerard Martin's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"47-45",
+							 "time":"10:09",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Shaq Carr misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin defensive rebound"
+							 },
+							 {
+							 "score":"47-47",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:15",
+							 "visitorText":"Roberts Blumbergs misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:13",
+							 "visitorText":"Matt Jackson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-47",
+							 "time":"9:06",
+							 "visitorText":"Matt Jackson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-49",
+							 "time":"8:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Matt Jackson turnover (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Shaq Carr defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Roberts Blumbergs misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"Joshua Braun misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"Joshua Braun personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:34",
+							 "visitorText":"Michael Finke blocks Matt Jackson's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"Fiifi Aidoo misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Casey Benson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Casey Benson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:49",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:47",
+							 "visitorText":"Matt Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-49",
+							 "time":"6:40",
+							 "visitorText":"Joshua Braun makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-51",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"Casey Benson offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"Casey Benson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-54",
+							 "time":"5:38",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:23",
+							 "visitorText":"Alessandro Lever offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:23",
+							 "visitorText":"Alessandro Lever turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (Joshua Braun steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"52-54",
+							 "time":"5:09",
+							 "visitorText":"Joshua Braun makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-54",
+							 "time":"5:09",
+							 "visitorText":"Joshua Braun makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:39",
+							 "visitorText":"Alessandro Lever defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:27",
+							 "visitorText":"Gerard Martin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Joshua Braun offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"54-54",
+							 "time":"4:25",
+							 "visitorText":"Keonta Vernon makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Keonta Vernon misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Keonta Vernon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"Keonta Vernon misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"Joshua Braun personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"Keonta Vernon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Shaq Carr misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"Joshua Braun defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Joshua Braun misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"54-57",
+							 "time":"2:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Shaq Carr misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"Antelopes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"Antelopes turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover"
+							 },
+							 {
+							 "score":"56-57",
+							 "time":"1:18",
+							 "visitorText":"Keonta Vernon makes two point layup (Shaq Carr assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"56-60",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Antelopes 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-60",
+							 "time":"00:07",
+							 "visitorText":"Keonta Vernon makes two point layup (Shaq Carr assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Oscar Frayer personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-61",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"58-62",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Alessandro Lever misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

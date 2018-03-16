@@ -1,0 +1,2269 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Marshall",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1151",
+				"seoName": "marshall",
+				"sixCharAbbr": "MARSH",
+				"shortName": "Marshall",	
+				"nickName": "Thundering Herd",		
+				"color": "#11461b"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Ajdin Penava vs. Leron Black (Thundering Herd gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:38",
+							 "visitorText":"Ajdin Penava makes two point layup (Milan Mijovic assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:27",
+							 "visitorText":"",
+							 "homeText":"Ajdin Penava blocks Mark Smith's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:03",
+							 "visitorText":"C.J. Burks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-0",
+							 "time":"18:51",
+							 "visitorText":"Jarrod West makes three point jump shot (Jon Elmore assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"Jarrod West defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:29",
+							 "visitorText":"C.J. Burks turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-3",
+							 "time":"18:29",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"7-3",
+							 "time":"17:53",
+							 "visitorText":"C.J. Burks makes two point jump shot (Ajdin Penava assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-5",
+							 "time":"17:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:13",
+							 "visitorText":"Jon Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini defensive rebound"
+							 },
+							 {
+							 "score":"7-8",
+							 "time":"17:04",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:52",
+							 "visitorText":"Jon Elmore misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"16:29",
+							 "visitorText":"Jarrod West makes three point jump shot (Milan Mijovic assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Ajdin Penava shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-11",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"C.J. Burks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"",
+							 "homeText":"Mark Smith shooting foul (C.J. Burks draws the foul)"
+							 },
+							 {
+							 "score":"11-11",
+							 "time":"16:01",
+							 "visitorText":"C.J. Burks makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"C.J. Burks misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-11",
+							 "time":"15:30",
+							 "visitorText":"Ajdin Penava makes three point jump shot (Jon Elmore assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:56",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"Thundering Herd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"Phil Bledsoe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:33",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"C.J. Burks personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"C.J. Burks personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Ajdin Penava blocks Kipper Nichols's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-11",
+							 "time":"14:13",
+							 "visitorText":"Jon Elmore makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-13",
+							 "time":"13:48",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:48",
+							 "visitorText":"Ajdin Penava shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-14",
+							 "time":"13:48",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"Ot Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Dani Koljanin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Milan Mijovic misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Jon Elmore defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Phil Bledsoe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:23",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:21",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"17-16",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point jump shot (Michael Finke assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"Jon Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:49",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"Jon Elmore personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-17",
+							 "time":"11:44",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"17-18",
+							 "time":"11:44",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"Ot Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Ot Elmore offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"Ot Elmore misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:26",
+							 "visitorText":"Phil Bledsoe offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Phil Bledsoe draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"Phil Bledsoe misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:24",
+							 "visitorText":"Thundering Herd rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-18",
+							 "time":"11:24",
+							 "visitorText":"Phil Bledsoe makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"Jon Elmore defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"Dani Koljanin turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"18-20",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"Dani Koljanin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"Thundering Herd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:25",
+							 "visitorText":"Jannson Williams misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"18-22",
+							 "time":"9:17",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup (Mark Smith assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:17",
+							 "visitorText":"Thundering Herd 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"Jarrod West turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"Dani Koljanin shooting foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-23",
+							 "time":"8:55",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"18-24",
+							 "time":"8:55",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"Jannson Williams turnover (lost ball) (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"18-26",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point layup"
+							 },
+							 {
+							 "score":"20-26",
+							 "time":"8:16",
+							 "visitorText":"C.J. Burks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Jarrod West defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"C.J. Burks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:25",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:25",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Jon Elmore turnover (lost ball) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-28",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point dunk (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Thundering Herd 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Jarrod West draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Jarrod West misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Thundering Herd rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-28",
+							 "time":"6:52",
+							 "visitorText":"Jarrod West makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:40",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:38",
+							 "visitorText":"Milan Mijovic defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-28",
+							 "time":"6:32",
+							 "visitorText":"C.J. Burks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"23-30",
+							 "time":"6:21",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork shooting foul (Ot Elmore draws the foul)"
+							 },
+							 {
+							 "score":"24-30",
+							 "time":"6:09",
+							 "visitorText":"Jon Elmore makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-30",
+							 "time":"6:09",
+							 "visitorText":"Jon Elmore makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-32",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams personal foul (Jon Elmore draws the foul)"
+							 },
+							 {
+							 "score":"26-32",
+							 "time":"5:32",
+							 "visitorText":"Jon Elmore makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"Jon Elmore misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"Jarrod West defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"Christian Thieneman misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:53",
+							 "visitorText":"Christian Thieneman defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Jon Elmore turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-35",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Mark Smith assists)"
+							 },
+							 {
+							 "score":"29-35",
+							 "time":"4:10",
+							 "visitorText":"Jarrod West makes three point jump shot (Ajdin Penava assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (lost ball) (Jarrod West steals)"
+							 },
+							 {
+							 "score":"32-35",
+							 "time":"3:54",
+							 "visitorText":"Jon Elmore makes three point jump shot (Jarrod West assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Jon Elmore misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Thundering Herd offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul (Milan Mijovic draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Milan Mijovic misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"32-37",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Dani Koljanin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:22",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Dani Koljanin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul (Dani Koljanin draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Dani Koljanin misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Thundering Herd rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Dani Koljanin misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"32-39",
+							 "time":"2:12",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:57",
+							 "visitorText":"Dani Koljanin misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"Christian Thieneman personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"Christian Thieneman defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"Jarrod West turnover (lost ball) (Aaron Jordan steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Christian Thieneman shooting foul (Da'Monte Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Dani Koljanin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul (Jon Elmore draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Jon Elmore misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Thundering Herd rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-39",
+							 "time":"1:29",
+							 "visitorText":"Jon Elmore makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"Dani Koljanin personal foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-40",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"33-41",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Dani Koljanin misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"33-43",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"Jon Elmore misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"33-45",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Christian Thieneman personal foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-46",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"36-46",
+							 "time":"00:03",
+							 "visitorText":"Jarrod West makes three point jump shot (Dani Koljanin assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Thundering Herd",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"Jon Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Michael Finke offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:29",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:06",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork offensive rebound"
+							 },
+							 {
+							 "score":"36-48",
+							 "time":"18:55",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"C.J. Burks turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-50",
+							 "time":"18:31",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:21",
+							 "visitorText":"Ajdin Penava misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"Jannson Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"Jannson Williams turnover (lost ball) (Leron Black steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-52",
+							 "time":"18:00",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup"
+							 },
+							 {
+							 "score":"38-52",
+							 "time":"17:49",
+							 "visitorText":"Jannson Williams makes two point layup (C.J. Burks assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-54",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Mark Alstork assists)"
+							 },
+							 {
+							 "score":"40-54",
+							 "time":"17:31",
+							 "visitorText":"Ajdin Penava makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"Jon Elmore misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"40-56",
+							 "time":"16:35",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"C.J. Burks turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-58",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"Darius George offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"Darius George turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"Jarrod West personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Darius George defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-58",
+							 "time":"15:07",
+							 "visitorText":"C.J. Burks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Jon Elmore turnover (lost ball) (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"Jarrod West shooting foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-59",
+							 "time":"14:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"Darius George defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan shooting foul (Ajdin Penava draws the foul)"
+							 },
+							 {
+							 "score":"43-59",
+							 "time":"14:16",
+							 "visitorText":"Ajdin Penava makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Ajdin Penava misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"43-62",
+							 "time":"14:00",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Leron Black assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"C.J. Burks misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:31",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"Jon Elmore offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"Jon Elmore turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Ajdin Penava personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-64",
+							 "time":"12:59",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point layup (Greg Eboigbodin assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:47",
+							 "visitorText":"Darius George turnover (bad pass) (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"Jon Elmore personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-66",
+							 "time":"12:28",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:13",
+							 "visitorText":"C.J. Burks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:09",
+							 "visitorText":"Thundering Herd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"C.J. Burks misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"Ajdin Penava offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"Ajdin Penava misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"Ajdin Penava offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-66",
+							 "time":"11:51",
+							 "visitorText":"Ajdin Penava makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"Ot Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"Ajdin Penava shooting foul (Greg Eboigbodin draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-67",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"Jon Elmore defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-67",
+							 "time":"10:49",
+							 "visitorText":"Ajdin Penava makes three point jump shot (C.J. Burks assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-69",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"Jon Elmore misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:03",
+							 "visitorText":"Ajdin Penava offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-69",
+							 "time":"10:01",
+							 "visitorText":"Ajdin Penava makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"",
+							 "homeText":"Jon Elmore blocks Mark Alstork's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"C.J. Burks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"50-71",
+							 "time":"9:05",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point jump shot"
+							 },
+							 {
+							 "score":"52-71",
+							 "time":"8:54",
+							 "visitorText":"C.J. Burks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (C.J. Burks draws the foul)"
+							 },
+							 {
+							 "score":"53-71",
+							 "time":"8:54",
+							 "visitorText":"C.J. Burks makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-74",
+							 "time":"8:39",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Da'Monte Williams assists)"
+							 },
+							 {
+							 "score":"55-74",
+							 "time":"8:23",
+							 "visitorText":"Jarrod West makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"Thundering Herd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:46",
+							 "visitorText":"C.J. Burks turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:17",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"Ajdin Penava defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"C.J. Burks turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-77",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:35",
+							 "visitorText":"C.J. Burks misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"Thundering Herd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-77",
+							 "time":"6:11",
+							 "visitorText":"Dani Koljanin makes three point jump shot (Ajdin Penava assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:55",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (10-second violation)"
+							 },
+							 {
+							 "score":"61-77",
+							 "time":"5:48",
+							 "visitorText":"Jarrod West makes three point jump shot (Jon Elmore assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-80",
+							 "time":"5:35",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:14",
+							 "visitorText":"Dani Koljanin turnover (lost ball) (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-82",
+							 "time":"5:10",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"Jon Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Thundering Herd offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Jon Elmore misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Darius George personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-83",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Dani Koljanin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Jon Elmore draws the foul)"
+							 },
+							 {
+							 "score":"62-83",
+							 "time":"4:36",
+							 "visitorText":"Jon Elmore makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-83",
+							 "time":"4:36",
+							 "visitorText":"Jon Elmore makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"",
+							 "homeText":"Mark Smith turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:09",
+							 "visitorText":"Jarrod West misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"Jarrod West personal foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"Dani Koljanin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-83",
+							 "time":"3:59",
+							 "visitorText":"Darius George makes two point layup (Dani Koljanin assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"Phil Bledsoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-83",
+							 "time":"3:26",
+							 "visitorText":"Phil Bledsoe makes two point jump shot (Jarrod West assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas offensive foul (Jon Elmore draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:59",
+							 "visitorText":"Jon Elmore turnover (bad pass) (Da'Monte Williams steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-85",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas makes two point layup (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams shooting foul (Jarrod West draws the foul)"
+							 },
+							 {
+							 "score":"68-85",
+							 "time":"2:34",
+							 "visitorText":"Jarrod West makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Jarrod West misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Phil Bledsoe personal foul (Kipper Nichols draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-86",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"68-87",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Jon Elmore turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"Jon Elmore defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"Phil Bledsoe misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"Darius George personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"68-88",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"70-88",
+							 "time":"1:37",
+							 "visitorText":"Jarrod West makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Matic Vesel misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"Jarrod West personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"70-89",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Cameron Liss shooting foul (Jon Elmore draws the foul)"
+							 },
+							 {
+							 "score":"71-89",
+							 "time":"00:48",
+							 "visitorText":"Jon Elmore makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-89",
+							 "time":"00:48",
+							 "visitorText":"Jon Elmore makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-91",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Drew Cayce shooting foul (Jarrod West draws the foul)"
+							 },
+							 {
+							 "score":"73-91",
+							 "time":"00:10",
+							 "visitorText":"Jarrod West makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-91",
+							 "time":"00:10",
+							 "visitorText":"Jarrod West makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

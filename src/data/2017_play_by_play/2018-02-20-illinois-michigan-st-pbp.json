@@ -1,0 +1,2281 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Michigan St. vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1163",
+				"seoName": "michigan-st",
+				"sixCharAbbr": "MICHST",
+				"shortName": "Michigan St.",	
+				"nickName": "Spartans",		
+				"color": "#18453B"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Leron Black vs. Gavin Schilling (Lourawls Nairn Jr. gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:50",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols blocks Miles Bridges's two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"19:37",
+							 "visitorText":"Mark Alstork makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Ben Carter misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:02",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling offensive rebound"
+							 },
+							 {
+							 "score":"3-3",
+							 "time":"18:55",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes three point jump shot (Joshua Langford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"",
+							 "homeText":"Ben Carter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"Gavin Schilling blocks Trent Frazier's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"",
+							 "homeText":"Ben Carter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Ben Carter turnover (bad pass) (Leron Black steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:59",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"Leron Black personal foul (Gavin Schilling draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"6-3",
+							 "time":"17:23",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Greg Eboigbodin, Mark Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-6",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes three point jump shot (Ben Carter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"Trent Frazier turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Jaren Jackson Jr., Cassius Winston, Matt McQuaid, Miles Bridges, Nick Ward)"
+							 },
+							 {
+							 "score":"6-9",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes three point jump shot (Matt McQuaid assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:16",
+							 "visitorText":"Jaren Jackson Jr. blocks Kipper Nichols's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"",
+							 "homeText":"Nick Ward misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-9",
+							 "time":"15:45",
+							 "visitorText":"Te'Jon Lucas makes two point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-12",
+							 "time":"15:25",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. makes three point jump shot (Cassius Winston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"Fighting Illini lineup change (Te'Jon Lucas, Greg Eboigbodin, Leron Black, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Cassius Winston, Matt McQuaid, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston shooting foul (Mark Alstork draws the foul)"
+							 },
+							 {
+							 "score":"9-12",
+							 "time":"14:52",
+							 "visitorText":"Mark Alstork makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-12",
+							 "time":"14:52",
+							 "visitorText":"Mark Alstork makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Lourawls Nairn Jr., Matt McQuaid, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:52",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Leron Black, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-12",
+							 "time":"14:52",
+							 "visitorText":"Mark Alstork makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-14",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes two point jump shot (Nick Ward assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"11-16",
+							 "time":"14:01",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes two point layup (Joshua Langford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"Leron Black shooting foul (Nick Ward draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-17",
+							 "time":"14:01",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"Greg Eboigbodin misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:35",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Jaren Jackson Jr., Lourawls Nairn Jr., Matt McQuaid, Miles Bridges, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"Trent Frazier turnover (bad pass) (Miles Bridges steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Trent Frazier shooting foul (Miles Bridges draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-18",
+							 "time":"12:54",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Greg Eboigbodin, Mark Smith, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-19",
+							 "time":"12:54",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Lourawls Nairn Jr., Miles Bridges, Kenny Goins, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:24",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:17",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford turnover (bad pass) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:11",
+							 "visitorText":"Kenny Goins blocks Mark Smith's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:09",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Greg Eboigbodin, Mark Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"Nick Ward blocks Kipper Nichols's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:11",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:11",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Cassius Winston, Miles Bridges, Kenny Goins, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Nick Ward shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"12-19",
+							 "time":"10:47",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Leron Black, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Cassius Winston, Miles Bridges, Xavier Tillman, Kenny Goins)"
+							 },
+							 {
+							 "score":"13-19",
+							 "time":"10:47",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"Mark Alstork personal foul (Cassius Winston draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-21",
+							 "time":"10:28",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes two point jump shot"
+							 },
+							 {
+							 "score":"15-21",
+							 "time":"10:14",
+							 "visitorText":"Leron Black makes two point layup (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:58",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:56",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Xavier Tillman blocks Aaron Jordan's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges turnover (lost ball) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"17-21",
+							 "time":"9:43",
+							 "visitorText":"Mark Alstork makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin blocks Miles Bridges's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Jump ball.  (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Matic Vesel, Trent Frazier, Mark Smith, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Cassius Winston, Matt McQuaid, Xavier Tillman)"
+							 },
+							 {
+							 "score":"20-21",
+							 "time":"9:11",
+							 "visitorText":"Trent Frazier makes three point jump shot (Matic Vesel assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Cassius Winston, Matt McQuaid, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Jaren Jackson Jr. blocks Kipper Nichols's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Jump ball.  (Spartans gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Matic Vesel, Mark Smith, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"Matic Vesel personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Jaren Jackson Jr., Cassius Winston, Matt McQuaid, Miles Bridges, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Nick Ward turnover (bad pass) (Mark Smith steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. shooting foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"21-21",
+							 "time":"8:09",
+							 "visitorText":"Mark Smith makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Mark Smith misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges defensive rebound"
+							 },
+							 {
+							 "score":"21-23",
+							 "time":"7:57",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. makes two point dunk (Cassius Winston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Matic Vesel shooting foul (Jaren Jackson Jr. draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Greg Eboigbodin, Mark Smith, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-24",
+							 "time":"7:57",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:45",
+							 "visitorText":"Jaren Jackson Jr. blocks Mark Smith's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston defensive rebound"
+							 },
+							 {
+							 "score":"21-26",
+							 "time":"7:34",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Greg Eboigbodin, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Greg Eboigbodin misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"Te'Jon Lucas shooting foul (Nick Ward draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Leron Black, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-27",
+							 "time":"7:06",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"21-28",
+							 "time":"7:06",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"23-28",
+							 "time":"6:50",
+							 "visitorText":"Leron Black makes two point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-28",
+							 "time":"6:21",
+							 "visitorText":"Leron Black makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Te'Jon Lucas kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Lourawls Nairn Jr., Matt McQuaid, Miles Bridges)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:41",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid offensive rebound"
+							 },
+							 {
+							 "score":"26-31",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes three point jump shot (Lourawls Nairn Jr. assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Greg Eboigbodin misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. defensive rebound"
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes two point layup (Miles Bridges assists)"
+							 },
+							 {
+							 "score":"29-33",
+							 "time":"4:17",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"Greg Eboigbodin personal foul (Jaren Jackson Jr. draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Mark Alstork misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:38",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid shooting foul (Greg Eboigbodin draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Lourawls Nairn Jr., Miles Bridges, Kenny Goins, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"Greg Eboigbodin misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-33",
+							 "time":"3:15",
+							 "visitorText":"Greg Eboigbodin makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-35",
+							 "time":"3:06",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins makes two point layup (Joshua Langford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Jump ball.  (Fighting Illini gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Mark Smith, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:14",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:14",
+							 "visitorText":"Trent Frazier misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:14",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"Kipper Nichols personal foul (Kenny Goins draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Matt McQuaid, Miles Bridges, Kenny Goins, Nick Ward)"
+							 },
+							 {
+							 "score":"30-36",
+							 "time":"1:51",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"30-37",
+							 "time":"1:51",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"33-37",
+							 "time":"1:24",
+							 "visitorText":"Trent Frazier makes three point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"Greg Eboigbodin personal foul (Nick Ward draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"",
+							 "homeText":"Nick Ward misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"",
+							 "homeText":"Spartans rebound (deadball)"
+							 },
+							 {
+							 "score":"33-38",
+							 "time":"1:01",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-38",
+							 "time":"00:08",
+							 "visitorText":"Greg Eboigbodin makes two point layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Cassius Winston, Miles Bridges, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Leron Black, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Spartans"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:54",
+							 "visitorText":"Mark Alstork personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:39",
+							 "visitorText":"Trent Frazier personal foul (Joshua Langford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-39",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"35-40",
+							 "time":"19:39",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"Nick Ward blocks Leron Black's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:20",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"Mark Alstork defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"Mark Alstork misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:58",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"Kipper Nichols shooting foul (Nick Ward draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-41",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"35-42",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Nick Ward makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Lourawls Nairn Jr., Miles Bridges, Nick Ward)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"Jaren Jackson Jr. blocks Trent Frazier's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"",
+							 "homeText":"Nick Ward defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Leron Black personal foul (Nick Ward draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Aaron Jordan, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Jaren Jackson Jr., Lourawls Nairn Jr., Miles Bridges, Gavin Schilling)"
+							 },
+							 {
+							 "score":"35-44",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling makes two point dunk (Joshua Langford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Jaren Jackson Jr. blocks Mark Alstork's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Fighting Illini turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Aaron Jordan, Te'Jon Lucas)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Greg Eboigbodin personal foul (Gavin Schilling draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"Kipper Nichols personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"Aaron Jordan shooting foul (Joshua Langford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Spartans rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Leron Black, Te'Jon Lucas, Greg Eboigbodin, Aaron Jordan)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-45",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Te'Jon Lucas misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford defensive rebound"
+							 },
+							 {
+							 "score":"35-47",
+							 "time":"16:05",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. makes two point layup (Joshua Langford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Greg Eboigbodin, Leron Black, Mark Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"Leron Black misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-47",
+							 "time":"15:31",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-50",
+							 "time":"15:19",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes three point jump shot (Miles Bridges assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Matt McQuaid, Lourawls Nairn Jr., Kenny Goins, Gavin Schilling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:20",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Kipper Nichols, Leron Black, Mark Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid personal foul (Mark Smith draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"Kipper Nichols misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-50",
+							 "time":"13:49",
+							 "visitorText":"Te'Jon Lucas makes two point layup (Leron Black assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling offensive rebound"
+							 },
+							 {
+							 "score":"38-52",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling makes two point tip shot"
+							 },
+							 {
+							 "score":"40-52",
+							 "time":"13:10",
+							 "visitorText":"Leron Black makes two point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:07",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"",
+							 "homeText":"Gavin Schilling offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Spartans 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Nick Ward, Lourawls Nairn Jr., Matt McQuaid, Kenny Goins, Miles Bridges)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Aaron Jordan, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Da'Monte Williams personal foul (Miles Bridges draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-53",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"40-54",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Nick Ward shooting foul (Greg Eboigbodin draws the foul)"
+							 },
+							 {
+							 "score":"41-54",
+							 "time":"11:21",
+							 "visitorText":"Greg Eboigbodin makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Greg Eboigbodin, Da'Monte Williams, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"Greg Eboigbodin misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"Greg Eboigbodin turnover (bad pass) (Kenny Goins steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Trent Frazier turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Te'Jon Lucas, Leron Black, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Cassius Winston, Matt McQuaid, Miles Bridges, Kenny Goins, Xavier Tillman)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"Mark Alstork offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid defensive rebound"
+							 },
+							 {
+							 "score":"41-56",
+							 "time":"9:08",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins makes two point alley-oop dunk (Cassius Winston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:52",
+							 "visitorText":"Matt McQuaid blocks Trent Frazier's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:50",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-56",
+							 "time":"8:47",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-58",
+							 "time":"8:42",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman makes two point dunk (Cassius Winston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges defensive rebound"
+							 },
+							 {
+							 "score":"43-61",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins makes three point jump shot (Cassius Winston assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Cassius Winston, Jaren Jackson Jr., Miles Bridges, Xavier Tillman, Joshua Langford)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:05",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Aaron Jordan, Te'Jon Lucas, Leron Black, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"Leron Black personal foul (Cassius Winston draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-62",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"43-63",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"45-63",
+							 "time":"7:11",
+							 "visitorText":"Leron Black makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:05",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. turnover (bad pass) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"",
+							 "homeText":"Jaren Jackson Jr. personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"46-63",
+							 "time":"7:01",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Joshua Langford, Kenny Goins, Cassius Winston, Miles Bridges, Xavier Tillman)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:01",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Leron Black, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-63",
+							 "time":"7:01",
+							 "visitorText":"Trent Frazier makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:42",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman offensive rebound"
+							 },
+							 {
+							 "score":"47-66",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes three point jump shot (Kenny Goins assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"48-66",
+							 "time":"6:09",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-66",
+							 "time":"6:09",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Leron Black, Mark Smith, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Matt McQuaid, Cassius Winston, Miles Bridges, Xavier Tillman, Kenny Goins)"
+							 },
+							 {
+							 "score":"49-69",
+							 "time":"5:52",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston makes three point jump shot"
+							 },
+							 {
+							 "score":"51-69",
+							 "time":"5:32",
+							 "visitorText":"Leron Black makes two point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-71",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman makes two point jump shot (Kenny Goins assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Mark Smith shooting foul (Xavier Tillman draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-72",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Fighting Illini lineup change (Kipper Nichols, Te'Jon Lucas, Leron Black, Mark Smith, Trent Frazier)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Lourawls Nairn Jr., Matt McQuaid, Miles Bridges, Xavier Tillman, Kenny Goins)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"52-72",
+							 "time":"5:07",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Greg Eboigbodin, Te'Jon Lucas, Leron Black, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-72",
+							 "time":"5:07",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-75",
+							 "time":"4:51",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes three point jump shot (Lourawls Nairn Jr. assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"",
+							 "homeText":"Kenny Goins shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"54-75",
+							 "time":"4:34",
+							 "visitorText":"Leron Black makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Te'Jon Lucas, Kipper Nichols, Leron Black, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-75",
+							 "time":"4:34",
+							 "visitorText":"Leron Black makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas blocks Lourawls Nairn Jr.'s three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:05",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"Kipper Nichols shooting foul (Miles Bridges draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Cassius Winston, Matt McQuaid, Miles Bridges, Gavin Schilling, Kenny Goins)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Spartans rebound (deadball)"
+							 },
+							 {
+							 "score":"55-76",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:24",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"Cassius Winston defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Mark Alstork shooting foul (Miles Bridges draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-77",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Lourawls Nairn Jr., Matt McQuaid, Miles Bridges, Ben Carter, Gavin Schilling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Kipper Nichols, Mark Smith, Leron Black, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-78",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Miles Bridges makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Lourawls Nairn Jr. shooting foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"56-78",
+							 "time":"3:01",
+							 "visitorText":"Trent Frazier makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Matic Vesel, Leron Black, Mark Smith, Mark Alstork)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Trent Frazier misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Ben Carter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Fighting Illini lineup change (Trent Frazier, Matic Vesel, Leron Black, Mark Smith, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Lourawls Nairn Jr., Ben Carter, Matt McQuaid, Miles Bridges, Joshua Langford)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:35",
+							 "visitorText":"",
+							 "homeText":"Ben Carter misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:33",
+							 "visitorText":"Da'Monte Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-78",
+							 "time":"2:11",
+							 "visitorText":"Trent Frazier makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-81",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford makes three point jump shot (Miles Bridges assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:13",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Joshua Langford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Spartans 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Conner George, Lourawls Nairn Jr., Ben Carter, Matt McQuaid, Gavin Schilling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"Fighting Illini lineup change (Samson Oladimeji, Greg Eboigbodin, Cameron Liss, Drew Cayce, Da'Monte Williams)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Greg Eboigbodin defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Matt McQuaid personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"59-81",
+							 "time":"00:38",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Lourawls Nairn Jr., Ben Carter, Matt McQuaid, Xavier Tillman, Conner George)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"Da'Monte Williams misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"Da'Monte Williams offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman personal foul (Da'Monte Williams draws the foul)"
+							 },
+							 {
+							 "score":"60-81",
+							 "time":"00:32",
+							 "visitorText":"Da'Monte Williams makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Lourawls Nairn Jr., Kenny Goins, Matt McQuaid, Xavier Tillman, Conner George)"
+							 },
+							 {
+							 "score":"61-81",
+							 "time":"00:32",
+							 "visitorText":"Da'Monte Williams makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Spartans lineup change (Cassius Winston, Matt McQuaid, Xavier Tillman, Kenny Goins, Conner George)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Conner George misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Xavier Tillman offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

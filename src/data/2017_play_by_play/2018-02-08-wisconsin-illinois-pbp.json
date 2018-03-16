@@ -1,0 +1,1885 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Illinois vs Wisconsin",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "499",
+				"seoName": "wisconsin",
+				"sixCharAbbr": "WISC",
+				"shortName": "Wisconsin",	
+				"nickName": "Badgers",		
+				"color": "#be0f34"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Nate Reuvers vs. Michael Finke (Ethan Happ gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:47",
+							 "visitorText":"Ethan Happ makes two point layup (Nate Reuvers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"4-0",
+							 "time":"19:11",
+							 "visitorText":"Ethan Happ makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:01",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Brad Davison defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:33",
+							 "visitorText":"Aleem Ford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:31",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"4-2",
+							 "time":"18:02",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"6-2",
+							 "time":"17:21",
+							 "visitorText":"Ethan Happ makes two point layup (Brad Davison assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-4",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Alex Illikainen shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-5",
+							 "time":"17:01",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:30",
+							 "visitorText":"Aleem Ford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:28",
+							 "visitorText":"Khalil Iverson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier shooting foul (Khalil Iverson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"Khalil Iverson misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"Badgers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-5",
+							 "time":"16:19",
+							 "visitorText":"Khalil Iverson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-7",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Brad Davison turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"Badgers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-7",
+							 "time":"14:57",
+							 "visitorText":"Aleem Ford makes three point jump shot (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-9",
+							 "time":"14:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:33",
+							 "visitorText":"Aleem Ford shooting foul (Mark Smith draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"14:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Khalil Iverson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Brad Davison offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-10",
+							 "time":"13:50",
+							 "visitorText":"Ethan Happ makes two point dunk (Khalil Iverson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:35",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"Ethan Happ turnover (Mark Smith steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"T.J. Schlundt blocks Mark Smith's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"Brad Davison personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-12",
+							 "time":"12:55",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point dunk (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:21",
+							 "visitorText":"Brad Davison misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"Brad Davison misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:42",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"Brad Davison defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Ethan Happ turnover (lost ball) (Kipper Nichols steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Ethan Happ blocks Mark Alstork's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"Ethan Happ personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Nate Reuvers shooting foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-13",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"12-14",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:16",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"14-14",
+							 "time":"10:12",
+							 "visitorText":"Ethan Happ makes two point layup (Brad Davison assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-14",
+							 "time":"9:23",
+							 "visitorText":"Brad Davison makes three point jump shot (Aleem Ford assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-17",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Michael Finke shooting foul (Brad Davison draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Brad Davison misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Badgers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-17",
+							 "time":"8:36",
+							 "visitorText":"Brad Davison makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-20",
+							 "time":"8:19",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes three point jump shot (Trent Frazier assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"Aleem Ford personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"T.J. Schlundt personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-21",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"18-22",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"20-22",
+							 "time":"7:51",
+							 "visitorText":"Ethan Happ makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-24",
+							 "time":"7:38",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-24",
+							 "time":"7:18",
+							 "visitorText":"Ethan Happ makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-24",
+							 "time":"7:18",
+							 "visitorText":"Ethan Happ makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (Brad Davison steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"Brad Davison misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"24-24",
+							 "time":"6:23",
+							 "visitorText":"Ethan Happ makes two point layup (Brad Davison assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Khalil Iverson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-24",
+							 "time":"5:30",
+							 "visitorText":"Nate Reuvers makes three point jump shot (Khalil Iverson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Brad Davison personal foul (Leron Black draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-25",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:17",
+							 "visitorText":"Aaron Moesch defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:50",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul (Brevin Pritzl draws the foul)"
+							 },
+							 {
+							 "score":"28-25",
+							 "time":"4:49",
+							 "visitorText":"Brevin Pritzl makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-25",
+							 "time":"4:49",
+							 "visitorText":"Brevin Pritzl makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"Khalil Iverson turnover (Greg Eboigbodin steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"",
+							 "homeText":"Brevin Pritzl blocks Mark Alstork's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Khalil Iverson shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-26",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-27",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:39",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:11",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-27",
+							 "time":"2:51",
+							 "visitorText":"Alex Illikainen makes three point jump shot (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin shooting foul (Khalil Iverson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Khalil Iverson misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Badgers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Khalil Iverson misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"Ethan Happ personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-28",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Leron Black personal foul"
+							 },
+							 {
+							 "score":"33-28",
+							 "time":"2:09",
+							 "visitorText":"Nate Reuvers makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-28",
+							 "time":"2:09",
+							 "visitorText":"Nate Reuvers makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"Khalil Iverson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Leron Black turnover (Brevin Pritzl steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Khalil Iverson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:54",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"34-30",
+							 "time":"00:52",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Alex Illikainen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Mark Smith personal foul (Aaron Moesch draws the foul)"
+							 },
+							 {
+							 "score":"35-30",
+							 "time":"00:33",
+							 "visitorText":"Aaron Moesch makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-30",
+							 "time":"00:33",
+							 "visitorText":"Aaron Moesch makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"36-33",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Kipper Nichols assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Brevin Pritzl misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Fighting Illini"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Nate Reuvers shooting foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini rebound (deadball)"
+							 },
+							 {
+							 "score":"36-34",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Ethan Happ defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:31",
+							 "visitorText":"Nate Reuvers misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:29",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"38-34",
+							 "time":"18:54",
+							 "visitorText":"Ethan Happ makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"18:45",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:12",
+							 "visitorText":"Ethan Happ turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-39",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Ethan Happ offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:35",
+							 "visitorText":"Ethan Happ offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:34",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:32",
+							 "visitorText":"",
+							 "homeText":"Michael Finke defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:12",
+							 "visitorText":"Aleem Ford turnover (Mark Alstork steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"Ethan Happ defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-39",
+							 "time":"16:53",
+							 "visitorText":"Brad Davison makes two point layup (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Alex Illikainen blocks Trent Frazier's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Alex Illikainen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Badgers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"Khalil Iverson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-39",
+							 "time":"15:58",
+							 "visitorText":"Ethan Happ makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"",
+							 "homeText":"Ethan Happ blocks Leron Black's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Ethan Happ blocks Leron Black's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover (Ethan Happ steals)"
+							 },
+							 {
+							 "score":"44-39",
+							 "time":"15:12",
+							 "visitorText":"Ethan Happ makes two point layup (Brevin Pritzl assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"Aleem Ford personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-41",
+							 "time":"14:40",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Alex Illikainen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"",
+							 "homeText":"Michael Finke turnover (Khalil Iverson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Khalil Iverson turnover (Trent Frazier steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-44",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Brad Davison misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier offensive foul (Brad Davison draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"47-44",
+							 "time":"12:53",
+							 "visitorText":"Brevin Pritzl makes three point jump shot (Brad Davison assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-46",
+							 "time":"12:39",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"49-46",
+							 "time":"12:24",
+							 "visitorText":"Nate Reuvers makes two point dunk (Brevin Pritzl assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-49",
+							 "time":"12:15",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-49",
+							 "time":"11:42",
+							 "visitorText":"Brad Davison makes two point layup (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:42",
+							 "visitorText":"",
+							 "homeText":"Mark Smith shooting foul (Brad Davison draws the foul)"
+							 },
+							 {
+							 "score":"52-49",
+							 "time":"11:42",
+							 "visitorText":"Brad Davison makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Khalil Iverson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-52",
+							 "time":"11:12",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"54-52",
+							 "time":"10:50",
+							 "visitorText":"Ethan Happ makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:20",
+							 "visitorText":"",
+							 "homeText":"Mark Smith misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:01",
+							 "visitorText":"Ethan Happ misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"Brevin Pritzl personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"Ethan Happ personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:20",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:18",
+							 "visitorText":"Aleem Ford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-52",
+							 "time":"8:58",
+							 "visitorText":"Nate Reuvers makes two point layup (Brad Davison assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan turnover (bad pass) (Brevin Pritzl steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas personal foul"
+							 },
+							 {
+							 "score":"58-52",
+							 "time":"8:28",
+							 "visitorText":"Khalil Iverson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Nate Reuvers personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:29",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams turnover (Ethan Happ steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:07",
+							 "visitorText":"Khalil Iverson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:54",
+							 "visitorText":"Andy Van Vliet personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:54",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:54",
+							 "visitorText":"Ethan Happ defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-52",
+							 "time":"6:28",
+							 "visitorText":"Ethan Happ makes two point layup (Nate Reuvers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"Nate Reuvers personal foul (Michael Finke draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Michael Finke misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Leron Black offensive rebound"
+							 },
+							 {
+							 "score":"60-54",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Leron Black makes two point layup"
+							 },
+							 {
+							 "score":"63-54",
+							 "time":"5:15",
+							 "visitorText":"Brad Davison makes three point jump shot (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Brevin Pritzl personal foul (Mark Alstork draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-55",
+							 "time":"4:59",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"63-56",
+							 "time":"4:59",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"66-56",
+							 "time":"4:49",
+							 "visitorText":"Brevin Pritzl makes three point jump shot (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Brevin Pritzl personal foul (Aaron Jordan draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-57",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"66-58",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"Aleem Ford misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"",
+							 "homeText":"Leron Black defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:47",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"Andy Van Vliet defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"Mark Alstork blocks Khalil Iverson's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Aleem Ford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Aleem Ford turnover (Te'Jon Lucas steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-61",
+							 "time":"3:24",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan makes three point jump shot (Te'Jon Lucas assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:14",
+							 "visitorText":"",
+							 "homeText":"Te'Jon Lucas shooting foul (Brad Davison draws the foul)"
+							 },
+							 {
+							 "score":"67-61",
+							 "time":"3:14",
+							 "visitorText":"Brad Davison makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-61",
+							 "time":"3:14",
+							 "visitorText":"Brad Davison makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-63",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"Khalil Iverson shooting foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-64",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"71-64",
+							 "time":"2:41",
+							 "visitorText":"Brevin Pritzl makes three point jump shot (Ethan Happ assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-67",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Fighting Illini 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"Aleem Ford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:36",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"Brevin Pritzl defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"Badgers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Brevin Pritzl draws the foul)"
+							 },
+							 {
+							 "score":"72-67",
+							 "time":"1:19",
+							 "visitorText":"Brevin Pritzl makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-67",
+							 "time":"1:19",
+							 "visitorText":"Brevin Pritzl makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier personal foul (Ethan Happ draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"Ethan Happ misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:10",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"Leron Black misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"Khalil Iverson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:47",
+							 "visitorText":"",
+							 "homeText":"Mark Alstork personal foul (Brevin Pritzl draws the foul)"
+							 },
+							 {
+							 "score":"74-67",
+							 "time":"00:47",
+							 "visitorText":"Brevin Pritzl makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-67",
+							 "time":"00:47",
+							 "visitorText":"Brevin Pritzl makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"Aleem Ford personal foul (Trent Frazier draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-68",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"75-69",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin personal foul (Aleem Ford draws the foul)"
+							 },
+							 {
+							 "score":"76-69",
+							 "time":"00:37",
+							 "visitorText":"Aleem Ford makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-69",
+							 "time":"00:37",
+							 "visitorText":"Aleem Ford makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Ethan Happ defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Michael Finke personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Ethan Happ misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"Badgers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"78-69",
+							 "time":"00:23",
+							 "visitorText":"Ethan Happ makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:18",
+							 "visitorText":"",
+							 "homeText":"Trent Frazier misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"Aleem Ford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

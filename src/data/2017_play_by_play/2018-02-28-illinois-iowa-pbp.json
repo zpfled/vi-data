@@ -1,0 +1,2035 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Iowa vs Illinois",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2478",
+				"seoName": "iowa",
+				"sixCharAbbr": "IOWA",
+				"shortName": "Iowa",	
+				"nickName": "Hawkeyes",		
+				"color": "#141414"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "757",
+				"seoName": "illinois",
+				"sixCharAbbr": "ILL",
+				"shortName": "Illinois",	
+				"nickName": "Fighting Illini",		
+				"color": "#e0322a"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kipper Nichols vs. Tyler Cook (Luka Garza gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:50",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point layup (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover (bad pass) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"Leron Black offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:30",
+							 "visitorText":"Mark Alstork misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss offensive foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss turnover"
+							 },
+							 {
+							 "score":"3-2",
+							 "time":"17:51",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-4",
+							 "time":"17:41",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook offensive foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover"
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"17:00",
+							 "visitorText":"Trent Frazier makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams blocks Jack Nunge's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"Leron Black shooting foul (Jack Nunge draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"5-6",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:33",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:31",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Da'Monte Williams blocks Tyler Cook's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"Trent Frazier turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon turnover (bad pass) (Mark Alstork steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:09",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Michael Finke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl defensive rebound"
+							 },
+							 {
+							 "score":"5-9",
+							 "time":"14:25",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes three point jump shot (Tyler Cook assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:04",
+							 "visitorText":"Kipper Nichols turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-12",
+							 "time":"13:48",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey makes three point jump shot (Nicholas Baer assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"Leron Black turnover (bad pass) (Maishe Dailey steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-14",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl makes two point jump shot (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"Michael Finke shooting foul (Cordell Pemsl draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-15",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"Te'Jon Lucas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"Mark Smith personal foul (Nicholas Baer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:45",
+							 "visitorText":"Mark Smith personal foul (Cordell Pemsl draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-17",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point dunk (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer personal foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"8-17",
+							 "time":"12:01",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey personal foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"Leron Black misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner defensive rebound"
+							 },
+							 {
+							 "score":"8-20",
+							 "time":"10:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes three point jump shot (Ahmad Wagner assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:27",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"Kipper Nichols turnover (bad pass) (Cordell Pemsl steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon turnover (lost ball) (Leron Black steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:35",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl personal foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"9-20",
+							 "time":"9:35",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-20",
+							 "time":"9:35",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:26",
+							 "visitorText":"Leron Black personal foul (Ryan Kriener draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"12-20",
+							 "time":"8:42",
+							 "visitorText":"Michael Finke makes two point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Mark Alstork personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner offensive rebound"
+							 },
+							 {
+							 "score":"12-22",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:14",
+							 "visitorText":"Trent Frazier turnover (lost ball) (Ryan Kriener steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"Trent Frazier shooting foul (Ryan Kriener draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"",
+							 "homeText":"Ryan Kriener misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"12-23",
+							 "time":"8:11",
+							 "visitorText":"",
+							 "homeText":"Ryan Kriener makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"14-23",
+							 "time":"8:03",
+							 "visitorText":"Kipper Nichols makes two point layup (Aaron Jordan assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"15-23",
+							 "time":"8:03",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Te'Jon Lucas personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:45",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Trent Frazier misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Michael Finke personal foul (Ahmad Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Aaron Jordan defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-23",
+							 "time":"6:56",
+							 "visitorText":"Aaron Jordan makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"Trent Frazier personal foul (Ahmad Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"18-24",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"Kipper Nichols turnover (bad pass) (Nicholas Baer steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"Kipper Nichols misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:55",
+							 "visitorText":"Aaron Jordan offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-24",
+							 "time":"5:50",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Luka Garza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:35",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook offensive rebound"
+							 },
+							 {
+							 "score":"21-26",
+							 "time":"5:35",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Maishe Dailey blocks Greg Eboigbodin's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"",
+							 "homeText":"Greg Eboigbodin blocks Tyler Cook's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Kipper Nichols defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Aaron Jordan turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Kipper Nichols shooting foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-27",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"21-28",
+							 "time":"4:36",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"",
+							 "homeText":"Luka Garza personal foul (Michael Finke draws the foul)"
+							 },
+							 {
+							 "score":"22-28",
+							 "time":"4:17",
+							 "visitorText":"Michael Finke makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-28",
+							 "time":"4:17",
+							 "visitorText":"Michael Finke makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:05",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:25",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:23",
+							 "visitorText":"Te'Jon Lucas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-28",
+							 "time":"2:53",
+							 "visitorText":"Te'Jon Lucas makes three point jump shot (Mark Smith assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-30",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point jump shot (Nicholas Baer assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Aaron Jordan misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"26-32",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey makes two point jump shot"
+							 },
+							 {
+							 "score":"29-32",
+							 "time":"1:35",
+							 "visitorText":"Mark Smith makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-35",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes three point jump shot (Maishe Dailey assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"Greg Eboigbodin offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-35",
+							 "time":"00:50",
+							 "visitorText":"Greg Eboigbodin makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Nicholas Baer blocks Kipper Nichols's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Fighting Illini",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"Kipper Nichols turnover (bad pass) (Jordan Bohannon steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"Kipper Nichols shooting foul (Jack Nunge draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"31-36",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"33-36",
+							 "time":"19:11",
+							 "visitorText":"Leron Black makes two point jump shot (Mark Alstork assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"Leron Black personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-38",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point dunk (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"36-38",
+							 "time":"18:30",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"Isaiah Moss blocks Kipper Nichols's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"36-41",
+							 "time":"18:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes offensive rebound"
+							 },
+							 {
+							 "score":"36-43",
+							 "time":"17:35",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge makes two point jump shot (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"Kipper Nichols offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-43",
+							 "time":"17:18",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-45",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point layup"
+							 },
+							 {
+							 "score":"40-45",
+							 "time":"16:54",
+							 "visitorText":"Michael Finke makes two point dunk (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"Te'Jon Lucas personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-47",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"Michael Finke shooting foul (Luka Garza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-48",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Trent Frazier misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:33",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Kipper Nichols shooting foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Brad Underwood technical foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-49",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes technical free throw 1 of 2"
+							 },
+							 {
+							 "score":"40-50",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes technical free throw 2 of 2"
+							 },
+							 {
+							 "score":"40-51",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"40-52",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Leron Black misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover"
+							 },
+							 {
+							 "score":"42-52",
+							 "time":"15:50",
+							 "visitorText":"Kipper Nichols makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Jack Nunge turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"44-52",
+							 "time":"15:27",
+							 "visitorText":"Te'Jon Lucas makes two point layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Aaron Jordan blocks Jordan Bohannon's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"",
+							 "homeText":"Jump ball.  (Hawkeyes gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-54",
+							 "time":"14:57",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point jump shot (Maishe Dailey assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Kipper Nichols misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"44-57",
+							 "time":"14:22",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer makes three point jump shot (Maishe Dailey assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon personal foul (Aaron Jordan draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-57",
+							 "time":"13:38",
+							 "visitorText":"Leron Black makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey shooting foul (Leron Black draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Leron Black misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Luka Garza offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Luka Garza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Leron Black defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-57",
+							 "time":"12:54",
+							 "visitorText":"Michael Finke makes two point dunk (Da'Monte Williams assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"Leron Black personal foul (Isaiah Moss draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-58",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"48-59",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"51-59",
+							 "time":"12:32",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey turnover (lost ball) (Trent Frazier steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Maishe Dailey personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"54-59",
+							 "time":"12:05",
+							 "visitorText":"Michael Finke makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"Trent Frazier shooting foul (Cordell Pemsl draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-60",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"54-61",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Cordell Pemsl makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"Trent Frazier offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-61",
+							 "time":"11:25",
+							 "visitorText":"Kipper Nichols makes two point jump shot (Michael Finke assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:11",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"",
+							 "homeText":"Ryan Kriener misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"Mark Smith defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-61",
+							 "time":"10:51",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:35",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss offensive rebound"
+							 },
+							 {
+							 "score":"59-63",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Ryan Kriener shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"60-63",
+							 "time":"10:13",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-63",
+							 "time":"10:13",
+							 "visitorText":"Kipper Nichols makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-65",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"Kipper Nichols shooting foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Ahmad Wagner offensive rebound"
+							 },
+							 {
+							 "score":"61-68",
+							 "time":"9:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes three point jump shot (Ahmad Wagner assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"Mark Smith misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:25",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"61-70",
+							 "time":"9:05",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point layup (Isaiah Moss assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:57",
+							 "visitorText":"",
+							 "homeText":"Luka Garza personal foul (Trent Frazier draws the foul)"
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"8:48",
+							 "visitorText":"Te'Jon Lucas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:30",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook offensive rebound"
+							 },
+							 {
+							 "score":"63-72",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"Greg Eboigbodin shooting foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-73",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"66-73",
+							 "time":"8:04",
+							 "visitorText":"Mark Smith makes three point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Greg Eboigbodin personal foul (Ahmad Wagner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-74",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"66-75",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"68-75",
+							 "time":"7:33",
+							 "visitorText":"Trent Frazier makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:05",
+							 "visitorText":"Fighting Illini defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-75",
+							 "time":"6:54",
+							 "visitorText":"Michael Finke makes two point jump shot (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-77",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point layup (Isaiah Moss assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"70-80",
+							 "time":"5:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes three point jump shot (Tyler Cook assists)"
+							 },
+							 {
+							 "score":"73-80",
+							 "time":"5:34",
+							 "visitorText":"Trent Frazier makes three point jump shot (Kipper Nichols assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"Mark Smith personal foul (Luka Garza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-81",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"73-82",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:44",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Greg Eboigbodin shooting foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-83",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"73-84",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"Leron Black misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:37",
+							 "visitorText":"Mark Smith misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Michael Finke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-84",
+							 "time":"3:03",
+							 "visitorText":"Te'Jon Lucas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"Te'Jon Lucas personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-85",
+							 "time":"2:39",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"75-86",
+							 "time":"2:39",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:20",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"Te'Jon Lucas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss personal foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"Trent Frazier defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-86",
+							 "time":"1:47",
+							 "visitorText":"Te'Jon Lucas makes two point layup (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"Fighting Illini 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"Trent Frazier personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-87",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"77-88",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"80-88",
+							 "time":"1:32",
+							 "visitorText":"Kipper Nichols makes three point jump shot (Trent Frazier assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook turnover (bad pass) (Te'Jon Lucas steals)"
+							 },
+							 {
+							 "score":"82-88",
+							 "time":"1:25",
+							 "visitorText":"Kipper Nichols makes two point layup (Te'Jon Lucas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Luka Garza shooting foul (Kipper Nichols draws the foul)"
+							 },
+							 {
+							 "score":"83-88",
+							 "time":"1:25",
+							 "visitorText":"Kipper Nichols makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Te'Jon Lucas personal foul (Nicholas Baer draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"83-89",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"83-90",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Luka Garza shooting foul (Te'Jon Lucas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Te'Jon Lucas misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Fighting Illini rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"84-90",
+							 "time":"1:09",
+							 "visitorText":"Te'Jon Lucas makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Da'Monte Williams personal foul (Tyler Cook draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Tyler Cook misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Luka Garza offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:54",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"Te'Jon Lucas misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"84-92",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Luka Garza makes two point dunk (Jordan Bohannon assists)"
+							 },
+							 {
+							 "score":"87-92",
+							 "time":"00:30",
+							 "visitorText":"Trent Frazier makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"Fighting Illini 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Da'Monte Williams personal foul (Isaiah Moss draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"87-93",
+							 "time":"00:22",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"87-94",
+							 "time":"00:22",
+							 "visitorText":"",
+							 "homeText":"Isaiah Moss makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Michael Finke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Hawkeyes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"",
+							 "homeText":"Nicholas Baer turnover (bad pass) (Greg Eboigbodin steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"Trent Frazier misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Luka Garza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Trent Frazier personal foul (Jordan Bohannon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"87-95",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"87-96",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Jordan Bohannon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Kipper Nichols misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Fighting Illini offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});
